@@ -1,0 +1,1226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg width="auto" height="12670" style="overflow:visible " version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <rect x="20" y="20" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="30" y="30" font-size="10" style="fill:blue">articulos</text>
+    <rect x="240" y="20" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="250" y="30" font-size="10" style="fill:blue">articulo</text>
+    <path d="M220 40 C240 40 220 40 240 40" style="fill:transparent;stroke:black"/>
+    <rect x="460" y="20" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="30" font-size="10" style="fill:blue">titulo</text>
+    <path d="M440 40 C460 40 440 40 460 40" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="20" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="30" font-size="8" style="fill:white">
+        Midgar: Detection of people through computer vision in the Internet of Things scenarios to improve the
+        security in Smart Cities, Smart Towns, and Smart Homes.
+    </text>
+    <rect x="460" y="70" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="80" font-size="10" style="fill:blue">autores</text>
+    <path d="M440 40 C460 40 440 90 460 90" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="70" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="80" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 90 C680 90 660 90 680 90" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="70" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="80" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 90 C900 90 880 90 900 90" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="70" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="80" font-size="8" style="fill:white">Cristian González García</text>
+    <rect x="900" y="120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="130" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 90 C900 90 880 140 900 140" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="130" font-size="8" style="fill:white">gonzalezgarciacristian@hotmail.com</text>
+    <rect x="680" y="220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="230" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 90 C680 90 660 240 680 240" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="230" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 240 C900 240 880 240 900 240" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="230" font-size="8" style="fill:white">Daniel Meana-Llorián</text>
+    <rect x="900" y="270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="280" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 240 C900 240 880 290 900 290" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="280" font-size="8" style="fill:white">danielmeanallorian@gmail.com</text>
+    <rect x="680" y="370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="380" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 90 C680 90 660 390 680 390" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="380" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 390 C900 390 880 390 900 390" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="380" font-size="8" style="fill:white">B. Cristina Pelayo García-Bustelo</text>
+    <rect x="900" y="420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="430" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 390 C900 390 880 440 900 440" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="430" font-size="8" style="fill:white">crispelayo@uniovi.es</text>
+    <rect x="680" y="520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="530" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 90 C680 90 660 540 680 540" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="530" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 540 C900 540 880 540 900 540" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="520" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="530" font-size="8" style="fill:white">Juan Manuel Cueva Lovelle</text>
+    <rect x="900" y="570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="580" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 540 C900 540 880 590 900 590" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="580" font-size="8" style="fill:white">cueva@uniovi.es</text>
+    <rect x="680" y="670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="680" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 90 C680 90 660 690 680 690" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="680" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 690 C900 690 880 690 900 690" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="680" font-size="8" style="fill:white">Néstor García-Fernández</text>
+    <rect x="900" y="720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="730" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 690 C900 690 880 740 900 740" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="720" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="730" font-size="8" style="fill:white">nestor@uniovi.es</text>
+    <rect x="460" y="870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="880" font-size="10" style="fill:blue">resumen</text>
+    <path d="M440 40 C460 40 440 890 460 890" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="880" font-size="8" style="fill:white">Could we use Computer Vision in the Internet of Things for
+        using pictures as sensors? This is the
+        principal hypothesis that we want to resolve. Currently, in order to create safety areas, cities, or homes,
+        people use IP cameras. Nevertheless, this system needs people who watch the camera images, watch the
+        recording after something occurred, or watch when the camera notifies them of any movement. These are the
+        disadvantages. Furthermore, there are many Smart Cities and Smart Homes around the world. This is why we
+        thought of using the idea of the Internet of Things to add a way of automating the use of IP cameras. In our
+        case, we propose the analysis of pictures through Computer Vision to detect people in the analysed pictures.
+        With this analysis, we are able to obtain if these pictures contain people and handle the pictures as if
+        they were sensors with two possible states. Notwithstanding, Computer Vision is a very complicated field.
+        This is why we needed a second hypothesis: Could we work with Computer Vision in the Internet of Things with
+        a good accuracy to automate or semi-automate this kind of events? The demonstration of these hypotheses
+        required a testing over our Computer Vision module to check the possibilities that we have to use this
+        module in a possible real environment with a good accuracy. Our proposal, as a possible solution, is the
+        analysis of entire sequence instead of isolated pictures for using pictures as sensors in the Internet of
+        Things.
+    </text>
+    <rect x="460" y="920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="930" font-size="10" style="fill:blue">claves</text>
+    <path d="M440 40 C460 40 440 940 460 940" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="930" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 940 C680 940 660 940 680 940" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="920" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="930" font-size="8" style="fill:white">Smart Cities</text>
+    <rect x="680" y="970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="980" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 940 C680 940 660 990 680 990" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="980" font-size="8" style="fill:white">Smart Towns</text>
+    <rect x="680" y="1020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="1030" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 940 C680 940 660 1040 680 1040" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="1020" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="1030" font-size="8" style="fill:white">Smart Homes</text>
+    <rect x="680" y="1070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="1080" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 940 C680 940 660 1090 680 1090" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="1070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="1080" font-size="8" style="fill:white">Internet of Things</text>
+    <rect x="680" y="1120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="1130" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 940 C680 940 660 1140 680 1140" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="1120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="1130" font-size="8" style="fill:white">Smart Objects</text>
+    <rect x="680" y="1170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="1180" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 940 C680 940 660 1190 680 1190" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="1170" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="1180" font-size="8" style="fill:white">Computer Vision</text>
+    <rect x="680" y="1220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="1230" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 940 C680 940 660 1240 680 1240" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="1220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="1230" font-size="8" style="fill:white">Surveillance</text>
+    <rect x="680" y="1270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="1280" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 940 C680 940 660 1290 680 1290" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="1270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="1280" font-size="8" style="fill:white">Security</text>
+    <rect x="460" y="1370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="1380" font-size="10" style="fill:blue">revista</text>
+    <path d="M440 40 C460 40 440 1390 460 1390" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="1370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="1380" font-size="8" style="fill:white">Future Generation Comp. Syst</text>
+    <rect x="460" y="1420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="1430" font-size="10" style="fill:blue">enumeracionRevista</text>
+    <path d="M440 40 C460 40 440 1440 460 1440" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="1420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="1430" font-size="10" style="fill:blue">volumenRevista</text>
+    <path d="M660 1440 C680 1440 660 1440 680 1440" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="1420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="1430" font-size="8" style="fill:white">76</text>
+    <rect x="460" y="1520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="1530" font-size="10" style="fill:blue">paginaInicio</text>
+    <path d="M440 40 C460 40 440 1540 460 1540" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="1520" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="1530" font-size="8" style="fill:white">275</text>
+    <rect x="460" y="1570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="1580" font-size="10" style="fill:blue">paginaFinal</text>
+    <path d="M440 40 C460 40 440 1590 460 1590" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="1570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="1580" font-size="8" style="fill:white">284</text>
+    <rect x="460" y="1620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="1630" font-size="10" style="fill:blue">año</text>
+    <path d="M440 40 C460 40 440 1640 460 1640" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="1620" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="1630" font-size="8" style="fill:white">2017</text>
+    <rect x="240" y="1720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="250" y="1730" font-size="10" style="fill:blue">articulo</text>
+    <path d="M220 40 C240 40 220 1740 240 1740" style="fill:transparent;stroke:black"/>
+    <rect x="460" y="1720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="1730" font-size="10" style="fill:blue">titulo</text>
+    <path d="M440 1740 C460 1740 440 1740 460 1740" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="1720" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="1730" font-size="8" style="fill:white">A review about Smart Objects, Sensors, and Actuators.</text>
+    <rect x="460" y="1770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="1780" font-size="10" style="fill:blue">autores</text>
+    <path d="M440 1740 C460 1740 440 1790 460 1790" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="1770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="1780" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 1790 C680 1790 660 1790 680 1790" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="1770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="1780" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 1790 C900 1790 880 1790 900 1790" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="1770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="1780" font-size="8" style="fill:white">Cristian González García</text>
+    <rect x="900" y="1820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="1830" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 1790 C900 1790 880 1840 900 1840" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="1820" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="1830" font-size="8" style="fill:white">gonzalezgarciacristian@hotmail.com</text>
+    <rect x="680" y="1920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="1930" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 1790 C680 1790 660 1940 680 1940" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="1920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="1930" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 1940 C900 1940 880 1940 900 1940" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="1920" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="1930" font-size="8" style="fill:white">Daniel Meana-Llorián</text>
+    <rect x="900" y="1970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="1980" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 1940 C900 1940 880 1990 900 1990" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="1970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="1980" font-size="8" style="fill:white">danielmeanallorian@gmail.com</text>
+    <rect x="680" y="2070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="2080" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 1790 C680 1790 660 2090 680 2090" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="2070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="2080" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 2090 C900 2090 880 2090 900 2090" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="2070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="2080" font-size="8" style="fill:white">B. Cristina Pelayo García-Bustelo</text>
+    <rect x="900" y="2120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="2130" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 2090 C900 2090 880 2140 900 2140" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="2120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="2130" font-size="8" style="fill:white">crispelayo@uniovi.es</text>
+    <rect x="680" y="2220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="2230" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 1790 C680 1790 660 2240 680 2240" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="2220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="2230" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 2240 C900 2240 880 2240 900 2240" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="2220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="2230" font-size="8" style="fill:white">Juan Manuel Cueva Lovelle</text>
+    <rect x="900" y="2270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="2280" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 2240 C900 2240 880 2290 900 2290" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="2270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="2280" font-size="8" style="fill:white">cueva@uniovi.es</text>
+    <rect x="680" y="2370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="2380" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 1790 C680 1790 660 2390 680 2390" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="2370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="2380" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 2390 C900 2390 880 2390 900 2390" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="2370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="2380" font-size="8" style="fill:white">Néstor García-Fernández</text>
+    <rect x="900" y="2420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="2430" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 2390 C900 2390 880 2440 900 2440" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="2420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="2430" font-size="8" style="fill:white">nestor@uniovi.es</text>
+    <rect x="460" y="2570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="2580" font-size="10" style="fill:blue">resumen</text>
+    <path d="M440 1740 C460 1740 440 2590 460 2590" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="2570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="2580" font-size="8" style="fill:white">Smart Objects and the Internet of Things are two ideas which
+        describe the future, walk together, and
+        complement each other. Thus, the interconnection among objects can make them more intelligent or expand
+        their intelligence to unsuspected limits. This could be achieved with a new network that interconnects each
+        object around the world. However, to achieve this goal, the objects need a network that supports
+        heterogeneous and ubiquitous objects, a network where exists more traffic among objects than among humans,
+        but supporting for both types. For these reasons, both concepts are very close. Cities, houses, cars,
+        machines, or any another object that can sense, respond, work, or make easier the lives of their owner. This
+        is a part of the future, an immediate future. Notwithstanding, first of all, there are to resolve a series
+        of problems. The most important problem is the heterogeneity of objects. This article is going to show a
+        theoretical frame and the related work about Smart Object. The article will explain what are Smart Objects,
+        doing emphasis in their difference with Not- Smart Objects. After, we will present one of the different
+        object classification system, in our opinion, the most complete.
+    </text>
+    <rect x="460" y="2620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="2630" font-size="10" style="fill:blue">claves</text>
+    <path d="M440 1740 C460 1740 440 2640 460 2640" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="2620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="2630" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 2640 C680 2640 660 2640 680 2640" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="2620" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="2630" font-size="8" style="fill:white">Actuator</text>
+    <rect x="680" y="2670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="2680" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 2640 C680 2640 660 2690 680 2690" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="2670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="2680" font-size="8" style="fill:white">Internet of things</text>
+    <rect x="680" y="2720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="2730" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 2640 C680 2640 660 2740 680 2740" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="2720" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="2730" font-size="8" style="fill:white">Sensor</text>
+    <rect x="680" y="2770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="2780" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 2640 C680 2640 660 2790 680 2790" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="2770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="2780" font-size="8" style="fill:white">SmartCities</text>
+    <rect x="460" y="2870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="2880" font-size="10" style="fill:blue">revista</text>
+    <path d="M440 1740 C460 1740 440 2890 460 2890" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="2870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="2880" font-size="8" style="fill:white">IJIMAI</text>
+    <rect x="460" y="2920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="2930" font-size="10" style="fill:blue">enumeracionRevista</text>
+    <path d="M440 1740 C460 1740 440 2940 460 2940" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="2920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="2930" font-size="10" style="fill:blue">numeroRevista</text>
+    <path d="M660 2940 C680 2940 660 2940 680 2940" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="2920" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="2930" font-size="8" style="fill:white">4</text>
+    <rect x="460" y="3020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="3030" font-size="10" style="fill:blue">paginaInicio</text>
+    <path d="M440 1740 C460 1740 440 3040 460 3040" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="3020" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="3030" font-size="8" style="fill:white">7</text>
+    <rect x="460" y="3070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="3080" font-size="10" style="fill:blue">paginaFinal</text>
+    <path d="M440 1740 C460 1740 440 3090 460 3090" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="3070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="3080" font-size="8" style="fill:white">10</text>
+    <rect x="460" y="3120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="3130" font-size="10" style="fill:blue">año</text>
+    <path d="M440 1740 C460 1740 440 3140 460 3140" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="3120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="3130" font-size="8" style="fill:white">2017</text>
+    <rect x="240" y="3220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="250" y="3230" font-size="10" style="fill:blue">articulo</text>
+    <path d="M220 40 C240 40 220 3240 240 3240" style="fill:transparent;stroke:black"/>
+    <rect x="460" y="3220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="3230" font-size="10" style="fill:blue">titulo</text>
+    <path d="M440 3240 C460 3240 440 3240 460 3240" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="3220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="3230" font-size="8" style="fill:white">SenseQ: Replying questions of Social Networks users by using
+        a Wireless Sensor Network based on sensor
+        relationships
+    </text>
+    <rect x="460" y="3270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="3280" font-size="10" style="fill:blue">autores</text>
+    <path d="M440 3240 C460 3240 440 3290 460 3290" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="3270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="3280" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 3290 C680 3290 660 3290 680 3290" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="3270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3280" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 3290 C900 3290 880 3290 900 3290" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3280" font-size="8" style="fill:white">Cristian González García</text>
+    <rect x="900" y="3320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3330" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 3290 C900 3290 880 3340 900 3340" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3320" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3330" font-size="8" style="fill:white">gonzalezgarciacristian@hotmail.com</text>
+    <rect x="680" y="3420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="3430" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 3290 C680 3290 660 3440 680 3440" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="3420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3430" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 3440 C900 3440 880 3440 900 3440" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3430" font-size="8" style="fill:white">Daniel Meana-Llorián</text>
+    <rect x="900" y="3470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3480" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 3440 C900 3440 880 3490 900 3490" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3480" font-size="8" style="fill:white">danielmeanallorian@gmail.com</text>
+    <rect x="680" y="3570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="3580" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 3290 C680 3290 660 3590 680 3590" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="3570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3580" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 3590 C900 3590 880 3590 900 3590" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3580" font-size="8" style="fill:white">B. Cristina Pelayo García-Bustelo</text>
+    <rect x="900" y="3620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3630" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 3590 C900 3590 880 3640 900 3640" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3620" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3630" font-size="8" style="fill:white">crispelayo@uniovi.es</text>
+    <rect x="680" y="3720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="3730" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 3290 C680 3290 660 3740 680 3740" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="3720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3730" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 3740 C900 3740 880 3740 900 3740" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3720" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3730" font-size="8" style="fill:white">Vicente García Díaz</text>
+    <rect x="900" y="3770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3780" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 3740 C900 3740 880 3790 900 3790" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3780" font-size="8" style="fill:white">garciavicente@uniovi.es</text>
+    <rect x="680" y="3870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="3880" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 3290 C680 3290 660 3890 680 3890" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="3870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3880" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 3890 C900 3890 880 3890 900 3890" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3880" font-size="8" style="fill:white">Néstor García-Fernández</text>
+    <rect x="900" y="3920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3930" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 3890 C900 3890 880 3940 900 3940" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3920" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3930" font-size="8" style="fill:white">nestor@uniovi.es</text>
+    <rect x="460" y="4070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="4080" font-size="10" style="fill:blue">resumen</text>
+    <path d="M440 3240 C460 3240 440 4090 460 4090" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="4070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="4080" font-size="8" style="fill:white">Social Networks are a way of establishing communications
+        with friends or family and a way of knowing
+        what happens around us. However, there are not machines that provide users with information about their
+        worries. What happens if a user wants to know if it is raining in a specific place at that moment? He needs
+        to ask a person who is in that place at that moment. Why not take advantage of the Internet of Things to
+        collect information in real time and answer users questions? The Internet of Things is a field that tries to
+        measure everything by gathering data from sensors and interconnect different objects. Why not combine Social
+        Networks and the Internet of Things? In this paper, we propose the development of a new system that will
+        allow users to ask for information to a network of sensors through Social Networks, concretely in this case
+        through Twitter. The system will have sensors registered by different users and this system that will be
+        used to answer questions of other users. The system will be able to collect information of users sensors,
+        process it, and use it to answer users questions through Social Networks. In order to gather the data from
+        sensors and combine them, we propose three dierent types of relationships between sensors: neighboring
+        relationship, familiar relationship and working relationship. Besides, we propose an architecture based on
+        three layers: social layer, backend layer and object layer.
+    </text>
+    <rect x="460" y="4120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="4130" font-size="10" style="fill:blue">claves</text>
+    <path d="M440 3240 C460 3240 440 4140 460 4140" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="4120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4130" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 4140 C680 4140 660 4140 680 4140" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4130" font-size="8" style="fill:white">Social Networks</text>
+    <rect x="680" y="4170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4180" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 4140 C680 4140 660 4190 680 4190" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4170" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4180" font-size="8" style="fill:white">Sensors</text>
+    <rect x="680" y="4220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4230" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 4140 C680 4140 660 4240 680 4240" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4230" font-size="8" style="fill:white">The Internet of Things</text>
+    <rect x="680" y="4270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4280" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 4140 C680 4140 660 4290 680 4290" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4280" font-size="8" style="fill:white">Twitter</text>
+    <rect x="680" y="4320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4330" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 4140 C680 4140 660 4340 680 4340" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4320" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4330" font-size="8" style="fill:white">WSN</text>
+    <rect x="460" y="4420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="4430" font-size="10" style="fill:blue">revista</text>
+    <path d="M440 3240 C460 3240 440 4440 460 4440" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="4420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="4430" font-size="8" style="fill:white">ACM</text>
+    <rect x="460" y="4470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="4480" font-size="10" style="fill:blue">enumeracionRevista</text>
+    <path d="M440 3240 C460 3240 440 4490 460 4490" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="4470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4480" font-size="10" style="fill:blue">numeroRevista</text>
+    <path d="M660 4490 C680 4490 660 4490 680 4490" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4480" font-size="8" style="fill:white">2016/8/15</text>
+    <rect x="460" y="4570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="4580" font-size="10" style="fill:blue">paginaInicio</text>
+    <path d="M440 3240 C460 3240 440 4590 460 4590" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="4570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="4580" font-size="8" style="fill:white">1</text>
+    <rect x="460" y="4620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="4630" font-size="10" style="fill:blue">paginaFinal</text>
+    <path d="M440 3240 C460 3240 440 4640 460 4640" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="4620" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="4630" font-size="8" style="fill:white">23</text>
+    <rect x="460" y="4670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="4680" font-size="10" style="fill:blue">año</text>
+    <path d="M440 3240 C460 3240 440 4690 460 4690" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="4670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="4680" font-size="8" style="fill:white">2016</text>
+    <rect x="240" y="4770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="250" y="4780" font-size="10" style="fill:blue">articulo</text>
+    <path d="M220 40 C240 40 220 4790 240 4790" style="fill:transparent;stroke:black"/>
+    <rect x="460" y="4770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="4780" font-size="10" style="fill:blue">titulo</text>
+    <path d="M440 4790 C460 4790 440 4790 460 4790" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="4770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="4780" font-size="8" style="fill:white">Swift vs. Objective-C: A New Programming Language</text>
+    <rect x="460" y="4820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="4830" font-size="10" style="fill:blue">autores</text>
+    <path d="M440 4790 C460 4790 440 4840 460 4840" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="4820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4830" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 4840 C680 4840 660 4840 680 4840" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="4820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="4830" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 4840 C900 4840 880 4840 900 4840" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="4820" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="4830" font-size="8" style="fill:white">Cristian González García</text>
+    <rect x="900" y="4870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="4880" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 4840 C900 4840 880 4890 900 4890" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="4870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="4880" font-size="8" style="fill:white">gonzalezgarciacristian@hotmail.com</text>
+    <rect x="680" y="4970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4980" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 4840 C680 4840 660 4990 680 4990" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="4970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="4980" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 4990 C900 4990 880 4990 900 4990" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="4970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="4980" font-size="8" style="fill:white">Daniel Meana-Llorián</text>
+    <rect x="900" y="5020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="5030" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 4990 C900 4990 880 5040 900 5040" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="5020" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="5030" font-size="8" style="fill:white">danielmeanallorian@gmail.com</text>
+    <rect x="680" y="5120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="5130" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 4840 C680 4840 660 5140 680 5140" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="5120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="5130" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 5140 C900 5140 880 5140 900 5140" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="5120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="5130" font-size="8" style="fill:white">B. Cristina Pelayo García-Bustelo</text>
+    <rect x="900" y="5170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="5180" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 5140 C900 5140 880 5190 900 5190" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="5170" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="5180" font-size="8" style="fill:white">crispelayo@uniovi.es</text>
+    <rect x="680" y="5270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="5280" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 4840 C680 4840 660 5290 680 5290" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="5270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="5280" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 5290 C900 5290 880 5290 900 5290" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="5270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="5280" font-size="8" style="fill:white">Juan Manuel Cueva Lovelle</text>
+    <rect x="900" y="5320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="5330" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 5290 C900 5290 880 5340 900 5340" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="5320" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="5330" font-size="8" style="fill:white">cueva@uniovi.es</text>
+    <rect x="680" y="5420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="5430" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 4840 C680 4840 660 5440 680 5440" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="5420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="5430" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 5440 C900 5440 880 5440 900 5440" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="5420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="5430" font-size="8" style="fill:white">Jordán Pascual Espada</text>
+    <rect x="900" y="5470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="5480" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 5440 C900 5440 880 5490 900 5490" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="5470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="5480" font-size="8" style="fill:white">pascualjordan@uniovi.es</text>
+    <rect x="460" y="5620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="5630" font-size="10" style="fill:blue">resumen</text>
+    <path d="M440 4790 C460 4790 440 5640 460 5640" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="5620" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="5630" font-size="8" style="fill:white">The appearance of a new programming language gives the
+        necessity to contrast its contribution with the
+        existing programming languages to evaluate the novelties and improvements that the new programming language
+        offers for developers. These kind of studies can show us the efficiency, improvements and useful or
+        uselessness of the new programming languages. Also these studies can show us the good or bad properties of
+        the existing programming languages. For these reasons, these studies allow us to know if the new programming
+        language is offering improvements or relapses. In this article, we compare the new programming language of
+        Apple, Swift, with the main programming language of Apple before Swift, Objective-C. We are going to show
+        the differences, characteristics and novelties to verify the words of Apple about Swift. With that we want
+        to answer the next question: Is Swift a new programming language easier, more secure and quicker to develop
+        than Objective-C?
+    </text>
+    <rect x="460" y="5670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="5680" font-size="10" style="fill:blue">claves</text>
+    <path d="M440 4790 C460 4790 440 5690 460 5690" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="5670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="5680" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 5690 C680 5690 660 5690 680 5690" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="5670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="5680" font-size="8" style="fill:white">Object oriented programming</text>
+    <rect x="680" y="5720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="5730" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 5690 C680 5690 660 5740 680 5740" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="5720" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="5730" font-size="8" style="fill:white">Programming</text>
+    <rect x="680" y="5770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="5780" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 5690 C680 5690 660 5790 680 5790" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="5770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="5780" font-size="8" style="fill:white">Functional programming</text>
+    <rect x="680" y="5820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="5830" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 5690 C680 5690 660 5840 680 5840" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="5820" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="5830" font-size="8" style="fill:white">Programming profession</text>
+    <rect x="680" y="5870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="5880" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 5690 C680 5690 660 5890 680 5890" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="5870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="5880" font-size="8" style="fill:white">Software</text>
+    <rect x="460" y="5970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="5980" font-size="10" style="fill:blue">revista</text>
+    <path d="M440 4790 C460 4790 440 5990 460 5990" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="5970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="5980" font-size="8" style="fill:white">International Journal of Interactive Multimedia and
+        Artificial Intelligence
+    </text>
+    <rect x="460" y="6020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="6030" font-size="10" style="fill:blue">enumeracionRevista</text>
+    <path d="M440 4790 C460 4790 440 6040 460 6040" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="6020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="6030" font-size="10" style="fill:blue">numeroRevista</text>
+    <path d="M660 6040 C680 6040 660 6040 680 6040" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="6020" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="6030" font-size="8" style="fill:white">3</text>
+    <rect x="680" y="6070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="6080" font-size="10" style="fill:blue">volumenRevista</text>
+    <path d="M660 6040 C680 6040 660 6090 680 6090" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="6070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="6080" font-size="8" style="fill:white">3</text>
+    <rect x="460" y="6170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="6180" font-size="10" style="fill:blue">paginaInicio</text>
+    <path d="M440 4790 C460 4790 440 6190 460 6190" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="6170" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="6180" font-size="8" style="fill:white">74</text>
+    <rect x="460" y="6220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="6230" font-size="10" style="fill:blue">paginaFinal</text>
+    <path d="M440 4790 C460 4790 440 6240 460 6240" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="6220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="6230" font-size="8" style="fill:white">81</text>
+    <rect x="460" y="6270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="6280" font-size="10" style="fill:blue">año</text>
+    <path d="M440 4790 C460 4790 440 6290 460 6290" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="6270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="6280" font-size="8" style="fill:white">2016</text>
+    <rect x="240" y="6370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="250" y="6380" font-size="10" style="fill:blue">articulo</text>
+    <path d="M220 40 C240 40 220 6390 240 6390" style="fill:transparent;stroke:black"/>
+    <rect x="460" y="6370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="6380" font-size="10" style="fill:blue">titulo</text>
+    <path d="M440 6390 C460 6390 440 6390 460 6390" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="6370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="6380" font-size="8" style="fill:white">Using Model-Driven Architecture Principles to Generate
+        Applications based on Interconnecting Smart
+        Objects and Sensors
+    </text>
+    <rect x="460" y="6420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="6430" font-size="10" style="fill:blue">autores</text>
+    <path d="M440 6390 C460 6390 440 6440 460 6440" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="6420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="6430" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 6440 C680 6440 660 6440 680 6440" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="6420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="6430" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 6440 C900 6440 880 6440 900 6440" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="6420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="6430" font-size="8" style="fill:white">Cristian González García</text>
+    <rect x="900" y="6470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="6480" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 6440 C900 6440 880 6490 900 6490" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="6470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="6480" font-size="8" style="fill:white">gonzalezgarciacristian@hotmail.com</text>
+    <rect x="680" y="6570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="6580" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 6440 C680 6440 660 6590 680 6590" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="6570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="6580" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 6590 C900 6590 880 6590 900 6590" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="6570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="6580" font-size="8" style="fill:white">Jordán Pascual Espada</text>
+    <rect x="900" y="6620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="6630" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 6590 C900 6590 880 6640 900 6640" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="6620" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="6630" font-size="8" style="fill:white">pascualjordan@uniovi.es</text>
+    <rect x="460" y="6770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="6780" font-size="10" style="fill:blue">resumen</text>
+    <path d="M440 6390 C460 6390 440 6790 460 6790" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="6770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="6780" font-size="8" style="fill:white">There has been a rise in the quantity of Smart Things
+        present in our daily life:
+        Smartphones, smart TVs, sensor networks, smart appliances, and many other home and
+        industry automation devices. The disadvantage is that each one is similar but very different
+        from the others because they use different kinds of connections, different protocols, different
+        hardware, and different operative systems; even if they belong to a similar kind, and
+        depending on the manufacturer, two Smartphones or two humidity sensors can be totally ...
+    </text>
+    <rect x="460" y="6820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="6830" font-size="10" style="fill:blue">claves</text>
+    <path d="M440 6390 C460 6390 440 6840 460 6840" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="6820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="6830" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 6840 C680 6840 660 6840 680 6840" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="6820" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="6830" font-size="8" style="fill:white">Sensors</text>
+    <rect x="460" y="6920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="6930" font-size="10" style="fill:blue">revista</text>
+    <path d="M440 6390 C460 6390 440 6940 460 6940" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="6920" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="6930" font-size="8" style="fill:white">Advances and Applications in Model-Driven Engineering</text>
+    <rect x="460" y="6970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="6980" font-size="10" style="fill:blue">enumeracionRevista</text>
+    <path d="M440 6390 C460 6390 440 6990 460 6990" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="6970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="6980" font-size="10" style="fill:blue">numeroRevista</text>
+    <path d="M660 6990 C680 6990 660 6990 680 6990" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="6970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="6980" font-size="8" style="fill:white">8</text>
+    <rect x="460" y="7070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="7080" font-size="10" style="fill:blue">paginaInicio</text>
+    <path d="M440 6390 C460 6390 440 7090 460 7090" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="7070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="7080" font-size="8" style="fill:white">73</text>
+    <rect x="460" y="7120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="7130" font-size="10" style="fill:blue">paginaFinal</text>
+    <path d="M440 6390 C460 6390 440 7140 460 7140" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="7120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="7130" font-size="8" style="fill:white">87</text>
+    <rect x="460" y="7170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="7180" font-size="10" style="fill:blue">año</text>
+    <path d="M440 6390 C460 6390 440 7190 460 7190" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="7170" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="7180" font-size="8" style="fill:white">2013</text>
+    <rect x="240" y="7270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="250" y="7280" font-size="10" style="fill:blue">articulo</text>
+    <path d="M220 40 C240 40 220 7290 240 7290" style="fill:transparent;stroke:black"/>
+    <rect x="460" y="7270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="7280" font-size="10" style="fill:blue">titulo</text>
+    <path d="M440 7290 C460 7290 440 7290 460 7290" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="7270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="7280" font-size="8" style="fill:white">MUSPEL: Generation of Applications to Interconnect
+        Heterogeneous Objects Using Model-Driven
+        Engineering
+    </text>
+    <rect x="460" y="7320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="7330" font-size="10" style="fill:blue">autores</text>
+    <path d="M440 7290 C460 7290 440 7340 460 7340" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="7320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="7330" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 7340 C680 7340 660 7340 680 7340" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="7320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="7330" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 7340 C900 7340 880 7340 900 7340" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="7320" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="7330" font-size="8" style="fill:white">Cristian González García</text>
+    <rect x="900" y="7370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="7380" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 7340 C900 7340 880 7390 900 7390" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="7370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="7380" font-size="8" style="fill:white">gonzalezgarciacristian@hotmail.com</text>
+    <rect x="680" y="7470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="7480" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 7340 C680 7340 660 7490 680 7490" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="7470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="7480" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 7490 C900 7490 880 7490 900 7490" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="7470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="7480" font-size="8" style="fill:white">Jordán Pascual Espada</text>
+    <rect x="900" y="7520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="7530" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 7490 C900 7490 880 7540 900 7540" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="7520" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="7530" font-size="8" style="fill:white">pascualjordan@uniovi.es</text>
+    <rect x="460" y="7670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="7680" font-size="10" style="fill:blue">resumen</text>
+    <path d="M440 7290 C460 7290 440 7690 460 7690" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="7670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="7680" font-size="8" style="fill:white">Internet of Things (IoT) is a paradigm that promotes a world
+        in which smart objects and electronic
+        devices communicate and coordinate autonomously to perform a wide range of tasks. From a technical point of
+        view, the development of IoT systems is not an easy task; due to the great heterogeneity among smart objects
+        and the large number of technologies applied, the developers of these systems must have strong technical
+        knowledge. In this chapter, the authors use the eclipse modelling framework to define a domain-specific
+        language that allows specifying the coordination and communication between different types of smart objects,
+        regardless of the smart object technical characteristics. The proposed domain specific language has been
+        designed to be used in an intuitive and easy way for people without technical knowledge. This solution aims
+        to be useful in many areas and to achieve constant adaptation and evolution of IoT systems.
+    </text>
+    <rect x="460" y="7720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="7730" font-size="10" style="fill:blue">claves</text>
+    <path d="M440 7290 C460 7290 440 7740 460 7740" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="7720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="7730" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 7740 C680 7740 660 7740 680 7740" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="7720" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="7730" font-size="8" style="fill:white">Model-Driven</text>
+    <rect x="460" y="7820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="7830" font-size="10" style="fill:blue">revista</text>
+    <path d="M440 7290 C460 7290 440 7840 460 7840" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="7820" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="7830" font-size="8" style="fill:white">Handbook of Research on Innovations in Systems and Software
+        Engineering
+    </text>
+    <rect x="460" y="7870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="7880" font-size="10" style="fill:blue">enumeracionRevista</text>
+    <path d="M440 7290 C460 7290 440 7890 460 7890" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="7870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="7880" font-size="10" style="fill:blue">numeroRevista</text>
+    <path d="M660 7890 C680 7890 660 7890 680 7890" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="7870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="7880" font-size="8" style="fill:white">8</text>
+    <rect x="460" y="7970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="7980" font-size="10" style="fill:blue">paginaInicio</text>
+    <path d="M440 7290 C460 7290 440 7990 460 7990" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="7970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="7980" font-size="8" style="fill:white">365</text>
+    <rect x="460" y="8020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="8030" font-size="10" style="fill:blue">paginaFinal</text>
+    <path d="M440 7290 C460 7290 440 8040 460 8040" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="8020" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="8030" font-size="8" style="fill:white">368</text>
+    <rect x="460" y="8070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="8080" font-size="10" style="fill:blue">año</text>
+    <path d="M440 7290 C460 7290 440 8090 460 8090" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="8070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="8080" font-size="8" style="fill:white">2014</text>
+    <rect x="240" y="8170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="250" y="8180" font-size="10" style="fill:blue">articulo</text>
+    <path d="M220 40 C240 40 220 8190 240 8190" style="fill:transparent;stroke:black"/>
+    <rect x="460" y="8170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="8180" font-size="10" style="fill:blue">titulo</text>
+    <path d="M440 8190 C460 8190 440 8190 460 8190" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="8170" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="8180" font-size="8" style="fill:white">Midgar: Generation of heterogeneous objects interconnecting
+        applications. A Domain Specific Language
+        proposal for Internet of Things scenarios
+    </text>
+    <rect x="460" y="8220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="8230" font-size="10" style="fill:blue">autores</text>
+    <path d="M440 8190 C460 8190 440 8240 460 8240" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="8220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="8230" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 8240 C680 8240 660 8240 680 8240" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="8220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="8230" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 8240 C900 8240 880 8240 900 8240" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="8220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="8230" font-size="8" style="fill:white">Cristian González García</text>
+    <rect x="900" y="8270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="8280" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 8240 C900 8240 880 8290 900 8290" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="8270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="8280" font-size="8" style="fill:white">gonzalezgarciacristian@hotmail.com</text>
+    <rect x="680" y="8370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="8380" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 8240 C680 8240 660 8390 680 8390" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="8370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="8380" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 8390 C900 8390 880 8390 900 8390" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="8370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="8380" font-size="8" style="fill:white">B. Cristina Pelayo García-Bustelo</text>
+    <rect x="900" y="8420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="8430" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 8390 C900 8390 880 8440 900 8440" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="8420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="8430" font-size="8" style="fill:white">crispelayo@uniovi.es</text>
+    <rect x="680" y="8520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="8530" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 8240 C680 8240 660 8540 680 8540" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="8520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="8530" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 8540 C900 8540 880 8540 900 8540" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="8520" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="8530" font-size="8" style="fill:white">GuillermoCueva-Fernandez</text>
+    <rect x="900" y="8570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="8580" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 8540 C900 8540 880 8590 900 8590" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="8570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="8580" font-size="8" style="fill:white">cuevafdz@gmail.com</text>
+    <rect x="680" y="8670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="8680" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 8240 C680 8240 660 8690 680 8690" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="8670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="8680" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 8690 C900 8690 880 8690 900 8690" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="8670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="8680" font-size="8" style="fill:white">Jordán Pascual Espada</text>
+    <rect x="900" y="8720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="8730" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 8690 C900 8690 880 8740 900 8740" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="8720" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="8730" font-size="8" style="fill:white">pascualjordan@uniovi.es</text>
+    <rect x="460" y="8870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="8880" font-size="10" style="fill:blue">claves</text>
+    <path d="M440 8190 C460 8190 440 8890 460 8890" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="8870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="8880" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 8890 C680 8890 660 8890 680 8890" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="8870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="8880" font-size="8" style="fill:white">Internet of Things</text>
+    <rect x="680" y="8920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="8930" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 8890 C680 8890 660 8940 680 8940" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="8920" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="8930" font-size="8" style="fill:white">Ubiquitous computing</text>
+    <rect x="680" y="8970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="8980" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 8890 C680 8890 660 8990 680 8990" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="8970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="8980" font-size="8" style="fill:white">Sensor network</text>
+    <rect x="680" y="9020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="9030" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 8890 C680 8890 660 9040 680 9040" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="9020" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="9030" font-size="8" style="fill:white">Model Driven Engineering</text>
+    <rect x="680" y="9070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="9080" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 8890 C680 8890 660 9090 680 9090" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="9070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="9080" font-size="8" style="fill:white">Domain Specific Language</text>
+    <rect x="680" y="9120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="9130" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 8890 C680 8890 660 9140 680 9140" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="9120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="9130" font-size="8" style="fill:white">Smart Objects</text>
+    <rect x="460" y="9220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="9230" font-size="10" style="fill:blue">revista</text>
+    <path d="M440 8190 C460 8190 440 9240 460 9240" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="9220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="9230" font-size="8" style="fill:white">Computer Networks</text>
+    <rect x="460" y="9270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="9280" font-size="10" style="fill:blue">enumeracionRevista</text>
+    <path d="M440 8190 C460 8190 440 9290 460 9290" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="9270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="9280" font-size="10" style="fill:blue">volumenRevista</text>
+    <path d="M660 9290 C680 9290 660 9290 680 9290" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="9270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="9280" font-size="8" style="fill:white">64</text>
+    <rect x="460" y="9370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="9380" font-size="10" style="fill:blue">paginaInicio</text>
+    <path d="M440 8190 C460 8190 440 9390 460 9390" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="9370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="9380" font-size="8" style="fill:white">143</text>
+    <rect x="460" y="9420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="9430" font-size="10" style="fill:blue">paginaFinal</text>
+    <path d="M440 8190 C460 8190 440 9440 460 9440" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="9420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="9430" font-size="8" style="fill:white">158</text>
+    <rect x="460" y="9470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="9480" font-size="10" style="fill:blue">año</text>
+    <path d="M440 8190 C460 8190 440 9490 460 9490" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="9470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="9480" font-size="8" style="fill:white">2014</text>
+    <rect x="240" y="9570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="250" y="9580" font-size="10" style="fill:blue">articulo</text>
+    <path d="M220 40 C240 40 220 9590 240 9590" style="fill:transparent;stroke:black"/>
+    <rect x="460" y="9570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="9580" font-size="10" style="fill:blue">titulo</text>
+    <path d="M440 9590 C460 9590 440 9590 460 9590" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="9570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="9580" font-size="8" style="fill:white">Vitruvius: An expert system for vehicle sensor tracking and
+        managing application generation
+    </text>
+    <rect x="460" y="9620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="9630" font-size="10" style="fill:blue">autores</text>
+    <path d="M440 9590 C460 9590 440 9640 460 9640" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="9620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="9630" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 9640 C680 9640 660 9640 680 9640" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="9620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="9630" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 9640 C900 9640 880 9640 900 9640" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="9620" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="9630" font-size="8" style="fill:white">Cristian González García</text>
+    <rect x="900" y="9670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="9680" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 9640 C900 9640 880 9690 900 9690" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="9670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="9680" font-size="8" style="fill:white">gonzalezgarciacristian@hotmail.com</text>
+    <rect x="680" y="9770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="9780" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 9640 C680 9640 660 9790 680 9790" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="9770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="9780" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 9790 C900 9790 880 9790 900 9790" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="9770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="9780" font-size="8" style="fill:white">Néstor García-Fernández</text>
+    <rect x="900" y="9820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="9830" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 9790 C900 9790 880 9840 900 9840" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="9820" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="9830" font-size="8" style="fill:white">nestor@uniovi.es</text>
+    <rect x="680" y="9920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="9930" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 9640 C680 9640 660 9940 680 9940" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="9920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="9930" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 9940 C900 9940 880 9940 900 9940" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="9920" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="9930" font-size="8" style="fill:white">GuillermoCueva-Fernandez</text>
+    <rect x="900" y="9970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="9980" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 9940 C900 9940 880 9990 900 9990" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="9970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="9980" font-size="8" style="fill:white">cuevafdz@gmail.com</text>
+    <rect x="680" y="10070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="10080" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 9640 C680 9640 660 10090 680 10090" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="10070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="10080" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 10090 C900 10090 880 10090 900 10090" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="10070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="10080" font-size="8" style="fill:white">Jordán Pascual Espada</text>
+    <rect x="900" y="10120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="10130" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 10090 C900 10090 880 10140 900 10140" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="10120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="10130" font-size="8" style="fill:white">pascualjordan@uniovi.es</text>
+    <rect x="680" y="10220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="10230" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 9640 C680 9640 660 10240 680 10240" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="10220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="10230" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 10240 C900 10240 880 10240 900 10240" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="10220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="10230" font-size="8" style="fill:white">Juan Manuel Cueva Lovelle</text>
+    <rect x="900" y="10270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="10280" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 10240 C900 10240 880 10290 900 10290" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="10270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="10280" font-size="8" style="fill:white">cueva@uniovi.es</text>
+    <rect x="460" y="10420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="10430" font-size="10" style="fill:blue">resumen</text>
+    <path d="M440 9590 C460 9590 440 10440 460 10440" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="10420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="10430" font-size="8" style="fill:white">Internet of Things promotes the use of physical intelligent
+        connecting objects to automatize processes
+        and tasks in multiple areas of society. There are numerous intelligent objects with different sensors and
+        communication mechanisms. Today, road vehicles contain many advanced sensors that allow the collection of
+        great amounts of parameters. With an appropriate communication mechanism, vehicles can be converted to
+        intelligent objects capable of forming very useful systems such as road security, vehicle maintenance, urban
+        mobility, traffic congestion, fleet management, CO2 emissions, etc. The problem is that the implementation
+        of a system is not quick or easy. Many subsystems and heterogeneous elements intervene. The lack of speed in
+        the development can be a big inconvenient, especially when the environment is as dynamic as traffic, subject
+        to many variables. Currently, there are several platforms that integrate intelligent objects and the
+        generation of applications, but none of them are focused on road vehicles. In this paper we present
+        Vitruvius, a platform where users with no programming knowledge can design and quickly implement rich web
+        applications based on the data consumption in real time from interconnected vehicles and sensors.
+    </text>
+    <rect x="460" y="10470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="10480" font-size="10" style="fill:blue">claves</text>
+    <path d="M440 9590 C460 9590 440 10490 460 10490" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="10470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="10480" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 10490 C680 10490 660 10490 680 10490" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="10470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="10480" font-size="8" style="fill:white">Internet of Things</text>
+    <rect x="680" y="10520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="10530" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 10490 C680 10490 660 10540 680 10540" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="10520" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="10530" font-size="8" style="fill:white">Vehicle sensor</text>
+    <rect x="680" y="10570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="10580" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 10490 C680 10490 660 10590 680 10590" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="10570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="10580" font-size="8" style="fill:white">Application generation</text>
+    <rect x="680" y="10620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="10630" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 10490 C680 10490 660 10640 680 10640" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="10620" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="10630" font-size="8" style="fill:white">Web application</text>
+    <rect x="680" y="10670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="10680" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 10490 C680 10490 660 10690 680 10690" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="10670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="10680" font-size="8" style="fill:white">Tracking</text>
+    <rect x="680" y="10720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="10730" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 10490 C680 10490 660 10740 680 10740" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="10720" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="10730" font-size="8" style="fill:white">Domain-specific language</text>
+    <rect x="460" y="10820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="10830" font-size="10" style="fill:blue">revista</text>
+    <path d="M440 9590 C460 9590 440 10840 460 10840" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="10820" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="10830" font-size="8" style="fill:white">Journal of Network and Computer Applications</text>
+    <rect x="460" y="10870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="10880" font-size="10" style="fill:blue">enumeracionRevista</text>
+    <path d="M440 9590 C460 9590 440 10890 460 10890" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="10870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="10880" font-size="10" style="fill:blue">volumenRevista</text>
+    <path d="M660 10890 C680 10890 660 10890 680 10890" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="10870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="10880" font-size="8" style="fill:white">42</text>
+    <rect x="460" y="10970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="10980" font-size="10" style="fill:blue">paginaInicio</text>
+    <path d="M440 9590 C460 9590 440 10990 460 10990" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="10970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="10980" font-size="8" style="fill:white">178</text>
+    <rect x="460" y="11020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="11030" font-size="10" style="fill:blue">paginaFinal</text>
+    <path d="M440 9590 C460 9590 440 11040 460 11040" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="11020" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="11030" font-size="8" style="fill:white">188</text>
+    <rect x="460" y="11070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="11080" font-size="10" style="fill:blue">año</text>
+    <path d="M440 9590 C460 9590 440 11090 460 11090" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="11070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="11080" font-size="8" style="fill:white">2014</text>
+    <rect x="240" y="11170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="250" y="11180" font-size="10" style="fill:blue">articulo</text>
+    <path d="M220 40 C240 40 220 11190 240 11190" style="fill:transparent;stroke:black"/>
+    <rect x="460" y="11170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="11180" font-size="10" style="fill:blue">titulo</text>
+    <path d="M440 11190 C460 11190 440 11190 460 11190" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="11170" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="11180" font-size="8" style="fill:white">IoFClime: The fuzzy logic and the Internet of Things to
+        control indoor temperature regarding the outdoor
+        ambient conditions
+    </text>
+    <rect x="460" y="11220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="11230" font-size="10" style="fill:blue">autores</text>
+    <path d="M440 11190 C460 11190 440 11240 460 11240" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="11220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="11230" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 11240 C680 11240 660 11240 680 11240" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="11220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="11230" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 11240 C900 11240 880 11240 900 11240" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="11220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="11230" font-size="8" style="fill:white">Cristian González García</text>
+    <rect x="900" y="11270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="11280" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 11240 C900 11240 880 11290 900 11290" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="11270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="11280" font-size="8" style="fill:white">gonzalezgarciacristian@hotmail.com</text>
+    <rect x="680" y="11370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="11380" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 11240 C680 11240 660 11390 680 11390" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="11370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="11380" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 11390 C900 11390 880 11390 900 11390" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="11370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="11380" font-size="8" style="fill:white">Daniel Meana-Llorián</text>
+    <rect x="900" y="11420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="11430" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 11390 C900 11390 880 11440 900 11440" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="11420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="11430" font-size="8" style="fill:white">danielmeanallorian@gmail.com</text>
+    <rect x="680" y="11520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="11530" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 11240 C680 11240 660 11540 680 11540" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="11520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="11530" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 11540 C900 11540 880 11540 900 11540" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="11520" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="11530" font-size="8" style="fill:white">B. Cristina Pelayo García-Bustelo</text>
+    <rect x="900" y="11570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="11580" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 11540 C900 11540 880 11590 900 11590" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="11570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="11580" font-size="8" style="fill:white">crispelayo@uniovi.es</text>
+    <rect x="680" y="11670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="11680" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 11240 C680 11240 660 11690 680 11690" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="11670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="11680" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 11690 C900 11690 880 11690 900 11690" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="11670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="11680" font-size="8" style="fill:white">Juan Manuel Cueva Lovelle</text>
+    <rect x="900" y="11720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="11730" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 11690 C900 11690 880 11740 900 11740" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="11720" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="11730" font-size="8" style="fill:white">cueva@uniovi.es</text>
+    <rect x="680" y="11820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="11830" font-size="10" style="fill:blue">autor</text>
+    <path d="M660 11240 C680 11240 660 11840 680 11840" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="11820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="11830" font-size="10" style="fill:blue">nombreAutor</text>
+    <path d="M880 11840 C900 11840 880 11840 900 11840" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="11820" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="11830" font-size="8" style="fill:white">Néstor García-Fernández</text>
+    <rect x="900" y="11870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="11880" font-size="10" style="fill:blue">correo</text>
+    <path d="M880 11840 C900 11840 880 11890 900 11890" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="11870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="11880" font-size="8" style="fill:white">nestor@uniovi.es</text>
+    <rect x="460" y="12020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="12030" font-size="10" style="fill:blue">claves</text>
+    <path d="M440 11190 C460 11190 440 12040 460 12040" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="12020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="12030" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 12040 C680 12040 660 12040 680 12040" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="12020" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="12030" font-size="8" style="fill:white">Internet of Things</text>
+    <rect x="680" y="12070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="12080" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 12040 C680 12040 660 12090 680 12090" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="12070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="12080" font-size="8" style="fill:white">Fuzzy logic</text>
+    <rect x="680" y="12120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="12130" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 12040 C680 12040 660 12140 680 12140" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="12120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="12130" font-size="8" style="fill:white">Temperature control</text>
+    <rect x="680" y="12170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="12180" font-size="10" style="fill:blue">clave</text>
+    <path d="M660 12040 C680 12040 660 12190 680 12190" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="12170" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="12180" font-size="8" style="fill:white">Temperature sensors</text>
+    <rect x="460" y="12270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="12280" font-size="10" style="fill:blue">revista</text>
+    <path d="M440 11190 C460 11190 440 12290 460 12290" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="12270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="12280" font-size="8" style="fill:white">Future Generation Computer Systems</text>
+    <rect x="460" y="12320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="12330" font-size="10" style="fill:blue">enumeracionRevista</text>
+    <path d="M440 11190 C460 11190 440 12340 460 12340" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="12320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="12330" font-size="10" style="fill:blue">volumenRevista</text>
+    <path d="M660 12340 C680 12340 660 12340 680 12340" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="12320" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="12330" font-size="8" style="fill:white">76</text>
+    <rect x="460" y="12420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="12430" font-size="10" style="fill:blue">paginaInicio</text>
+    <path d="M440 11190 C460 11190 440 12440 460 12440" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="12420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="12430" font-size="8" style="fill:white">275</text>
+    <rect x="460" y="12470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="12480" font-size="10" style="fill:blue">paginaFinal</text>
+    <path d="M440 11190 C460 11190 440 12490 460 12490" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="12470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="12480" font-size="8" style="fill:white">284</text>
+    <rect x="460" y="12520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="12530" font-size="10" style="fill:blue">año</text>
+    <path d="M440 11190 C460 11190 440 12540 460 12540" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="12520" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="12530" font-size="8" style="fill:white">2017</text>
+</svg>

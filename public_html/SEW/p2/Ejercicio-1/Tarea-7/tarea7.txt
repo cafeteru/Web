@@ -1,0 +1,6 @@
+-	En los elementos artículo y clave, el xsd autogenerado ha omitido el parámetro minOccurs.
+-	En los elementos título, resumen y revista, el xsd autogenerado ha omitido los parámetros minOccurs y maxOccurs.
+-	En los elementos numeroRevista, volumenRevista, paginaInicio, paginaFin y año además de omitir los parámetros
+    minOccurs y maxOccurs también omite las restricciones indicadas.
+-	Todos los elementos integer los convierte a String, con lo cual elimina las restricciones que tenían estos
+    elementos.

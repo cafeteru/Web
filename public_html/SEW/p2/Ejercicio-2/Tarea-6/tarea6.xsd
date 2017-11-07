@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="recetas">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="receta"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="receta">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="nombre"/>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="ingredientes"/>
+                <xs:element minOccurs="0" maxOccurs="1" ref="calorias"/>
+                <xs:element ref="elaboración"/>
+                <xs:element ref="tiempo"/>
+                <xs:element ref="utensilios"/>
+                <xs:element ref="origen"/>
+            </xs:sequence>
+            <xs:attribute name="tipoPlato" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="aperitivo"/>
+                        <xs:enumeration value="entrante"/>
+                        <xs:enumeration value="primerPlato"/>
+                        <xs:enumeration value="segundoPlato"/>
+                        <xs:enumeration value="postre"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="dificultad" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="fácil"/>
+                        <xs:enumeration value="media"/>
+                        <xs:enumeration value="difícil"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="nombre" type="xs:string"/>
+    <xs:element name="ingredientes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="ingrediente"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ingrediente">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="nombreIngrediente"/>
+                <xs:element ref="cantidad"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="nombreIngrediente" type="xs:string"/>
+    <xs:element name="cantidad" type="xs:string"/>
+    <xs:element name="calorias" type="xs:string"/>
+    <xs:element name="elaboración">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="paso"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="paso">
+        <xs:complexType>
+            <xs:simpleContent>
+                <xs:extension base="xs:string">
+                    <xs:attribute name="número" type="xs:string" use="required"/>
+                </xs:extension>
+            </xs:simpleContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="tiempo" type="xs:string"/>
+    <xs:element name="utensilios">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="utensilio"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="utensilio" type="xs:string"/>
+    <xs:element name="origen" type="xs:string"/>
+</xs:schema>

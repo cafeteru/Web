@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recetas SYSTEM "tarea3.dtd">
+<recetas>
+    <receta tipoPlato="primerPlato" dificultad="fácil">
+        <nombre>Pollo a la cerveza</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombreIngrediente>Pollo</nombreIngrediente>
+                <cantidad>1,2 kg.</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Cebolla</nombreIngrediente>
+                <cantidad>1 pieza</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Cebolleta</nombreIngrediente>
+                <cantidad>1 pieza</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pimiento rojo grande</nombreIngrediente>
+                <cantidad>1 pieza</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pimientos verdes tipo italiano</nombreIngrediente>
+                <cantidad>2 piezas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Dientes de ajo</nombreIngrediente>
+                <cantidad>4 piezas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Zanahorias</nombreIngrediente>
+                <cantidad>4 piezas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Hojas de laurel</nombreIngrediente>
+                <cantidad>2 piezas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Cerveza</nombreIngrediente>
+                <cantidad>1/2 l.</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pimienta negra recién molida y sal</nombreIngrediente>
+                <cantidad>Al gusto</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Aceite de oliva virgen extra</nombreIngrediente>
+                <cantidad>50 ml</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Plantas aromáticas (opcional): Perejil, albahaca, tomillo, romero...
+                </nombreIngrediente>
+                <cantidad>1 pieza</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <calorias>306kcal por 100g</calorias>
+        <elaboración>
+            <paso número="1">
+                Calentamos un poquito de aceite virgen extra en una cazuela. No os paséis con el aceite pues la piel de
+                pollo también va a soltar su grasa con lo que se cocinará en su propio jugo.
+            </paso>
+            <paso número="2">
+                Añadimos los trozos de pollo y rehogamos durante unos 10 minutos hasta que el pollo cambie de color.
+            </paso>
+            <paso número="3">
+                Si queréis que la salsa os quede espesa, podéis pasar el pollo por un poco de harina para dorarlo antes
+                y así añadir parte de esa harina al aceite con el que vamos a cocinar el resto de los ingredientes.
+            </paso>
+            <paso número="4">
+                Sacamos el pollo de la cazuela con ese color tan agradable y veremos que ha soltado parte de su jugo.
+            </paso>
+            <paso número="5">
+                Retiramos el pollo a una fuente y reservamos. En la misma cazuela y el mismo aceite vamos a preparar
+                nuestra base de verduras. Pelamos las cebollas, zanahorias, cebolletas y el ajo.
+            </paso>
+            <paso número="6">
+                Lavamos los pimientos y picamos todos los ingredientes en juliana fina (tiras finas y alargadas de
+                grosor lo más fino posible, 2 a 3 mm.), o en rodajas finas (en el caso de las zanahorias).
+            </paso>
+            <paso número="7">
+                Calentamos el aceite con el jugo del pollo y añadimos primero la cebolla, cebolleta y ajo.
+            </paso>
+            <paso número="8">
+                Rehogamos durante 2 ó 3 minutos a fuego medio-alto. Echamos el resto de ingredientes, pimientos y
+                zanahorias.
+            </paso>
+            <paso número="9">
+                Sofreímos todo unos 10 minutos a fuego lento en el mismo aceite donde hemos dorado el pollo.
+            </paso>
+        </elaboración>
+        <tiempo>60 minutos</tiempo>
+        <utensilios>
+            <utensilio>Horno</utensilio>
+        </utensilios>
+        <origen>http://www.recetasderechupete.com/pollo-a-la-cerveza-con-verduras/7899/</origen>
+    </receta>
+    <receta tipoPlato="aperitivo" dificultad="fácil">
+        <nombre>Pincho de Ensaladilla</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombreIngrediente>Pollo</nombreIngrediente>
+                <cantidad>1,2 kg.</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pollo</nombreIngrediente>
+                <cantidad>1,2 kg.</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pollo</nombreIngrediente>
+                <cantidad>1,2 kg.</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pollo</nombreIngrediente>
+                <cantidad>1,2 kg.</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pollo</nombreIngrediente>
+                <cantidad>1,2 kg.</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pollo</nombreIngrediente>
+                <cantidad>1,2 kg.</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <calorias>378kcal por 100g</calorias>
+        <elaboración>
+            <paso número="1">
+                Calentamos un poquito de aceite virgen extra en una cazuela. No os paséis con el aceite pues la piel de
+                pollo también va a soltar su grasa con lo que se cocinará en su propio jugo.
+            </paso>
+            <paso número="2">
+                Añadimos los trozos de pollo y rehogamos durante unos 10 minutos hasta que el pollo cambie de color.
+            </paso>
+            <paso número="3">
+                Si queréis que la salsa os quede espesa, podéis pasar el pollo por un poco de harina para dorarlo antes
+                y así añadir parte de esa harina al aceite con el que vamos a cocinar el resto de los ingredientes.
+            </paso>
+            <paso número="4">
+                Sacamos el pollo de la cazuela con ese color tan agradable y veremos que ha soltado parte de su jugo.
+            </paso>
+            <paso número="5">
+                Retiramos el pollo a una fuente y reservamos. En la misma cazuela y el mismo aceite vamos a preparar
+                nuestra base de verduras. Pelamos las cebollas, zanahorias, cebolletas y el ajo.
+            </paso>
+            <paso número="6">
+                Lavamos los pimientos y picamos todos los ingredientes en juliana fina (tiras finas y alargadas de
+                grosor lo más fino posible, 2 a 3 mm.), o en rodajas finas (en el caso de las zanahorias).
+            </paso>
+            <paso número="7">
+                Calentamos el aceite con el jugo del pollo y añadimos primero la cebolla, cebolleta y ajo.
+            </paso>
+            <paso número="8">
+                Rehogamos durante 2 ó 3 minutos a fuego medio-alto. Echamos el resto de ingredientes, pimientos y
+                zanahorias.
+            </paso>
+            <paso número="9">
+                Sofreímos todo unos 10 minutos a fuego lento en el mismo aceite donde hemos dorado el pollo.
+            </paso>
+        </elaboración>
+        <tiempo>60 minutos</tiempo>
+        <utensilios>
+            <utensilio>Horno</utensilio>
+        </utensilios>
+        <origen>http://www.recetasderechupete.com/pollo-a-la-cerveza-con-verduras/7899/</origen>
+    </receta>
+    <receta tipoPlato="primerPlato" dificultad="fácil">
+        <nombre>Brócoli al vapor en microondas</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombreIngrediente>Brócoli</nombreIngrediente>
+                <cantidad>1 pieza</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Especias al gusto</nombreIngrediente>
+                <cantidad>Al gusto</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <elaboración>
+            <paso número="1">Sí, has leído bien, para hacer esta receta de brócoli al vapor en microondas solo necesitas
+                reunir la cantidad de verdura que deseas cocinar y las especias que quieras emplear para condimentarla,
+                si es que quieres hacerlo. Nosotros te recomendamos optar por la sencillez, como una pizca de sal y
+                pimienta negra. Dicho esto, empezamos lavando la verdura y cortándola en árboles del mismo tamaño.
+            </paso>
+            <paso número="2">Coloca el brócoli en un recipiente apto para microondas y añade los condimentos. Es muy
+                importante que los árboles sean de igual tamaño para lograr una cocción pareja. En cuanto a las
+                especias, recuerda que puedes optar por las que quieras, como las mencionadas u otras más aromáticas,
+                como curry, tomillo, romero, etc.
+            </paso>
+            <paso número="3">Tapa el recipiente y cocina el brócoli al microondas durante 4 minutos a máxima potencia.
+                Al taparlo, la verdura suelta el agua que contiene y permita que se pueda cocinar al vapor, obteniendo
+                un resultado igual al de una vaporera tradicional.
+            </paso>
+            <paso número="4">Comprueba que la verdura está hecha y sírvela de inmediato, sin nada más o con un chorrito
+                de aceite de oliva por encima. Como decíamos al principio, esta receta de brócoli al vapor en microondas
+                es perfecta para una cena ligera, para perder peso o para una guarnición rápida. Para seguir en la línea
+                de los platos saludables, puedes utilizar este plato para complementar un salmón a la plancha, o una
+                hamburguesa de quinoa, por ejemplo, si se sigue una alimentación vegana o vegetariana.
+            </paso>
+        </elaboración>
+        <tiempo>10 minutos</tiempo>
+        <utensilios>
+            <utensilio>Microondas</utensilio>
+        </utensilios>
+        <origen>https://www.recetasgratis.net/receta-de-brocoli-al-vapor-en-microondas-ligero-y-rapido-63818.html1
+        </origen>
+    </receta>
+    <receta tipoPlato="entrante" dificultad="media">
+        <nombre>Ensalada de queso y membrillo</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombreIngrediente>Lechuga</nombreIngrediente>
+                <cantidad>1 Bolsa variada</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Aceite de oliva virgen extra</nombreIngrediente>
+                <cantidad>6 Cucharadas soperas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Queso feta</nombreIngrediente>
+                <cantidad>150 Gramos</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Vinagre</nombreIngrediente>
+                <cantidad>2 Cucharadas soperas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Uvas</nombreIngrediente>
+                <cantidad>150 Gramos</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Semillas de sésamo</nombreIngrediente>
+                <cantidad>1 Cucharada sopera</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Tomates</nombreIngrediente>
+                <cantidad>8 piezas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Dulce de membrillo</nombreIngrediente>
+                <cantidad>60 Gramos</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pimienta negra molida</nombreIngrediente>
+                <cantidad>½ Cucharadita</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <elaboración>
+            <paso número="1">Antes de empezar con la receta de la ensalada de uvas y membrillo, cabe destacar que el
+                queso feta lo puedes sustituir por otro, aunque recomiendo que sea uno de sabor fuerte para que
+                contraste con la uva y el membrillo. Dicho esto, lavamos las uvas. Si se quiere, podemos pelarlas, así
+                como retirar las pepitas con un cuchillo pequeño, cortándolas por la mitad.
+            </paso>
+            <paso número="2">Troceamos con las manos las hojas de lechuga y las repartimos en los platos que vamos a
+                utilizar para servir la ensalada de queso y membrillo.
+            </paso>
+            <paso número="3">Añadimos las uvas, los tomatitos, el queso y el membrillo cortados en dados. Qué buena
+                pinta tiene esta ensalada de uvas, tan llena de color, ¿verdad?
+            </paso>
+            <paso número="4">Para hacer la vinagreta de la ensalada, tostamos las semillas de sésamo en una sartén sin
+                aceite.
+            </paso>
+            <paso número="5">Cuando estén frías, las introducimos en un cuenco con el resto de los ingredientes de la
+                vinagreta,
+                añadimos una pizca de sal y pimienta y batimos enérgicamente con un tenedor o unas varillas hasta
+                obtener una salsa emulsionada.
+            </paso>
+            <paso número="6">Aliñamos la ensalada de queso y membrillo con esta salsa vinagreta y servimos. Se trata de
+                un plato realmente espectacular, digno de un menú gourmet y perfecto para fiestas propias del otoño y el
+                invierno, como la Navidad, procedida del tradicional pavo relleno o pollo relleno. De hecho,
+                recomendamos su preparación para despedir el año o dar la bienvenida al próximo, puesto que su contraste
+                de sabores y texturas sorprenderá a todos los invitados. Y si quieres descubrir otras recetas fáciles y
+                rápidas, además de sabrosas, pásate por mi blog La cocina de Catina.
+            </paso>
+        </elaboración>
+        <tiempo>45 minutos</tiempo>
+        <utensilios>
+            <utensilio>Cuchillo</utensilio>
+            <utensilio>Sartén</utensilio>
+        </utensilios>
+        <origen>
+            https://www.recetasgratis.net/receta-de-ensalada-de-queso-y-membrillo-con-vinagreta-de-sesamo-63834.html
+        </origen>
+    </receta>
+    <receta tipoPlato="primerPlato" dificultad="media">
+        <nombre>Buseca criolla uruguaya</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombreIngrediente>Porotos de manteca</nombreIngrediente>
+                <cantidad>250 Gramos</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pulpa de Tomate</nombreIngrediente>
+                <cantidad>1 Libra</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Porotos de garbanzo</nombreIngrediente>
+                <cantidad>250 Gramos</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Papa</nombreIngrediente>
+                <cantidad>2 Kilogramos</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Boniato Zanahoria</nombreIngrediente>
+                <cantidad>1 Kilogramo</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Mondongo</nombreIngrediente>
+                <cantidad>1 Kilogramo</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pimentón</nombreIngrediente>
+                <cantidad>1 Pizca</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Patita de Cerdo</nombreIngrediente>
+                <cantidad>1 Kilogramo</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Adobo</nombreIngrediente>
+                <cantidad>1 Pizca</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Panceta</nombreIngrediente>
+                <cantidad>200 Gramos</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Cebolla</nombreIngrediente>
+                <cantidad>5 piezas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Agua</nombreIngrediente>
+                <cantidad>1 litro</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Morrones medianos</nombreIngrediente>
+                <cantidad>3 piezas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Aceite</nombreIngrediente>
+                <cantidad>Al gusto</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Dientes de Ajo</nombreIngrediente>
+                <cantidad>4</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <elaboración>
+            <paso número="1">Para hacer este potaje deberemos empezar a trabajar desde la noche anterior. Coloca en
+                remojo todos los porotos, en envases distintos de un día para otro.
+            </paso>
+            <paso número="2">El día de la preparación empezamos por cortar el mondongo en tiras. Luego ponemos esto en
+                una olla profunda junto con los porotos, añadimos agua y dejamos hervir hasta que ambos ablanden y se
+                sientan tiernos.
+            </paso>
+            <paso número="3">Mientras, ubicamos una olla grande y hacemos un sofrito con la cebolla picada finamente y
+                un chorrito de aceite. Cuando la cebolla empiece a verse transparente, añadimos los morrones y esperamos
+                un par de minutos antes de echar la panceta y las patitas de cerdo.
+            </paso>
+            <paso número="4">A continuación, condimenta el sofrito al gusto con las especias de la lista y luego
+                incorpora el resto de la verdura cortada en cuadros pequeños, de unos 2 cm de diámetro.
+                Dejamos pasar otro par de minutos y entonces agregamos los porotos y el mondongo ya cocidos.
+            </paso>
+            <paso número="5">Mezclamos bien todo los ingredientes en la olla y finalmente añadimos el litro de agua
+                junto con la pulpa de tomate. Dejamos cocinar la buseca durante 30 minutos hasta que esté todo cocido y
+                tierno.
+            </paso>
+            <paso número="6">Pasado este tiempo, lo mejor es dejar que el guiso repose unos minutos antes de servir. La
+                buseca criolla uruguaya está deliciosa y se puede acompañar con un poco de arroz blanco.
+            </paso>
+        </elaboración>
+        <tiempo>45 minutos</tiempo>
+        <utensilios>
+            <utensilio>Envases</utensilio>
+            <utensilio>Cuchillos</utensilio>
+            <utensilio>Ollas</utensilio>
+        </utensilios>
+        <origen>https://www.recetasgratis.net/receta-de-buseca-criolla-uruguaya-61022.html</origen>
+    </receta>
+    <receta tipoPlato="segundoPlato" dificultad="media">
+        <nombre>Receta de Tortilla de patata y cebolla</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombreIngrediente>Patatas</nombreIngrediente>
+                <cantidad>4 piezas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Aceite de oliva virgen extra</nombreIngrediente>
+                <cantidad>1 chorro</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Cebolla</nombreIngrediente>
+                <cantidad>1 pieza</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Huevos</nombreIngrediente>
+                <cantidad>5</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <elaboración>
+            <paso número="1">Para preparar la tortilla de patatas y cebolla para 4 personas, comenzamos pelando la
+                cebolla. Luego, la cortamos en tiras y la freímos en una sartén con un chorrito de aceite de oliva.
+                Sacamos y reservamos.
+            </paso>
+            <paso número="2">Mientras tanto, pelamos las patatas y las cortamos en láminas. Hecho esto, en la misma
+                sartén en la que hemos frito la cebolla, añadimos un poquito más de aceite de oliva y freímos las
+                patatas.
+            </paso>
+            <paso número="3">Cuando estén casi hechas, añadimos la cebolla de nuevo, mezclamos bien y dejamos freír
+                juntas unos minutos. Sacamos, escurrimos el aceite sobrante y las ponemos en un bol amplio.
+            </paso>
+            <paso número="4">Para continuar con la preparación de la tortilla de patatas y cebolla para 4 personas,
+                cascamos los huevos, los ponemos en un bol y los batimos ligeramente con un tenedor. Los añadimos a las
+                patatas y la cebolla frita y mezclamos bien. Agregamos, también, una pizca de sal.
+            </paso>
+            <paso número="5">En una sartén que no se pegue, ponemos unas gotitas de aceite, distribuimos bien por la
+                base y llevamos al fuego (no muy alto para evitar que se queme por fuera y esté cruda por dentro).
+                Cuando esté caliente, añadimos la mezcla de patatas, cebolla y huevo.
+            </paso>
+            <paso número="6">Agitamos de vez en cuando la sartén con suavidad para que no se pegue la tortilla de
+                patatas y cebolla a la base. Pasados unos minutos, retiramos del fuego y con ayuda de un plato damos la
+                vuelta a la tortilla. Volvemos a poner en el fuego y la cuajamos por el otro lado.
+                Si fuera necesario, volteamos una vez más hasta que esté cuajada en el centro.
+            </paso>
+            <paso número="7">Servimos la tortilla de patatas y cebolla para 4 personas, ¡y a disfrutar! Podemos
+                acompañarla con una ensalada de pepino o una sopa de verduras y tendremos una comida completa. No
+                olvides pinchar en el enlace y visitar mi blog Los dulces secretos de Cuca, donde encontrarás muchas más
+                recetas fáciles, rápidas y deliciosas como esta.
+            </paso>
+        </elaboración>
+        <tiempo>20 minutos</tiempo>
+        <utensilios>
+            <utensilio>Sarten</utensilio>
+        </utensilios>
+        <origen>
+            https://www.recetasgratis.net/receta-de-tortilla-de-patata-y-cebolla-para-4-personas-paso-a-paso-62571.html
+        </origen>
+    </receta>
+    <receta tipoPlato="primerPlato" dificultad="difícil">
+        <nombre>Lentejas con jamón y patatas</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombreIngrediente>Lentejas cocidas</nombreIngrediente>
+                <cantidad>1 Bote</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Patatas</nombreIngrediente>
+                <cantidad>2</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Jamón serrano</nombreIngrediente>
+                <cantidad>1 Trozo</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Laurel</nombreIngrediente>
+                <cantidad>1 hoja</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Comino</nombreIngrediente>
+                <cantidad>1 Pizca</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pimentón dulce</nombreIngrediente>
+                <cantidad>1 Pizca</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Aceite de oliva</nombreIngrediente>
+                <cantidad>1 Chorro</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Agua</nombreIngrediente>
+                <cantidad>Al gusto</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <elaboración>
+            <paso número="1">Para poder empezar a preparar la receta de lentejas con patatas y jamón, lo primero que
+                debemos hacer es dejar listos los ingredientes. Para ello, pelamos las patatas, las lavamos y troceamos
+                del mismo tamaño. Aunque nosotros nos hemos decantado por utilizar solo tres ingredientes principales,
+                si lo deseas puedes añadir verduras como zanahoria y cebolla, e incluso pedazos de carne de ternera.
+            </paso>
+            <paso número="2">Cogemos una olla, agregamos las lentejas de bote, las patatas troceadas, el jamón y la hoja
+                de laurel. Si decidimos añadir más ingredientes, incorpóralos también cortados del mismo tamaño que las
+                papas.
+            </paso>
+            <paso número="3">Ahora, cubrimos los ingredientes con agua. Si quieres, puedes utilizar caldo de verduras o
+                caldo de carne para potenciar el sabor de la receta de lentejas con jamón y patatas, aunque nosotros
+                hemos preferido mantener el sabor y aroma del jamón. Cocinamos a fuego alto hasta que empiece a hervir
+                el agua, en este punto bajamos la temperatura para cocinar las lentejas a fuego lento. En función del
+                tipo de fuego, tardarán más o menos en hacerse. En mi caso, estuvieron listas en 30-35 minutos.
+
+                Truco: Añade un chorrito de aceite y verás que quedan todavía más deliciosas.
+            </paso>
+            <paso número="4">Vamos removiendo de vez en cuando las lentejas con patatas y jamón para evitar que se
+                queden pegadas o se quemen. Así mismo, si observamos que se quedan sin agua y todavía no están hechas,
+                añadimos un poco más. Por otro lado, agregamos comino y pimentón dulce, u otras especias al gusto, y una
+                pizca de sal. Pero, ¡ojo con la sal! El jamón serrano ya es suficiente salado, de manera que ten cuidado
+                de no pasarte.
+            </paso>
+            <paso número="5">Cuando las lentejas con jamón y patatas estén listas, las servimos de inmediato para
+                disfrutarlas calientes. Como ves, se trata de una receta sencilla pero sabrosa, que mantiene a la
+                perfección el intenso sabor del jamón. Por supuesto, como decíamos, puedes agregar otros ingredientes
+                como verduras, chorizo, etc. Si es así, no olvides dejar tu comentario para indicarnos cómo has adaptado
+                la receta, ¡nos encanta ver cómo añadís vuestro toque personal a nuestros platos!
+            </paso>
+        </elaboración>
+        <tiempo>60 minutos</tiempo>
+        <utensilios>
+            <utensilio>Olla</utensilio>
+            <utensilio>Cuchillo</utensilio>
+        </utensilios>
+        <origen>
+            https://www.recetasgratis.net/receta-de-lentejas-con-jamon-y-patatas-sencillas-pero-deliciosas-62860.html
+        </origen>
+    </receta>
+    <receta tipoPlato="postre" dificultad="difícil">
+        <nombre>Postre de limon</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombreIngrediente>Crema de leche</nombreIngrediente>
+                <cantidad>250 Mililitros</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Leche condensada</nombreIngrediente>
+                <cantidad>250 Mililitros</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Leche</nombreIngrediente>
+                <cantidad>250 Mililitros</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Limón</nombreIngrediente>
+                <cantidad>4 Unidades</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Galletas dulces trituradas</nombreIngrediente>
+                <cantidad>200 Gramos</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <elaboración>
+            <paso número="1">Antes de realizar los postres de limón, el primer paso es alistar todos los ingredientes.
+            </paso>
+            <paso número="2">En un bol batir la crema de leche con la leche condensada, hasta lograr una mezcla
+                homogénea.
+            </paso>
+            <paso número="3">Añadir el zumo del limón sin parar de batir ya que se puede cortar la preparación,
+                notaremos que espesa un poco la mezcla y eso es lo que queremos.
+            </paso>
+            <paso número="4">En los vasos pequeños añadir una cucharadita de las galletas trituradas y acomodarla
+                bien.
+            </paso>
+            <paso número="5">Sobre éstas agregar la mezcla de limón hasta la mitad de los vasos pequeños.</paso>
+            <paso número="6">Finalmente añadir otra cucharadita de galletas y más crema de limón. Espolvorea un poco de
+                ralladura de limón y refrigera los postres de limón mínimo 3 horas para que tengan una consistencia
+                firme. Si te ha gustado esta receta, tienes algún comentario o inquietud, danos tu opinión.
+            </paso>
+        </elaboración>
+        <tiempo>30 minutos</tiempo>
+        <utensilios>
+            <utensilio>Vasos pequeños</utensilio>
+            <utensilio>Bol</utensilio>
+        </utensilios>
+        <origen>https://www.recetasgratis.net/receta-de-postre-de-limon-32460.html</origen>
+    </receta>
+    <receta tipoPlato="segundoPlato" dificultad="fácil">
+        <nombre>Cóctel de gambas - Especial con gambas al brandy</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombreIngrediente>Gamba roja</nombreIngrediente>
+                <cantidad>500 Gramos</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Palmito</nombreIngrediente>
+                <cantidad>150 Gramos</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Lechuga romana</nombreIngrediente>
+                <cantidad>2 Hojas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Piña natural</nombreIngrediente>
+                <cantidad>2 Rodajas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Salsa Ketchup</nombreIngrediente>
+                <cantidad>2 Cucharadas soperas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Mayonesa</nombreIngrediente>
+                <cantidad>3 Cucharadas soperas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Zumo de naranja</nombreIngrediente>
+                <cantidad>1 Cucharada sopera</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Tabasco</nombreIngrediente>
+                <cantidad>3 Gotas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Brandy</nombreIngrediente>
+                <cantidad>1 Cucharada sopera</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Tomates cherry</nombreIngrediente>
+                <cantidad>4</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Rodajas de limón</nombreIngrediente>
+                <cantidad>Al gusto</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Perejil fresco picado</nombreIngrediente>
+                <cantidad>1 Cucharada sopera</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Cebollino picado</nombreIngrediente>
+                <cantidad>1 Cucharadita</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Aceite de oliva</nombreIngrediente>
+                <cantidad>2 Cucharadas soperas</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <elaboración>
+            <paso número="1">Una vez tengamos todos los ingredientes necesarios para preparar nuestro cóctel de gambas y
+                piña, en una satén ponemos el aceite, salteamos las gambas, machacamos las cabezas para que suelten su
+                jugo y las flameamos con el brandy.
+                Reservamos 8 gambas enteras.
+                Para flamear deberás acercar la llama al brandy, se prenderá fuego dentro de la sartén y arderá hasta
+                que se consuma todo el alcohol del brandy.
+            </paso>
+            <paso número="2">Dejamos que las gambas flameadas enfríen a temperatura ambiente para poder pelarlas y
+                trocearlas. Reservamos también la salsa de la cocción y reservamos.
+                También puedes hacer unos langostinos flameados, si prefieres usar estos en vez de gambas rojas.
+            </paso>
+            <paso número="3">Teniendo las gambas al brandy lista, pasamos a preparar ya el cóctel de gambas. Entonces,
+                empezamos por cortar las hojas de lechuga y trocear la piña junto con los palmitos.
+                Para hacer la salsa rosa bastará con mezclar todo los ingredientes de la lista.
+            </paso>
+            <paso número="4">Ahora ya solo queda mezclar todo los ingredientes en un bol con la salsa, las gambas y la
+                salsa de la cocción de las mismas. Comprueba el sabor y corrige la sazón si es necesario.
+            </paso>
+            <paso número="5">Emplatamos nuestro cóctel de gambas con gambas al brandy y ponemos dos gambas enteras
+                reservadas sobre cada plato. ¡Listo! Esté cóctel de gambas y piña está de vicio, os lo aseguro. ¡Buen
+                provecho!
+            </paso>
+        </elaboración>
+        <tiempo>30 minutos</tiempo>
+        <utensilios>
+            <utensilio>Bol</utensilio>
+        </utensilios>
+        <origen>https://www.recetasgratis.net/receta-de-coctel-de-gambas-especial-con-gambas-al-brandy-62871.html
+        </origen>
+    </receta>
+    <receta tipoPlato="entrante" dificultad="fácil">
+        <nombre>Tallarines yakisoba</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombreIngrediente>Carne de Cerdo</nombreIngrediente>
+                <cantidad>150 Gramos</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Puerro</nombreIngrediente>
+                <cantidad>1</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Col</nombreIngrediente>
+                <cantidad>¼</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Cebolla</nombreIngrediente>
+                <cantidad>1</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Diente de Ajo</nombreIngrediente>
+                <cantidad>1</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Tallarines</nombreIngrediente>
+                <cantidad>250 Gramos</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pimiento verde</nombreIngrediente>
+                <cantidad>1 Trozo</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pimiento rojo</nombreIngrediente>
+                <cantidad>1 Trozo</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Sake</nombreIngrediente>
+                <cantidad>1 Cucharadita</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Salsa de soja</nombreIngrediente>
+                <cantidad>1 Cucharadita</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Jengibre rallado</nombreIngrediente>
+                <cantidad>Al gusto</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <elaboración>
+            <paso número="1">Para preparar los tallarines yakisoba, se trocea la carne de cerdo y se pone en maceración
+                con una cucharadita de sake, otra cucharadita de salsa de soja y un poco de jengibre rallado durante 10
+                minutos.
+            </paso>
+            <paso número="2">Pasados unos 30 minutos de maceración, se fríe bien el ajo troceado y la carne, se añaden
+                las verduras cortadas en trozos pequeños y se reserva. Al mismo tiempo, se hierven los tallarines o
+                espaguetis si se prefieren elaborar fideos yakisoba, con un chorrito de aceite para que no se peguen.
+            </paso>
+            <paso número="3">En la sartén, se coloca la carne y las verduras preparadas y se añade la pasta cocida y
+                escurrida. No hace falta freír demasiado los tallarines yakisoba, de manera que cuando estén más o menos
+                mezclados y bien calientes, se añaden sal, pimienta y una cucharada de salsa de soja.
+                Si se echa en lugar de salsa de soja una salsa especial japonesa para los yakisoba, resultará un plato
+                mucho más japonés. Esta salsa especial para yakisoba se puede conseguir en tiendas de comida japonesa.
+                Su sabor es dulce y salado, y se puede obtener un sabor parecido mezclando salsa de soja con ketchup y
+                un poco de salsa inglesa.
+            </paso>
+            <paso número="4">Naturalmente, ahora que sabes cómo hacer tallarines yakisoba o fideos yakisoba, se pueden
+                cocinar también con carne de ternera, de pollo o gambas. En el caso de las gambas, podemos conseguir un
+                yakisoba muy bueno con gambas hervidas y congeladas (siempre es imprescindible quitarles los nervios y
+                ponerlas en maceración con sake un rato). ¡Buen provecho!
+            </paso>
+        </elaboración>
+        <tiempo>25 minutos</tiempo>
+        <utensilios>
+            <utensilio>Cuchillo</utensilio>
+            <utensilio>Bol</utensilio>
+            <utensilio>Sarten</utensilio>
+        </utensilios>
+        <origen>https://www.recetasgratis.net/receta-de-tallarines-yakisoba-los-autenticos-japoneses-63369.html</origen>
+    </receta>
+    <receta tipoPlato="primerPlato" dificultad="difícil">
+        <nombre>Sopa al Estilo del Sudoeste</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombreIngrediente>Carne de pavo magra, molida</nombreIngrediente>
+                <cantidad>3/4 de libra</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Mezcla de vegetales congelados al estilo del sudoeste (maíz, frijoles negros,
+                    pimientos rojos)
+                </nombreIngrediente>
+                <cantidad>2 tazas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Salsa de tomate sin sal agregada Hunt's® Tomato Sauce-No Salt Added
+                </nombreIngrediente>
+                <cantidad>2 tazas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Caldo de pollo reducido en sodio</nombreIngrediente>
+                <cantidad>2 tazas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Tomates en cubos y ajíes verdes suaves Ro*Tel® Mild Diced Tomatoes y Green Chilies,
+                    sin escurrir
+                </nombreIngrediente>
+                <cantidad>1 lata</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Mezcla para sazonar tacos</nombreIngrediente>
+                <cantidad>1/2 cucharadita</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <calorias>237</calorias>
+        <elaboración>
+            <paso número="1">Rocíe una sartén grande con spray antiadherente y caliéntela a fuego medio. Agregue la
+                carne de pavo y cocine durante 5 minutos o hasta que esté desmenuzada y ya no se vea rosada. Revuelva
+                ocasionalmente. Escurra. Agregue los vegetales. Cocine revolviendo durante 3 a 5 minutos o hasta que
+                estén tiernos.
+            </paso>
+            <paso número="2">Agregue los demás ingredientes y cocine a fuego bajo durante 10 minutos.</paso>
+        </elaboración>
+        <tiempo>20 min</tiempo>
+        <utensilios>
+            <utensilio>Spray anti-adherente PAM® Original</utensilio>
+        </utensilios>
+        <origen>https://www.listoyservido.com/recetas-Sopa-al-Estilo-del-Sudoeste-6293.html</origen>
+    </receta>
+    <receta tipoPlato="primerPlato" dificultad="difícil">
+        <nombre>Guisado de Vegetales con Curry</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombreIngrediente>Coliflor</nombreIngrediente>
+                <cantidad>1 paquete (16 onzas) de cabezas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Curry en polvo</nombreIngrediente>
+                <cantidad>2 cucharaditas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Comino molido</nombreIngrediente>
+                <cantidad>1/2 cucharadita</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>tomates en cubos asados al fuego con ajo, Hunt's® Fire Roasted Diced Tomatoes with
+                    Garlic, sin escurrir
+                </nombreIngrediente>
+                <cantidad>1 lata</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Garbanzos lavados y escurridos</nombreIngrediente>
+                <cantidad>1 lata</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Puré de calabaza enlatado</nombreIngrediente>
+                <cantidad>3/4 de taza</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Agua</nombreIngrediente>
+                <cantidad>3/4 de taza</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Sal</nombreIngrediente>
+                <cantidad>1/4 de cucharadita</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Arvejas congeladas</nombreIngrediente>
+                <cantidad>1 taza</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <calorias>158</calorias>
+        <elaboración>
+            <paso número="1">Coloque las cabezas de coliflor en un tazón tapado apto para horno de microondas. Cocine en
+                horno de microondas a temperatura alta durante 8 minutos o hasta que esté tierno. A los 4 minutos,
+                revuelva. Corte las cabezas grandes de coliflor en trozos más pequeños.
+            </paso>
+            <paso número="2">Mientras tanto, coloque en una sartén antiadherente grande el curry en polvo y el comino.
+                Caliente a fuego medio-alto hasta que se desprenda el aroma. Añada los tomates sin escurrir, los
+                frijoles, el puré de calabaza y el agua. Haga hervir a fuego medio-alto. Agregue las cabezas de coliflor
+                cocidas y la sal. Reduzca el fuego a medio. Deje hervir durante 15 minutos. Cuando falten 5 minutos de
+                cocción, agregue las arvejas y revuelva.
+            </paso>
+        </elaboración>
+        <tiempo>30 min</tiempo>
+        <utensilios>
+            <utensilio>Tazón</utensilio>
+            <utensilio>Microondas</utensilio>
+            <utensilio>Sartén</utensilio>
+        </utensilios>
+        <origen>https://www.listoyservido.com/recetas-Guisado-de-Vegetales-con-Curry-6175.html</origen>
+    </receta>
+    <receta tipoPlato="aperitivo" dificultad="fácil">
+        <nombre>Sándwiches de Queso y Peras a la Parrilla</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombreIngrediente>Healthy Choice® Seven Grain Bread</nombreIngrediente>
+                <cantidad>8 rebanadas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Queso cheddar reducido en grasas</nombreIngrediente>
+                <cantidad>4 rebanadas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pera</nombreIngrediente>
+                <cantidad>2 piezas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Margarina</nombreIngrediente>
+                <cantidad>4 cucharadas</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <calorias>346</calorias>
+        <elaboración>
+            <paso número="1">Precaliente una sartén grande o una plancha eléctrica a fuego medio.</paso>
+            <paso número="2">Cubra de manera uniforme 4 rebanadas de pan con el queso y las rebanadas de pera. Tape con
+                las otras 4 rebanadas de pan. Esparza el Parkay sobre la parte externa de los sándwiches.
+            </paso>
+            <paso número="3">Cocine los sándwiches en una sartén o en una plancha durante 3 minutos de cada lado o hasta
+                que se doren bien y el queso se derrita.
+            </paso>
+        </elaboración>
+        <tiempo>10 min</tiempo>
+        <utensilios>
+            <utensilio>Sartén</utensilio>
+        </utensilios>
+        <origen>https://www.listoyservido.com/recetas-Sndwiches-de-Queso-y-Peras-a-la-Parrilla-6197.html</origen>
+    </receta>
+    <receta tipoPlato="primerPlato" dificultad="media">
+        <nombre>Zucchini, Frijoles Negros y Arroz al Sartén</nombre>
+        <ingredientes>
+            <ingrediente>
+                <nombreIngrediente>Aceite de canola</nombreIngrediente>
+                <cantidad>1 cucharada</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Zucchini</nombreIngrediente>
+                <cantidad>1-1/2 tazas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Cebolla picada</nombreIngrediente>
+                <cantidad>1/2 taza</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Pimiento dulce</nombreIngrediente>
+                <cantidad>1/2 taza</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Frijoles negros enteros</nombreIngrediente>
+                <cantidad>1 lata</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Tomates</nombreIngrediente>
+                <cantidad>1 lata</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Agua</nombreIngrediente>
+                <cantidad>3/4 de taza</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Orégano</nombreIngrediente>
+                <cantidad>1/4 cucharadita</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Arroz blanco instantáneo</nombreIngrediente>
+                <cantidad>1 taza</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombreIngrediente>Quesos rallados cheddar y Monterey Jack</nombreIngrediente>
+                <cantidad>1/2 taza</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <calorias>284</calorias>
+        <elaboración>
+            <paso número="1">Caliente el aceite en una sartén grande a fuego medio. Agregue los zucchini, cebolla y el
+                pimiento. Cocine durante 5 minutos, revolviendo ocasionalmente. Añada los frijoles, los tomates sin
+                escurrir, agua y el orégano. Aumente el fuego y cocine hasta que hierva.
+            </paso>
+            <paso número="2">Agregue el arroz y revuelva bien. Tape, retire del fuego y deje reposar durante 7 minutos o
+                hasta que el líquido se haya absorbido. Esparza el queso por encima.
+            </paso>
+        </elaboración>
+        <tiempo>30 min</tiempo>
+        <utensilios>
+            <utensilio>Sartén</utensilio>
+        </utensilios>
+        <origen>https://www.listoyservido.com/recetas-Zucchini-Frijoles-Negros-y-Arroz-al-Sartn-6355.html</origen>
+    </receta>
+</recetas>

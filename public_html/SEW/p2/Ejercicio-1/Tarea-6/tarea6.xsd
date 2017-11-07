@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified"
+           elementFormDefault="qualified" targetNamespace="uo239795" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="articulos">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" name="articulo">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="titulo" type="xs:string"/>
+                            <xs:element name="autores">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element maxOccurs="unbounded" name="autor">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="nombreAutor" type="xs:string"/>
+                                                    <xs:element name="correo" type="xs:string"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element minOccurs="0" name="resumen" type="xs:string"/>
+                            <xs:element name="claves">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element maxOccurs="unbounded" name="clave" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="revista" type="xs:string"/>
+                            <xs:element name="enumeracionRevista">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element minOccurs="0" name="numeroRevista" type="xs:unsignedByte"/>
+                                        <xs:element minOccurs="0" name="volumenRevista" type="xs:unsignedByte"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="paginaInicio" type="xs:unsignedShort"/>
+                            <xs:element name="paginaFinal" type="xs:unsignedShort"/>
+                            <xs:element name="año" type="xs:unsignedShort"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

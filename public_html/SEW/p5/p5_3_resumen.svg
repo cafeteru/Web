@@ -1,0 +1,1092 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg width="auto" height="9470" style="overflow:visible " version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <rect x="20" y="20" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="30" y="30" font-size="10" style="fill:blue">html</text>
+    <text x="30" y="40" font-size="8" style="fill:black">lang: es</text>
+    <rect x="240" y="20" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="250" y="30" font-size="10" style="fill:blue">head</text>
+    <path d="M220 40 C240 40 220 40 240 40" style="fill:transparent;stroke:black"/>
+    <rect x="460" y="20" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="30" font-size="10" style="fill:blue">meta</text>
+    <path d="M440 40 C460 40 440 40 460 40" style="fill:transparent;stroke:black"/>
+    <text x="470" y="40" font-size="8" style="fill:black">charset: utf-8</text>
+    <rect x="460" y="70" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="80" font-size="10" style="fill:blue">meta</text>
+    <path d="M440 40 C460 40 440 90 460 90" style="fill:transparent;stroke:black"/>
+    <text x="470" y="90" font-size="8" style="fill:black">name: author</text>
+    <text x="470" y="100" font-size="8" style="fill:black">content: Iván González Mahagamage</text>
+    <rect x="460" y="120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="130" font-size="10" style="fill:blue">meta</text>
+    <path d="M440 40 C460 40 440 140 460 140" style="fill:transparent;stroke:black"/>
+    <text x="470" y="140" font-size="8" style="fill:black">name: description</text>
+    <text x="470" y="150" font-size="8" style="fill:black">content: Práctica 05 de la asignatura Software y Estándares
+        para la Web
+    </text>
+    <rect x="460" y="170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="180" font-size="10" style="fill:blue">meta</text>
+    <path d="M440 40 C460 40 440 190 460 190" style="fill:transparent;stroke:black"/>
+    <text x="470" y="190" font-size="8" style="fill:black">name: keywords</text>
+    <text x="470" y="200" font-size="8" style="fill:black">content:
+        Práctica,05,HTML,HTML5,resumen,Software,Estándares,Web
+    </text>
+    <rect x="460" y="220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="230" font-size="10" style="fill:blue">title</text>
+    <path d="M440 40 C460 40 440 240 460 240" style="fill:transparent;stroke:black"/>
+    <rect x="526" y="220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="536" y="230" font-size="8" style="fill:white">Práctica 05 | Software y Estándares para la Web</text>
+    <rect x="460" y="270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="280" font-size="10" style="fill:blue">link</text>
+    <path d="M440 40 C460 40 440 290 460 290" style="fill:transparent;stroke:black"/>
+    <text x="470" y="290" font-size="8" style="fill:black">href: https://fonts.googleapis.com/css?family=Ubuntu</text>
+    <text x="470" y="300" font-size="8" style="fill:black">rel: stylesheet</text>
+    <rect x="460" y="320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="330" font-size="10" style="fill:blue">link</text>
+    <path d="M440 40 C460 40 440 340 460 340" style="fill:transparent;stroke:black"/>
+    <text x="470" y="340" font-size="8" style="fill:black">href: https://fonts.googleapis.com/css?family=Titillium+Web
+    </text>
+    <text x="470" y="350" font-size="8" style="fill:black">rel: stylesheet</text>
+    <rect x="460" y="370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="380" font-size="10" style="fill:blue">link</text>
+    <path d="M440 40 C460 40 440 390 460 390" style="fill:transparent;stroke:black"/>
+    <text x="470" y="390" font-size="8" style="fill:black">rel: icon</text>
+    <text x="470" y="400" font-size="8" style="fill:black">type: image/x-icon</text>
+    <text x="470" y="410" font-size="8" style="fill:black">href:
+        https://unioviedo-my.sharepoint.com/personal/uo239795_uniovi_es/_layouts/15/guestaccess.aspx?docid=1b184fdc380484a7bbdad079aa2a52135&amp;authkey=ATTjsDQ1WDwFg-XqhaEbSF4&amp;e=168190abc0264416a06fc92675ca41aa
+    </text>
+    <rect x="460" y="420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="430" font-size="10" style="fill:blue">link</text>
+    <path d="M440 40 C460 40 440 440 460 440" style="fill:transparent;stroke:black"/>
+    <text x="470" y="440" font-size="8" style="fill:black">rel: stylesheet</text>
+    <text x="470" y="450" font-size="8" style="fill:black">type: text/css</text>
+    <text x="470" y="460" font-size="8" style="fill:black">href: ../../style/navDesplegable.css</text>
+    <rect x="460" y="470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="480" font-size="10" style="fill:blue">link</text>
+    <path d="M440 40 C460 40 440 490 460 490" style="fill:transparent;stroke:black"/>
+    <text x="470" y="490" font-size="8" style="fill:black">rel: stylesheet</text>
+    <text x="470" y="500" font-size="8" style="fill:black">type: text/css</text>
+    <text x="470" y="510" font-size="8" style="fill:black">href: ../../style/style.css</text>
+    <rect x="460" y="520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="530" font-size="10" style="fill:blue">link</text>
+    <path d="M440 40 C460 40 440 540 460 540" style="fill:transparent;stroke:black"/>
+    <text x="470" y="540" font-size="8" style="fill:black">rel: stylesheet</text>
+    <text x="470" y="550" font-size="8" style="fill:black">type: text/css</text>
+    <text x="470" y="560" font-size="8" style="fill:black">href: ../../style/practica05.css</text>
+    <rect x="240" y="620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="250" y="630" font-size="10" style="fill:blue">body</text>
+    <path d="M220 40 C240 40 220 640 240 640" style="fill:transparent;stroke:black"/>
+    <rect x="460" y="620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="630" font-size="10" style="fill:blue">header</text>
+    <path d="M440 640 C460 640 440 640 460 640" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="630" font-size="10" style="fill:blue">h1</text>
+    <path d="M660 640 C680 640 660 640 680 640" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="620" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="630" font-size="8" style="fill:white">Canción de hielo y fuego</text>
+    <rect x="680" y="670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="680" font-size="10" style="fill:blue">nav</text>
+    <path d="M660 640 C680 640 660 690 680 690" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="680" font-size="10" style="fill:blue">ul</text>
+    <path d="M880 690 C900 690 880 690 900 690" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="680" font-size="10" style="fill:blue">li</text>
+    <path d="M1100 690 C1120 690 1100 690 1120 690" style="fill:transparent;stroke:black"/>
+    <rect x="1340" y="670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1350" y="680" font-size="10" style="fill:blue">a</text>
+    <path d="M1320 690 C1340 690 1320 690 1340 690" style="fill:transparent;stroke:black"/>
+    <text x="1350" y="690" font-size="8" style="fill:black">href: ../../index.html</text>
+    <rect x="1406" y="670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1416" y="680" font-size="8" style="fill:white">Portada</text>
+    <rect x="1120" y="770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="780" font-size="10" style="fill:blue">li</text>
+    <path d="M1100 690 C1120 690 1100 790 1120 790" style="fill:transparent;stroke:black"/>
+    <rect x="1340" y="770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1350" y="780" font-size="10" style="fill:blue">a</text>
+    <path d="M1320 790 C1340 790 1320 790 1340 790" style="fill:transparent;stroke:black"/>
+    <text x="1350" y="790" font-size="8" style="fill:black">href: ../../aficiones.html</text>
+    <rect x="1406" y="770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1416" y="780" font-size="8" style="fill:white">Aficiones</text>
+    <rect x="1120" y="870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="880" font-size="10" style="fill:blue">li</text>
+    <path d="M1100 690 C1120 690 1100 890 1120 890" style="fill:transparent;stroke:black"/>
+    <rect x="1340" y="870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1350" y="880" font-size="10" style="fill:blue">a</text>
+    <path d="M1320 890 C1340 890 1320 890 1340 890" style="fill:transparent;stroke:black"/>
+    <text x="1350" y="890" font-size="8" style="fill:black">href: ../../sew.html</text>
+    <rect x="1406" y="870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1416" y="880" font-size="8" style="fill:white">SEW</text>
+    <rect x="1340" y="920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1350" y="930" font-size="10" style="fill:blue">ul</text>
+    <path d="M1320 890 C1340 890 1320 940 1340 940" style="fill:transparent;stroke:black"/>
+    <rect x="1560" y="920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1570" y="930" font-size="10" style="fill:blue">li</text>
+    <path d="M1540 940 C1560 940 1540 940 1560 940" style="fill:transparent;stroke:black"/>
+    <rect x="1780" y="920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1790" y="930" font-size="10" style="fill:blue">a</text>
+    <path d="M1760 940 C1780 940 1760 940 1780 940" style="fill:transparent;stroke:black"/>
+    <text x="1790" y="940" font-size="8" style="fill:black">href: ../../SEW/p0/index.html</text>
+    <rect x="1846" y="920" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1856" y="930" font-size="8" style="fill:white">Práctica 00</text>
+    <rect x="1560" y="1020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1570" y="1030" font-size="10" style="fill:blue">li</text>
+    <path d="M1540 940 C1560 940 1540 1040 1560 1040" style="fill:transparent;stroke:black"/>
+    <rect x="1780" y="1020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1790" y="1030" font-size="10" style="fill:blue">a</text>
+    <path d="M1760 1040 C1780 1040 1760 1040 1780 1040" style="fill:transparent;stroke:black"/>
+    <text x="1790" y="1040" font-size="8" style="fill:black">href: ../../SEW/p1/p1.html</text>
+    <rect x="1846" y="1020" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1856" y="1030" font-size="8" style="fill:white">Práctica 01</text>
+    <rect x="1560" y="1120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1570" y="1130" font-size="10" style="fill:blue">li</text>
+    <path d="M1540 940 C1560 940 1540 1140 1560 1140" style="fill:transparent;stroke:black"/>
+    <rect x="1780" y="1120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1790" y="1130" font-size="10" style="fill:blue">a</text>
+    <path d="M1760 1140 C1780 1140 1760 1140 1780 1140" style="fill:transparent;stroke:black"/>
+    <text x="1790" y="1140" font-size="8" style="fill:black">href: ../../SEW/p3/p3.html</text>
+    <rect x="1846" y="1120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1856" y="1130" font-size="8" style="fill:white">Práctica 03</text>
+    <rect x="1780" y="1170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1790" y="1180" font-size="10" style="fill:blue">ul</text>
+    <path d="M1760 1140 C1780 1140 1760 1190 1780 1190" style="fill:transparent;stroke:black"/>
+    <rect x="2000" y="1170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2010" y="1180" font-size="10" style="fill:blue">li</text>
+    <path d="M1980 1190 C2000 1190 1980 1190 2000 1190" style="fill:transparent;stroke:black"/>
+    <rect x="2220" y="1170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2230" y="1180" font-size="10" style="fill:blue">a</text>
+    <path d="M2200 1190 C2220 1190 2200 1190 2220 1190" style="fill:transparent;stroke:black"/>
+    <text x="2230" y="1190" font-size="8" style="fill:black">href: ../../SEW/p3/p3_1_introduccion.html</text>
+    <rect x="2286" y="1170" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="2296" y="1180" font-size="8" style="fill:white">Introducción P3</text>
+    <rect x="2000" y="1270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2010" y="1280" font-size="10" style="fill:blue">li</text>
+    <path d="M1980 1190 C2000 1190 1980 1290 2000 1290" style="fill:transparent;stroke:black"/>
+    <rect x="2220" y="1270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2230" y="1280" font-size="10" style="fill:blue">a</text>
+    <path d="M2200 1290 C2220 1290 2200 1290 2220 1290" style="fill:transparent;stroke:black"/>
+    <text x="2230" y="1290" font-size="8" style="fill:black">href: ../../SEW/p3/p3_2_libros.html</text>
+    <rect x="2286" y="1270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="2296" y="1280" font-size="8" style="fill:white">Libros P3</text>
+    <rect x="2000" y="1370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2010" y="1380" font-size="10" style="fill:blue">li</text>
+    <path d="M1980 1190 C2000 1190 1980 1390 2000 1390" style="fill:transparent;stroke:black"/>
+    <rect x="2220" y="1370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2230" y="1380" font-size="10" style="fill:blue">a</text>
+    <path d="M2200 1390 C2220 1390 2200 1390 2220 1390" style="fill:transparent;stroke:black"/>
+    <text x="2230" y="1390" font-size="8" style="fill:black">href: ../../SEW/p3/p3_3_resumen.html</text>
+    <rect x="2286" y="1370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="2296" y="1380" font-size="8" style="fill:white">Resumen P3</text>
+    <rect x="2000" y="1470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2010" y="1480" font-size="10" style="fill:blue">li</text>
+    <path d="M1980 1190 C2000 1190 1980 1490 2000 1490" style="fill:transparent;stroke:black"/>
+    <rect x="2220" y="1470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2230" y="1480" font-size="10" style="fill:blue">a</text>
+    <path d="M2200 1490 C2220 1490 2200 1490 2220 1490" style="fill:transparent;stroke:black"/>
+    <text x="2230" y="1490" font-size="8" style="fill:black">href: ../../SEW/p3/p3_4_personajes.html</text>
+    <rect x="2286" y="1470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="2296" y="1480" font-size="8" style="fill:white">Personajes P3</text>
+    <rect x="2000" y="1570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2010" y="1580" font-size="10" style="fill:blue">li</text>
+    <path d="M1980 1190 C2000 1190 1980 1590 2000 1590" style="fill:transparent;stroke:black"/>
+    <rect x="2220" y="1570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2230" y="1580" font-size="10" style="fill:blue">a</text>
+    <path d="M2200 1590 C2220 1590 2200 1590 2220 1590" style="fill:transparent;stroke:black"/>
+    <text x="2230" y="1590" font-size="8" style="fill:black">href: ../../SEW/p3/p3_5_fuentes.html</text>
+    <rect x="2286" y="1570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="2296" y="1580" font-size="8" style="fill:white">Fuentes P3</text>
+    <rect x="2000" y="1670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2010" y="1680" font-size="10" style="fill:blue">li</text>
+    <path d="M1980 1190 C2000 1190 1980 1690 2000 1690" style="fill:transparent;stroke:black"/>
+    <rect x="2220" y="1670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2230" y="1680" font-size="10" style="fill:blue">a</text>
+    <path d="M2200 1690 C2220 1690 2200 1690 2220 1690" style="fill:transparent;stroke:black"/>
+    <text x="2230" y="1690" font-size="8" style="fill:black">href: ../../SEW/p3/p3_6_adaptaciones.html</text>
+    <rect x="2286" y="1670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="2296" y="1680" font-size="8" style="fill:white">Adaptaciones P3</text>
+    <rect x="2000" y="1770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2010" y="1780" font-size="10" style="fill:blue">li</text>
+    <path d="M1980 1190 C2000 1190 1980 1790 2000 1790" style="fill:transparent;stroke:black"/>
+    <rect x="2220" y="1770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2230" y="1780" font-size="10" style="fill:blue">a</text>
+    <path d="M2200 1790 C2220 1790 2200 1790 2220 1790" style="fill:transparent;stroke:black"/>
+    <text x="2230" y="1790" font-size="8" style="fill:black">href: ../../SEW/p3/p3_7_mas.html</text>
+    <rect x="2286" y="1770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="2296" y="1780" font-size="8" style="fill:white">Más información P3</text>
+    <rect x="1560" y="1970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1570" y="1980" font-size="10" style="fill:blue">li</text>
+    <path d="M1540 940 C1560 940 1540 1990 1560 1990" style="fill:transparent;stroke:black"/>
+    <rect x="1780" y="1970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1790" y="1980" font-size="10" style="fill:blue">a</text>
+    <path d="M1760 1990 C1780 1990 1760 1990 1780 1990" style="fill:transparent;stroke:black"/>
+    <text x="1790" y="1990" font-size="8" style="fill:black">href: ../../SEW/p5/p5.html</text>
+    <rect x="1846" y="1970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1856" y="1980" font-size="8" style="fill:white">Práctica 05</text>
+    <rect x="1780" y="2020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1790" y="2030" font-size="10" style="fill:blue">ul</text>
+    <path d="M1760 1990 C1780 1990 1760 2040 1780 2040" style="fill:transparent;stroke:black"/>
+    <rect x="2000" y="2020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2010" y="2030" font-size="10" style="fill:blue">li</text>
+    <path d="M1980 2040 C2000 2040 1980 2040 2000 2040" style="fill:transparent;stroke:black"/>
+    <rect x="2220" y="2020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2230" y="2030" font-size="10" style="fill:blue">a</text>
+    <path d="M2200 2040 C2220 2040 2200 2040 2220 2040" style="fill:transparent;stroke:black"/>
+    <text x="2230" y="2040" font-size="8" style="fill:black">href: ../../SEW/p5/p5_1_introduccion.html</text>
+    <rect x="2286" y="2020" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="2296" y="2030" font-size="8" style="fill:white">Introducción P5</text>
+    <rect x="2000" y="2120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2010" y="2130" font-size="10" style="fill:blue">li</text>
+    <path d="M1980 2040 C2000 2040 1980 2140 2000 2140" style="fill:transparent;stroke:black"/>
+    <rect x="2220" y="2120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2230" y="2130" font-size="10" style="fill:blue">a</text>
+    <path d="M2200 2140 C2220 2140 2200 2140 2220 2140" style="fill:transparent;stroke:black"/>
+    <text x="2230" y="2140" font-size="8" style="fill:black">href: ../../SEW/p5/p5_2_libros.html</text>
+    <rect x="2286" y="2120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="2296" y="2130" font-size="8" style="fill:white">Libros P5</text>
+    <rect x="2000" y="2220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2010" y="2230" font-size="10" style="fill:blue">li</text>
+    <path d="M1980 2040 C2000 2040 1980 2240 2000 2240" style="fill:transparent;stroke:black"/>
+    <rect x="2220" y="2220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2230" y="2230" font-size="10" style="fill:blue">a</text>
+    <path d="M2200 2240 C2220 2240 2200 2240 2220 2240" style="fill:transparent;stroke:black"/>
+    <text x="2230" y="2240" font-size="8" style="fill:black">href: ../../SEW/p5/p5_3_resumen.html</text>
+    <rect x="2286" y="2220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="2296" y="2230" font-size="8" style="fill:white">Resumen P5</text>
+    <rect x="2000" y="2320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2010" y="2330" font-size="10" style="fill:blue">li</text>
+    <path d="M1980 2040 C2000 2040 1980 2340 2000 2340" style="fill:transparent;stroke:black"/>
+    <rect x="2220" y="2320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2230" y="2330" font-size="10" style="fill:blue">a</text>
+    <path d="M2200 2340 C2220 2340 2200 2340 2220 2340" style="fill:transparent;stroke:black"/>
+    <text x="2230" y="2340" font-size="8" style="fill:black">href: ../../SEW/p5/p5_4_personajes.html</text>
+    <rect x="2286" y="2320" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="2296" y="2330" font-size="8" style="fill:white">Personajes P5</text>
+    <rect x="2000" y="2420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2010" y="2430" font-size="10" style="fill:blue">li</text>
+    <path d="M1980 2040 C2000 2040 1980 2440 2000 2440" style="fill:transparent;stroke:black"/>
+    <rect x="2220" y="2420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2230" y="2430" font-size="10" style="fill:blue">a</text>
+    <path d="M2200 2440 C2220 2440 2200 2440 2220 2440" style="fill:transparent;stroke:black"/>
+    <text x="2230" y="2440" font-size="8" style="fill:black">href: ../../SEW/p5/p5_5_fuentes.html</text>
+    <rect x="2286" y="2420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="2296" y="2430" font-size="8" style="fill:white">Fuentes P5</text>
+    <rect x="2000" y="2520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2010" y="2530" font-size="10" style="fill:blue">li</text>
+    <path d="M1980 2040 C2000 2040 1980 2540 2000 2540" style="fill:transparent;stroke:black"/>
+    <rect x="2220" y="2520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2230" y="2530" font-size="10" style="fill:blue">a</text>
+    <path d="M2200 2540 C2220 2540 2200 2540 2220 2540" style="fill:transparent;stroke:black"/>
+    <text x="2230" y="2540" font-size="8" style="fill:black">href: ../../SEW/p5/p5_6_adaptaciones.html</text>
+    <rect x="2286" y="2520" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="2296" y="2530" font-size="8" style="fill:white">Adaptaciones P5</text>
+    <rect x="2000" y="2620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2010" y="2630" font-size="10" style="fill:blue">li</text>
+    <path d="M1980 2040 C2000 2040 1980 2640 2000 2640" style="fill:transparent;stroke:black"/>
+    <rect x="2220" y="2620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="2230" y="2630" font-size="10" style="fill:blue">a</text>
+    <path d="M2200 2640 C2220 2640 2200 2640 2220 2640" style="fill:transparent;stroke:black"/>
+    <text x="2230" y="2640" font-size="8" style="fill:black">href: ../../SEW/p5/p5_7_mas.html</text>
+    <rect x="2286" y="2620" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="2296" y="2630" font-size="8" style="fill:white">Más información P5</text>
+    <rect x="460" y="3070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="3080" font-size="10" style="fill:blue">main</text>
+    <path d="M440 640 C460 640 440 3090 460 3090" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="3070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="3080" font-size="10" style="fill:blue">h2</text>
+    <path d="M660 3090 C680 3090 660 3090 680 3090" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="3070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="3080" font-size="8" style="fill:white">Resumen de la historia</text>
+    <rect x="680" y="3120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="3130" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 3140 680 3140" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="3120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="3130" font-size="8" style="fill:white">
+        La saga de Canción de hielo y fuego transcurre principalmente en los Siete Reinos de Poniente, un continente
+        cuyo mapa es muy parecido al actual Reino Unido y con una antigua historia que se remonta a 12.000 años atrás.
+        La historia cuenta cómo siete reinos acabaron dominando este continente, y después cómo estas naciones fueron
+        unificadas por Aegon el Conquistador, de la Casa Targaryen, llegada desde el continente vecino tras la caída de
+        Valyria. Doscientos ochenta y tres años después de la conquista de Aegon, los Targaryen fueron derrocados por
+        Robert Baratheon en una guerra civil conocida como la Guerra del Usurpador.
+    </text>
+    <rect x="680" y="3170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="3180" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 3190 680 3190" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="3170" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="3180" font-size="8" style="fill:white">
+        Robert Baratheon accedió al Trono de Hierro tras vencer en combate singular al príncipe Rhaegar de la Casa
+        Targaryen en la Batalla del Tridente y gracias al respaldo de su amigo Lord Eddard Stark, al mentor de ambos
+        Lord Jon Arryn y de la traición al rey Targaryen ejecutada por el joven Ser Jaime Lannister, miembro de la
+        Guardia Real (de ahí su apodo "Matarreyes") y futuro cuñado de Baratheon, que se casaría con la hermana melliza
+        de Jaime Lannister, Cersei Lannister. Las novelas, que comienzan quince años después, siguen las consecuencias
+        de este evento a través de tres arcos argumentales principales, que transcurren no solo en Poniente sino también
+        en parte del continente oriental.
+    </text>
+    <rect x="680" y="3220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="3230" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 3240 680 3240" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="3220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="3230" font-size="8" style="fill:white">
+        El primer arco argumental transcurre en los Siete Reinos y cuenta la lucha de múltiples bandos por conseguir el
+        Trono de Hierro después de la muerte del Rey Robert. El primero que reclama el trono es su hijo adolescente
+        Joffrey, apoyado por la poderosa familia de su madre: la Casa Lannister. Sin embargo, Stannis, uno de los
+        hermanos de Robert, arguye que los hijos de Robert son en realidad el producto de la relación incestuosa entre
+        la reina y su hermano Jaime y reclama el trono para sí mismo. Su hermano menor, Renly, también reclama el trono
+        para sí, con el apoyo de la poderosa familia de su esposa Margaery, la Casa Tyrell. Mientras tanto, Robb Stark,
+        el heredero de Lord Eddard Stark, es proclamado Rey en el Norte, ya que los norteños buscan volver a ser
+        independientes del Trono de Hierro. De forma similar, Balon Greyjoy también reclama el trono (y la
+        independencia) de su propia región: las Islas del Hierro. La Guerra de los Cinco Reyes es el principal arco
+        argumental en las novelas segunda y tercera.
+    </text>
+    <rect x="680" y="3270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="3280" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 3290 680 3290" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="3270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="3280" font-size="8" style="fill:white">
+        El segundo arco argumental transcurre en el norte de Poniente. Aquí, hace 8.000 años se construyó un enorme muro
+        de hielo para defender Poniente de la amenaza de los Otros, una raza de seres malignos que son capaces de crear
+        muertos vivientes y acechan en las frías noches más allá del Muro. El Muro se extiende a lo largo de casi 500
+        kilómetros y tiene una altura de más de 200 metros. Está defendido por los hermanos juramentados de la Guardia
+        de la Noche, que está muy escasa de efectivos en los años en que transcurren las novelas y vive bajo la amenaza
+        de los humanos "salvajes" (que se llaman a sí mismos "el pueblo libre") que viven más al norte. Este arco sigue
+        principalmente a Jon Snow, hijo bastardo de Lord Eddard Stark, mientras asciende en la jerarquía de la Guardia
+        de la Noche y comprende la verdadera naturaleza de la amenaza de más allá del Muro. Al final de la tercera
+        novela, este arco se ha ido entrelazando más y más con la guerra civil en el sur de Poniente.
+    </text>
+    <rect x="680" y="3320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="3330" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 3340 680 3340" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="3320" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="3330" font-size="8" style="fill:white">
+        El tercer arco argumental transcurre en el continente oriental y sigue a la princesa exiliada Daenerys
+        Targaryen, la última descendiente de la Casa Targaryen, que reclama también el Trono de Hierro. La historia de
+        Daenerys sigue su ascenso al poder, desde sus principios como fugitiva trotamundos y atormentada por su hermano
+        Viserys, hasta convertirse en una reina poderosa y astuta que además posee los últimos dragones vivos. Aunque su
+        historia está separada del resto por miles de kilómetros, su objetivo es reconquistar el Trono de Hierro. No es
+        muy conocida en Poniente, pero el caos provocado por las dos guerras civiles ha hecho que el pueblo llano anhele
+        la estabilidad que proporcionaron los Targaryen (al menos los primeros de sus reyes).
+    </text>
+    <rect x="680" y="3370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="3380" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 3390 680 3390" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="3370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="3380" font-size="8" style="fill:white">
+        La "canción de hielo y fuego" se ha mencionado únicamente dos veces en la saga. La primera de ellas, en una
+        visión que tiene Daenerys en Choque de reyes: "Él es el príncipe prometido, y suya es la canción de hielo y
+        fuego", palabras pronunciadas por un Targaryen (probablemente el difunto hermano mayor de Daenerys, Rhaegar
+        Targaryen, sobre su hijo Aegon). Se deduce que hay una conexión entre la canción, la promesa y la misma
+        Daenerys. Esto se ve con más claridad en Festín de cuervos cuando Aemon Targaryen identifica a Daenerys como el
+        "príncipe que fue prometido", aunque no está claro si la profecía del Príncipe que fue Prometido es la misma que
+        la de la Canción de hielo y fuego. La otra ocasión en la que se menciona juntos al hielo y al fuego es en el
+        juramento de lealtad de los hermanos Reed a Brandon Stark en Choque de reyes.
+    </text>
+    <rect x="680" y="3420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="3430" font-size="10" style="fill:blue">h2</text>
+    <path d="M660 3090 C680 3090 660 3440 680 3440" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="3420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="3430" font-size="8" style="fill:white">Personajes principales</text>
+    <rect x="680" y="3470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="3480" font-size="10" style="fill:blue">dl</text>
+    <path d="M660 3090 C680 3090 660 3490 680 3490" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="3470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3480" font-size="10" style="fill:blue">dt</text>
+    <path d="M880 3490 C900 3490 880 3490 900 3490" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3480" font-size="8" style="fill:white">Daenerys Targaryen</text>
+    <rect x="900" y="3520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3530" font-size="10" style="fill:blue">dd</text>
+    <path d="M880 3490 C900 3490 880 3540 900 3540" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3520" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3530" font-size="8" style="fill:white">
+        Última hija viva del rey Aerys II Targaryen y su hermana-esposa, la reina Rhaella. Luego de la Guerra del
+        Usurpador, durante la que murieron sus padres, su hermano mayor Viserys y ella vivieron en el exilio,
+        esperando el momento de volver a Poniente y reclamar el Trono de Hierro.
+    </text>
+    <rect x="900" y="3570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3580" font-size="10" style="fill:blue">dt</text>
+    <path d="M880 3490 C900 3490 880 3590 900 3590" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3580" font-size="8" style="fill:white">Tyrion Lannister</text>
+    <rect x="900" y="3620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3630" font-size="10" style="fill:blue">dd</text>
+    <path d="M880 3490 C900 3490 880 3640 900 3640" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3620" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3630" font-size="8" style="fill:white">
+        Tercer hijo de Lord Tywin Lannister y Lady Joanna Lannister, y hermano menor de los gemelos Cersei y Jaime.
+        Es apodado el Gnomo y Mediohombre debido a su enanismo. Creció con el estigma de haber "matado" a su madre
+        en el parto; el rechazo de un padre estricto y riguroso por haber nacido "enano", lo llevó a ser un hombre
+        culto, inteligente y amante de los libros; cuando una espada y un escudo no lo defendían en situaciones
+        difíciles, sí lo hacía su elocuencia e inteligencia. Su sarcasmo e ironía lo hacen uno de los personajes más
+        queridos de la saga.
+    </text>
+    <rect x="900" y="3670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3680" font-size="10" style="fill:blue">dt</text>
+    <path d="M880 3490 C900 3490 880 3690 900 3690" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3680" font-size="8" style="fill:white">Jon Nieve</text>
+    <rect x="900" y="3720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3730" font-size="10" style="fill:blue">dd</text>
+    <path d="M880 3490 C900 3490 880 3740 900 3740" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3720" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3730" font-size="8" style="fill:white">
+        Hijo bastardo de Lord Eddard Stark. Un joven que decide viajar al norte de poniente en el Muro, para así
+        ingresar a la guardia de la noche. Como la mayoría de sus medios hermanos Stark, él puede entrar en la piel
+        de su lobo huargo de color blanco, llamado Fantasma. Su tarea al igual que la de sus hermanos juramentados
+        de la guardia de la noche es proteger al reino de las amenazas que están más allá del muro entre las que se
+        encuentra el "pueblo salvaje" o "pueblo libre" y los Otros, que en su tiempo se consideran inexistentes.
+    </text>
+    <rect x="900" y="3770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3780" font-size="10" style="fill:blue">dt</text>
+    <path d="M880 3490 C900 3490 880 3790 900 3790" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3780" font-size="8" style="fill:white">Cersei Lannister</text>
+    <rect x="900" y="3820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3830" font-size="10" style="fill:blue">dd</text>
+    <path d="M880 3490 C900 3490 880 3840 900 3840" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3820" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3830" font-size="8" style="fill:white">
+        Reina y ahora viuda del Rey Robert Baratheon (el "Usurpador"); Tiene una relación incestuosa con su hermano
+        Jaime Lannister quien es el padre biológico de sus tres hijos: Joffrey, Tommen y Myrcella. Con una belleza
+        legendaria, es uno de los personajes más despiadados de la saga y suele atribuir todas sus fechorías a su
+        "sangre de León" y al bienestar de sus hijos.
+    </text>
+    <rect x="900" y="3870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3880" font-size="10" style="fill:blue">dt</text>
+    <path d="M880 3490 C900 3490 880 3890 900 3890" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3880" font-size="8" style="fill:white">Sansa Stark</text>
+    <rect x="900" y="3920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3930" font-size="10" style="fill:blue">dd</text>
+    <path d="M880 3490 C900 3490 880 3940 900 3940" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3920" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3930" font-size="8" style="fill:white">
+        Primera hija de Lord Eddard Stark y Lady Catelyn Tully. Tiene tres hermanos, Robb, Bran y Rickon, y una
+        hermana menor, llamada Arya; además de un medio hermano bastardo, Jon Nieve. Se la describe como hermosa,
+        con pelo castaño rojizo y ojos azules. Ha recibido la educación propia de una dama de alta cuna y siempre se
+        comporta como tal. A menudo choca con Arya, totalmente opuesta en carácter e intereses a su hermana mayor, y
+        también mantiene una relación distante con Jon Nieve. Su loba huargo se llamó Dama, aunque fue sacrificada
+        por Lord Stark bajo las órdenes del rey Robert Baratheon después de que la reina Cersei Lannister se
+        enfureciera porque la loba de Arya, Nymeria, atacara al príncipe Joffrey; considerando que los lobos huargos
+        son demasiado peligrosos.
+    </text>
+    <rect x="900" y="3970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="3980" font-size="10" style="fill:blue">dt</text>
+    <path d="M880 3490 C900 3490 880 3990 900 3990" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="3970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="3980" font-size="8" style="fill:white">Arya Stark</text>
+    <rect x="900" y="4020" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="4030" font-size="10" style="fill:blue">dd</text>
+    <path d="M880 3490 C900 3490 880 4040 900 4040" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="4020" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="4030" font-size="8" style="fill:white">
+        Segunda hija de Lord Eddard Stark y Lady Catelyn Tully. Tiene una hermana, Sansa; tres hermanos, Robb, Bran
+        y Rickon, y un medio-hermano bastardo, Jon Nieve, al que aprecia mucho. Como algunos de sus hermanos, ella
+        es una cambiapieles, pudiendo entrar en la piel de su loba huargo, Nymeria, nombrada en referencia a la
+        reina guerrera de los Rhoynar.
+    </text>
+    <rect x="900" y="4070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="4080" font-size="10" style="fill:blue">dt</text>
+    <path d="M880 3490 C900 3490 880 4090 900 4090" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="4070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="4080" font-size="8" style="fill:white">Bran Stark</text>
+    <rect x="900" y="4120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="4130" font-size="10" style="fill:blue">dd</text>
+    <path d="M880 3490 C900 3490 880 4140 900 4140" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="4120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="4130" font-size="8" style="fill:white">
+        Es el segundo hijo y heredero de Lord Eddard Stark y Lady Catelyn Tully. Tiene dos hermanas, Sansa y Arya;
+        dos hermanos, Robb y Rickon, y un medio-hermano bastardo, Jon Nieve. Tras sufrir una caída de una torre a
+        manos de Jaime Lannister, Bran queda paralitico y comienza a experimentar visiones y extraños sueños que le
+        guiarán en un viaje hacia el norte para encontrar al "cuervo de tres ojos". Siempre acompañado de su lobo
+        huargo Verano
+    </text>
+    <rect x="680" y="4220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4230" font-size="10" style="fill:blue">h2</text>
+    <path d="M660 3090 C680 3090 660 4240 680 4240" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4230" font-size="8" style="fill:white">Fuentes literarias e históricas</text>
+    <rect x="680" y="4270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4280" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 4290 680 4290" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4280" font-size="8" style="fill:white">
+        Se han observado numerosos paralelismos entre los eventos y personajes de Canción de hielo y fuego y los sucesos
+        y personas implicados en la Guerra de las Rosas que enfrentó durante la Edad Media a dos casas nobles de
+        Inglaterra. Dos de las familias principales en Canción de hielo y fuego, los Stark y los Lannister, podrían
+        verse como representantes de la Casa de York y a la Casa de Lancaster, respectivamente.
+    </text>
+    <rect x="680" y="4320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4330" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 4340 680 4340" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4320" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4330" font-size="8" style="fill:white">
+        Un conflicto similar inspirado por la realidad es la pelea por la sucesión llamada la Danza de los Dragones, que
+        enfrenta a dos hermanos por la sucesión del trono: Aegon II y Rhaenyra. El conflicto histórico que provee la
+        inspiración es la lucha entre la emperatriz Matilde de Inglaterra, hija de Enrique I de Inglaterra, y su primo
+        Esteban de Blois. La hija (Matilde / Rhaenyra) es designada la sucesora de su padre, pero debido a diferentes
+        razones, el varón rival se apodera de la corona y es proclamado como rey. Durante la lucha dinástica, la
+        heredera original es derrocada y sucedida por su hijo (Aegon III / Enrique II de Inglaterra). Ni la emperatriz
+        Matilde ni Rhaenyra llegaron a gobernar.
+    </text>
+    <rect x="680" y="4370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4380" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 4390 680 4390" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4380" font-size="8" style="fill:white">
+        Martin es un ávido estudioso de la Europa medieval y ha dicho que la Guerra de las Rosas, junto con muchos otros
+        eventos en Europa durante la Edad Media (como la cruzada albigense), han inspirado la saga. Sin embargo, insiste
+        en que no hay una correspondencia exacta.
+    </text>
+    <rect x="680" y="4420" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4430" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 4440 680 4440" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4420" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4430" font-size="8" style="fill:white">
+        Cabría citar también, a modo de guiño histórico, la similitud de ciertos aspectos geográficos de la saga con
+        algunos de la realidad de la historia medieval y pre-medieval europea, como lo es la semejanza entre el Muro de
+        la novela de Martin, cuyo cometido principal es el de defender los siete Reinos de Poniente de posibles ataques
+        por parte de los Otros y de los Salvajes del Norte, y el famoso Muro de Adriano, que pretendía defender la zona
+        britana del Imperio romano de las incursiones de los pictos y escotos del norte de la isla. Así mismo, el mapa
+        físico del continente de Poniente es bastante parecido (en cuanto a la forma, que no a las dimensiones y
+        distribución o existencia de accidentes geográficos) al de las Islas Británicas. También se ven paralelismos en
+        la ciudad libre de Braavos, con un Titán a imagen del Coloso de Rodas. También tiene otros paralelismos, al
+        estar formada por pequeñas islas en una laguna y con una sociedad muy parecida a la Venecia medieval.
+    </text>
+    <rect x="680" y="4470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4480" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 4490 680 4490" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4480" font-size="8" style="fill:white">
+        El asedio a Desembarco del Rey y su resolución tienen también un claro paralelismo con los intentos de conquista
+        sucesivos que sufrió Constantinopla, de los siglos XII al XV.
+    </text>
+    <rect x="680" y="4520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4530" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 4540 680 4540" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4520" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4530" font-size="8" style="fill:white">
+        Aunque no ha sido confirmado por Martin, es posible que las circunstancias del conflicto de Robb con los Frey
+        (como resultado de la rotura de su compromiso de matrimonio con una Frey) estén inspirados en la obra Enrique IV
+        de Shakespeare. En la obra de teatro, el nuevo rey de Inglaterra Eduardo IV de Inglaterra prefiere casarse con
+        Lady Grey después de que hubiera mandado a su aliado Ricardo Neville, conde de Warwick, a pedir la mano de la
+        hija del rey de Francia. Cuando las noticias de la boda de Enrique IV llegan a la corte francesa, el enfurecido
+        Rey de Francia y el conde de Warwick se vuelven contra Eduardo, y unen sus fuerzas a las de sus enemigos, la
+        casa de Lancaster.
+    </text>
+    <rect x="680" y="4570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4580" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 4590 680 4590" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4580" font-size="8" style="fill:white">
+        Igualmente, el personaje de Tyrion Lannister parece inspirado en Claudio, el emperador romano. El primero es un
+        hombre deforme del que la gente se burla llamándole "Gnomo", "Enano" o "Mediohombre", pero a lo largo de la
+        novela se reivindica como un astuto estratega de aguda inteligencia. El segundo, Claudio, permaneció apartado
+        del poder por sus deficiencias físicas (cojera y tartamudez) aunque finalmente llegó al trono imperial donde
+        demostró ser un administrador capaz y un gran promotor de obras públicas. Durante su reinado, el imperio
+        atravesó su periodo de mayor expansión tras la época de Augusto.
+    </text>
+    <rect x="680" y="4620" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4630" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 4640 680 4640" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4620" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4630" font-size="8" style="fill:white">
+        La relación que hubo entre Tywin Lannister y su padre Tytos Lannister es muy similar a la relación que hubo
+        entre el rey de Inglaterra Enrique III de Inglaterra y su hijo Eduardo I de Inglaterra. Enrique era un hombre
+        débil que prefería las artes a la guerra y que no garantizó demasiada gloria a su reino, mientras que su hijo
+        Eduardo era más fuerte y se convirtió en un gran rey que conquistó Gales e impidió a los nobles tomar el poder.
+        En las novelas Tytos era un hombre débil que trajo la ruina a la casa Lannister mientras que su hijo Tywin la
+        llevó a la gloria y la convirtió en la casa más poderosa de Poniente. También cabe destacar la similitud entre
+        Valyria y Roma, en cuanto a historia y características, y entre los idiomas latín y valyrio, que si bien no son
+        parecidos cumplen la misma función históricamente y en la serie.
+    </text>
+    <rect x="680" y="4670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4680" font-size="10" style="fill:blue">h2</text>
+    <path d="M660 3090 C680 3090 660 4690 680 4690" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4680" font-size="8" style="fill:white">Adaptaciones</text>
+    <rect x="680" y="4720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4730" font-size="10" style="fill:blue">h3</text>
+    <path d="M660 3090 C680 3090 660 4740 680 4740" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4720" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4730" font-size="8" style="fill:white">Televisión</text>
+    <rect x="680" y="4770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4780" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 4790 680 4790" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4780" font-size="8" style="fill:white">
+        La saga Canción de hielo y fuego está siendo adaptada a la pequeña pantalla por parte de los encargados de la
+        serie Juego de Tronos, del canal estadounidense HBO.
+    </text>
+    <rect x="680" y="4820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4830" font-size="10" style="fill:blue">h3</text>
+    <path d="M660 3090 C680 3090 660 4840 680 4840" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4820" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4830" font-size="8" style="fill:white">Juegos de rol</text>
+    <rect x="680" y="4870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4880" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 4890 680 4890" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="4870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="4880" font-size="8" style="fill:white">Dos juegos de rol ambientados en el universo de ficción de
+        Canción de hielo y fuego han sido publicados hasta la
+        fecha:
+    </text>
+    <rect x="680" y="4920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="4930" font-size="10" style="fill:blue">ul</text>
+    <path d="M660 3090 C680 3090 660 4940 680 4940" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="4920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="4930" font-size="10" style="fill:blue">li</text>
+    <path d="M880 4940 C900 4940 880 4940 900 4940" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="4920" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="4930" font-size="8" style="fill:white">
+        A Game of Thrones, un escenario de campaña que usa el sistema d20 como sistema de juego y que fue publicado
+        en inglés en 2005 por la editorial canadiense Guardians of Order. La editorial española Devir Iberia lo
+        tradujo y publicó en 2006 bajo el título Juego de tronos.
+    </text>
+    <rect x="900" y="4970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="4980" font-size="10" style="fill:blue">li</text>
+    <path d="M880 4940 C900 4940 880 4990 900 4990" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="4970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="4980" font-size="8" style="fill:white">
+        A Song of Ice and Fire, publicado por primera vez en marzo de 2009 por la editorial estadounidense Green
+        Ronin Publishing. Fue traducido y publicado en castellano el 5 de febrero de 2010 por la editorial sevillana
+        Edge Entertainment bajo el título Canción de hielo y fuego, el juego de rol de Juego de tronos.
+    </text>
+    <rect x="680" y="5070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="5080" font-size="10" style="fill:blue">h3</text>
+    <path d="M660 3090 C680 3090 660 5090 680 5090" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="5070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="5080" font-size="8" style="fill:white">Juegos de tablero</text>
+    <rect x="680" y="5120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="5130" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 5140 680 5140" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="5120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="5130" font-size="8" style="fill:white">Además de su traducción del juego de rol de Guardians of
+        Order, Devir Iberia comercializó un juego de tablero,
+        también basado en Canción de hielo y fuego.
+    </text>
+    <rect x="680" y="5170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="5180" font-size="10" style="fill:blue">p</text>
+    <path d="M660 3090 C680 3090 660 5190 680 5190" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="5170" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="5180" font-size="8" style="fill:white">Edge Entertaiment también ha publicado en español un juego
+        de cartas llamado Juego de tronos LCG y un juego de
+        tablero llamado Batallas de Poniente.
+    </text>
+    <rect x="680" y="5220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="5230" font-size="10" style="fill:blue">table</text>
+    <path d="M660 3090 C680 3090 660 5240 680 5240" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="5220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="5230" font-size="10" style="fill:blue">caption</text>
+    <path d="M880 5240 C900 5240 880 5240 900 5240" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="5220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="5230" font-size="8" style="fill:white">Videojuegos</text>
+    <rect x="900" y="5270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="5280" font-size="10" style="fill:blue">tr</text>
+    <path d="M880 5240 C900 5240 880 5290 900 5290" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="5270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="5280" font-size="10" style="fill:blue">th</text>
+    <path d="M1100 5290 C1120 5290 1100 5290 1120 5290" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="5290" font-size="8" style="fill:black">scope: col</text>
+    <text x="1130" y="5300" font-size="8" style="fill:black">id: año</text>
+    <rect x="1186" y="5270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="5280" font-size="8" style="fill:white">Año</text>
+    <rect x="1120" y="5320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="5330" font-size="10" style="fill:blue">th</text>
+    <path d="M1100 5290 C1120 5290 1100 5340 1120 5340" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="5340" font-size="8" style="fill:black">scope: col</text>
+    <text x="1130" y="5350" font-size="8" style="fill:black">id: titulo</text>
+    <rect x="1186" y="5320" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="5330" font-size="8" style="fill:white">Titulo</text>
+    <rect x="1120" y="5370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="5380" font-size="10" style="fill:blue">th</text>
+    <path d="M1100 5290 C1120 5290 1100 5390 1120 5390" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="5390" font-size="8" style="fill:black">scope: col</text>
+    <text x="1130" y="5400" font-size="8" style="fill:black">id: plataformas</text>
+    <rect x="1186" y="5370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="5380" font-size="8" style="fill:white">Plataformas</text>
+    <rect x="900" y="5470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="5480" font-size="10" style="fill:blue">tr</text>
+    <path d="M880 5240 C900 5240 880 5490 900 5490" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="5470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="5480" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 5490 C1120 5490 1100 5490 1120 5490" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="5490" font-size="8" style="fill:black">headers: año</text>
+    <rect x="1186" y="5470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="5480" font-size="8" style="fill:white">2017</text>
+    <rect x="1120" y="5520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="5530" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 5490 C1120 5490 1100 5540 1120 5540" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="5540" font-size="8" style="fill:black">headers: titulo</text>
+    <rect x="1186" y="5520" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="5530" font-size="8" style="fill:white">Game of Thrones Seven Kingdoms</text>
+    <rect x="1120" y="5570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="5580" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 5490 C1120 5490 1100 5590 1120 5590" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="5590" font-size="8" style="fill:black">headers: plataformas</text>
+    <rect x="1186" y="5570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="5580" font-size="8" style="fill:white">PC</text>
+    <rect x="900" y="5670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="5680" font-size="10" style="fill:blue">tr</text>
+    <path d="M880 5240 C900 5240 880 5690 900 5690" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="5670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="5680" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 5690 C1120 5690 1100 5690 1120 5690" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="5690" font-size="8" style="fill:black">headers: año</text>
+    <rect x="1186" y="5670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="5680" font-size="8" style="fill:white">2017</text>
+    <rect x="1120" y="5720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="5730" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 5690 C1120 5690 1100 5740 1120 5740" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="5740" font-size="8" style="fill:black">headers: titulo</text>
+    <rect x="1186" y="5720" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="5730" font-size="8" style="fill:white">Game of Thrones: A Telltale Game Series Season 2</text>
+    <rect x="1120" y="5770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="5780" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 5690 C1120 5690 1100 5790 1120 5790" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="5790" font-size="8" style="fill:black">headers: plataformas</text>
+    <rect x="1186" y="5770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="5780" font-size="8" style="fill:white">PC XBOne PS4 PS3 X360 Android iPhone</text>
+    <rect x="900" y="5870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="5880" font-size="10" style="fill:blue">tr</text>
+    <path d="M880 5240 C900 5240 880 5890 900 5890" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="5870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="5880" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 5890 C1120 5890 1100 5890 1120 5890" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="5890" font-size="8" style="fill:black">headers: año</text>
+    <rect x="1186" y="5870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="5880" font-size="8" style="fill:white">2015</text>
+    <rect x="1120" y="5920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="5930" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 5890 C1120 5890 1100 5940 1120 5940" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="5940" font-size="8" style="fill:black">headers: titulo</text>
+    <rect x="1186" y="5920" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="5930" font-size="8" style="fill:white">Game of Thrones: Conquest</text>
+    <rect x="1120" y="5970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="5980" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 5890 C1120 5890 1100 5990 1120 5990" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="5990" font-size="8" style="fill:black">headers: plataformas</text>
+    <rect x="1186" y="5970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="5980" font-size="8" style="fill:white">iPhone Android</text>
+    <rect x="900" y="6070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="6080" font-size="10" style="fill:blue">tr</text>
+    <path d="M880 5240 C900 5240 880 6090 900 6090" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="6070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6080" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6090 C1120 6090 1100 6090 1120 6090" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6090" font-size="8" style="fill:black">headers: año</text>
+    <rect x="1186" y="6070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6080" font-size="8" style="fill:white">2015</text>
+    <rect x="1120" y="6120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6130" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6090 C1120 6090 1100 6140 1120 6140" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6140" font-size="8" style="fill:black">headers: titulo</text>
+    <rect x="1186" y="6120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6130" font-size="8" style="fill:white">Game of Thrones Season 1</text>
+    <rect x="1120" y="6170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6180" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6090 C1120 6090 1100 6190 1120 6190" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6190" font-size="8" style="fill:black">headers: plataformas</text>
+    <rect x="1186" y="6170" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6180" font-size="8" style="fill:white">PS3 PS4 X360 XBOne PC</text>
+    <rect x="900" y="6270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="6280" font-size="10" style="fill:blue">tr</text>
+    <path d="M880 5240 C900 5240 880 6290 900 6290" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="6270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6280" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6290 C1120 6290 1100 6290 1120 6290" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6290" font-size="8" style="fill:black">headers: año</text>
+    <rect x="1186" y="6270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6280" font-size="8" style="fill:white">2015</text>
+    <rect x="1120" y="6320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6330" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6290 C1120 6290 1100 6340 1120 6340" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6340" font-size="8" style="fill:black">headers: titulo</text>
+    <rect x="1186" y="6320" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6330" font-size="8" style="fill:white">Game of Thrones: A Telltale Games Series</text>
+    <rect x="1120" y="6370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6380" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6290 C1120 6290 1100 6390 1120 6390" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6390" font-size="8" style="fill:black">headers: plataformas</text>
+    <rect x="1186" y="6370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6380" font-size="8" style="fill:white">PS4 PS3 XBOne X360 PC</text>
+    <rect x="900" y="6470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="6480" font-size="10" style="fill:blue">tr</text>
+    <path d="M880 5240 C900 5240 880 6490 900 6490" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="6470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6480" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6490 C1120 6490 1100 6490 1120 6490" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6490" font-size="8" style="fill:black">headers: año</text>
+    <rect x="1186" y="6470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6480" font-size="8" style="fill:white">2015</text>
+    <rect x="1120" y="6520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6530" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6490 C1120 6490 1100 6540 1120 6540" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6540" font-size="8" style="fill:black">headers: titulo</text>
+    <rect x="1186" y="6520" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6530" font-size="8" style="fill:white">Game of Thrones: A Telltale Games Series - Episode 5</text>
+    <rect x="1120" y="6570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6580" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6490 C1120 6490 1100 6590 1120 6590" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6590" font-size="8" style="fill:black">headers: plataformas</text>
+    <rect x="1186" y="6570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6580" font-size="8" style="fill:white">XBOne X360 PS4 PS3 PC</text>
+    <rect x="900" y="6670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="6680" font-size="10" style="fill:blue">tr</text>
+    <path d="M880 5240 C900 5240 880 6690 900 6690" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="6670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6680" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6690 C1120 6690 1100 6690 1120 6690" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6690" font-size="8" style="fill:black">headers: año</text>
+    <rect x="1186" y="6670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6680" font-size="8" style="fill:white">2015</text>
+    <rect x="1120" y="6720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6730" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6690 C1120 6690 1100 6740 1120 6740" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6740" font-size="8" style="fill:black">headers: titulo</text>
+    <rect x="1186" y="6720" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6730" font-size="8" style="fill:white">Game of Thrones: A Telltale Games Series - Episode 4</text>
+    <rect x="1120" y="6770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6780" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6690 C1120 6690 1100 6790 1120 6790" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6790" font-size="8" style="fill:black">headers: plataformas</text>
+    <rect x="1186" y="6770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6780" font-size="8" style="fill:white">PS4 PS3 XBOne X360 PC</text>
+    <rect x="900" y="6870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="6880" font-size="10" style="fill:blue">tr</text>
+    <path d="M880 5240 C900 5240 880 6890 900 6890" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="6870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6880" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6890 C1120 6890 1100 6890 1120 6890" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6890" font-size="8" style="fill:black">headers: año</text>
+    <rect x="1186" y="6870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6880" font-size="8" style="fill:white">2015</text>
+    <rect x="1120" y="6920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6930" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6890 C1120 6890 1100 6940 1120 6940" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6940" font-size="8" style="fill:black">headers: titulo</text>
+    <rect x="1186" y="6920" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6930" font-size="8" style="fill:white">Game of Thrones: A Telltale Games Series - Episode 3</text>
+    <rect x="1120" y="6970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="6980" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 6890 C1120 6890 1100 6990 1120 6990" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="6990" font-size="8" style="fill:black">headers: plataformas</text>
+    <rect x="1186" y="6970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="6980" font-size="8" style="fill:white">XBOne X360 PS3 PS4 PC</text>
+    <rect x="900" y="7070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="7080" font-size="10" style="fill:blue">tr</text>
+    <path d="M880 5240 C900 5240 880 7090 900 7090" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="7070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7080" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7090 C1120 7090 1100 7090 1120 7090" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7090" font-size="8" style="fill:black">headers: año</text>
+    <rect x="1186" y="7070" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7080" font-size="8" style="fill:white">2015</text>
+    <rect x="1120" y="7120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7130" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7090 C1120 7090 1100 7140 1120 7140" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7140" font-size="8" style="fill:black">headers: titulo</text>
+    <rect x="1186" y="7120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7130" font-size="8" style="fill:white">Game of Thrones: A Telltale Games Series - Episode 2: The
+        Lost Lords
+    </text>
+    <rect x="1120" y="7170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7180" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7090 C1120 7090 1100 7190 1120 7190" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7190" font-size="8" style="fill:black">headers: plataformas</text>
+    <rect x="1186" y="7170" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7180" font-size="8" style="fill:white">iPhone Android XBOne X360 PS4 PS3 PC</text>
+    <rect x="900" y="7270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="7280" font-size="10" style="fill:blue">tr</text>
+    <path d="M880 5240 C900 5240 880 7290 900 7290" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="7270" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7280" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7290 C1120 7290 1100 7290 1120 7290" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7290" font-size="8" style="fill:black">headers: año</text>
+    <rect x="1186" y="7270" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7280" font-size="8" style="fill:white">2014</text>
+    <rect x="1120" y="7320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7330" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7290 C1120 7290 1100 7340 1120 7340" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7340" font-size="8" style="fill:black">headers: titulo</text>
+    <rect x="1186" y="7320" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7330" font-size="8" style="fill:white">Game of Thrones: A Telltale Games Series - Episode 1: Iron
+        From Ice
+    </text>
+    <rect x="1120" y="7370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7380" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7290 C1120 7290 1100 7390 1120 7390" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7390" font-size="8" style="fill:black">headers: plataformas</text>
+    <rect x="1186" y="7370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7380" font-size="8" style="fill:white">iPhone Android XBOne X360 PS3 PS4 PC</text>
+    <rect x="900" y="7470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="7480" font-size="10" style="fill:blue">tr</text>
+    <path d="M880 5240 C900 5240 880 7490 900 7490" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="7470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7480" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7490 C1120 7490 1100 7490 1120 7490" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7490" font-size="8" style="fill:black">headers: año</text>
+    <rect x="1186" y="7470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7480" font-size="8" style="fill:white">2013</text>
+    <rect x="1120" y="7520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7530" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7490 C1120 7490 1100 7540 1120 7540" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7540" font-size="8" style="fill:black">headers: titulo</text>
+    <rect x="1186" y="7520" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7530" font-size="8" style="fill:white">Game of Thrones Ascent</text>
+    <rect x="1120" y="7570" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7580" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7490 C1120 7490 1100 7590 1120 7590" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7590" font-size="8" style="fill:black">headers: plataformas</text>
+    <rect x="1186" y="7570" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7580" font-size="8" style="fill:white">Android iPhone PC</text>
+    <rect x="900" y="7670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="7680" font-size="10" style="fill:blue">tr</text>
+    <path d="M880 5240 C900 5240 880 7690 900 7690" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="7670" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7680" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7690 C1120 7690 1100 7690 1120 7690" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7690" font-size="8" style="fill:black">headers: año</text>
+    <rect x="1186" y="7670" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7680" font-size="8" style="fill:white">2012</text>
+    <rect x="1120" y="7720" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7730" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7690 C1120 7690 1100 7740 1120 7740" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7740" font-size="8" style="fill:black">headers: titulo</text>
+    <rect x="1186" y="7720" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7730" font-size="8" style="fill:white">Game of Thrones</text>
+    <rect x="1120" y="7770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7780" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7690 C1120 7690 1100 7790 1120 7790" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7790" font-size="8" style="fill:black">headers: plataformas</text>
+    <rect x="1186" y="7770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7780" font-size="8" style="fill:white">Xbox 360 PS3 X360 PC</text>
+    <rect x="900" y="7870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="7880" font-size="10" style="fill:blue">tr</text>
+    <path d="M880 5240 C900 5240 880 7890 900 7890" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="7870" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7880" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7890 C1120 7890 1100 7890 1120 7890" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7890" font-size="8" style="fill:black">headers: año</text>
+    <rect x="1186" y="7870" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7880" font-size="8" style="fill:white">2011</text>
+    <rect x="1120" y="7920" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7930" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7890 C1120 7890 1100 7940 1120 7940" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7940" font-size="8" style="fill:black">headers: titulo</text>
+    <rect x="1186" y="7920" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7930" font-size="8" style="fill:white">A Game of Thrones: Genesis</text>
+    <rect x="1120" y="7970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="7980" font-size="10" style="fill:blue">td</text>
+    <path d="M1100 7890 C1120 7890 1100 7990 1120 7990" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="7990" font-size="8" style="fill:black">headers: plataformas</text>
+    <rect x="1186" y="7970" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="7980" font-size="8" style="fill:white">PC</text>
+    <rect x="680" y="8120" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="8130" font-size="10" style="fill:blue">h2</text>
+    <path d="M660 3090 C680 3090 660 8140 680 8140" style="fill:transparent;stroke:black"/>
+    <rect x="746" y="8120" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="756" y="8130" font-size="8" style="fill:white">Más información:</text>
+    <rect x="680" y="8170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="8180" font-size="10" style="fill:blue">nav</text>
+    <path d="M660 3090 C680 3090 660 8190 680 8190" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="8170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="8180" font-size="10" style="fill:blue">dl</text>
+    <path d="M880 8190 C900 8190 880 8190 900 8190" style="fill:transparent;stroke:black"/>
+    <rect x="1120" y="8170" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="8180" font-size="10" style="fill:blue">dt</text>
+    <path d="M1100 8190 C1120 8190 1100 8190 1120 8190" style="fill:transparent;stroke:black"/>
+    <rect x="1186" y="8170" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="8180" font-size="8" style="fill:white">George Raymond Richard Martin</text>
+    <rect x="1120" y="8220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="8230" font-size="10" style="fill:blue">dd</text>
+    <path d="M1100 8190 C1120 8190 1100 8240 1120 8240" style="fill:transparent;stroke:black"/>
+    <rect x="1340" y="8220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1350" y="8230" font-size="10" style="fill:blue">a</text>
+    <path d="M1320 8240 C1340 8240 1320 8240 1340 8240" style="fill:transparent;stroke:black"/>
+    <text x="1350" y="8240" font-size="8" style="fill:black">href: http://www.georgerrmartin.com/</text>
+    <rect x="1406" y="8220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1416" y="8230" font-size="8" style="fill:white">http://www.georgerrmartin.com/</text>
+    <rect x="1120" y="8320" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="8330" font-size="10" style="fill:blue">dt</text>
+    <path d="M1100 8190 C1120 8190 1100 8340 1120 8340" style="fill:transparent;stroke:black"/>
+    <rect x="1186" y="8320" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="8330" font-size="8" style="fill:white">Editorial Gigamesh</text>
+    <rect x="1120" y="8370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="8380" font-size="10" style="fill:blue">dd</text>
+    <path d="M1100 8190 C1120 8190 1100 8390 1120 8390" style="fill:transparent;stroke:black"/>
+    <rect x="1340" y="8370" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1350" y="8380" font-size="10" style="fill:blue">a</text>
+    <path d="M1320 8390 C1340 8390 1320 8390 1340 8390" style="fill:transparent;stroke:black"/>
+    <text x="1350" y="8390" font-size="8" style="fill:black">href: http://www.gigamesh.com/</text>
+    <rect x="1406" y="8370" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1416" y="8380" font-size="8" style="fill:white">http://www.gigamesh.com/</text>
+    <rect x="1120" y="8470" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="8480" font-size="10" style="fill:blue">dt</text>
+    <path d="M1100 8190 C1120 8190 1100 8490 1120 8490" style="fill:transparent;stroke:black"/>
+    <rect x="1186" y="8470" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="8480" font-size="8" style="fill:white">Juego de tronos en HBO:</text>
+    <rect x="1120" y="8520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="8530" font-size="10" style="fill:blue">dd</text>
+    <path d="M1100 8190 C1120 8190 1100 8540 1120 8540" style="fill:transparent;stroke:black"/>
+    <rect x="1340" y="8520" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1350" y="8530" font-size="10" style="fill:blue">a</text>
+    <path d="M1320 8540 C1340 8540 1320 8540 1340 8540" style="fill:transparent;stroke:black"/>
+    <text x="1350" y="8540" font-size="8" style="fill:black">href: http://www.hbo.com/game-of-thrones/index.html</text>
+    <rect x="1406" y="8520" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1416" y="8530" font-size="8" style="fill:white">http://www.hbo.com/game-of-thrones/index.html</text>
+    <rect x="460" y="8770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="470" y="8780" font-size="10" style="fill:blue">footer</text>
+    <path d="M440 640 C460 640 440 8790 460 8790" style="fill:transparent;stroke:black"/>
+    <rect x="680" y="8770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="8780" font-size="10" style="fill:blue">address</text>
+    <path d="M660 8790 C680 8790 660 8790 680 8790" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="8770" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="8780" font-size="10" style="fill:blue">p</text>
+    <path d="M880 8790 C900 8790 880 8790 900 8790" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="8770" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="8780" font-size="8" style="fill:white">Autor: Iván González Mahagamage</text>
+    <rect x="900" y="8820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="8830" font-size="10" style="fill:blue">p</text>
+    <path d="M880 8790 C900 8790 880 8840 900 8840" style="fill:transparent;stroke:black"/>
+    <rect x="966" y="8820" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="8830" font-size="8" style="fill:white">Contacto:</text>
+    <rect x="1120" y="8820" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="8830" font-size="10" style="fill:blue">a</text>
+    <path d="M1100 8840 C1120 8840 1100 8840 1120 8840" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="8840" font-size="8" style="fill:black">href: mailto:uo239795@uniovi.es</text>
+    <rect x="1186" y="8820" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="1196" y="8830" font-size="8" style="fill:white">uo239795@uniovi.es</text>
+    <rect x="680" y="8970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="8980" font-size="10" style="fill:blue">p</text>
+    <path d="M660 8790 C680 8790 660 8990 680 8990" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="8970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="8980" font-size="10" style="fill:blue">a</text>
+    <path d="M880 8990 C900 8990 880 8990 900 8990" style="fill:transparent;stroke:black"/>
+    <text x="910" y="8990" font-size="8" style="fill:black">href: https://validator.w3.org/check?uri=referer</text>
+    <rect x="1120" y="8970" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="8980" font-size="10" style="fill:blue">img</text>
+    <path d="M1100 8990 C1120 8990 1100 8990 1120 8990" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="8990" font-size="8" style="fill:black">src:
+        https://unioviedo-my.sharepoint.com/personal/uo239795_uniovi_es/_layouts/15/guestaccess.aspx?docid=1dc29309c5f484ddbb0d9db5b1c80c434&amp;authkey=ARFq9i5Nm2QpUmJj55IcDgQ&amp;e=705a58700abd4191a586e91989da4a0e
+    </text>
+    <text x="1130" y="9000" font-size="8" style="fill:black">alt: HTML5 Válido</text>
+    <text x="1130" y="9010" font-size="8" style="fill:black">longdesc: https://validator.w3.org/check?uri=referer</text>
+    <rect x="900" y="9070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="9080" font-size="10" style="fill:blue">a</text>
+    <path d="M880 8990 C900 8990 880 9090 900 9090" style="fill:transparent;stroke:black"/>
+    <text x="910" y="9090" font-size="8" style="fill:black">href: http://jigsaw.w3.org/css-validator/check/referer
+    </text>
+    <rect x="1120" y="9070" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="1130" y="9080" font-size="10" style="fill:blue">img</text>
+    <path d="M1100 9090 C1120 9090 1100 9090 1120 9090" style="fill:transparent;stroke:black"/>
+    <text x="1130" y="9090" font-size="8" style="fill:black">src:
+        https://unioviedo-my.sharepoint.com/personal/uo239795_uniovi_es/_layouts/15/guestaccess.aspx?docid=190f4b784428a40a2b969ae7f977a3d85&amp;authkey=AegPExwjY0qZ80NLtEpPmYo&amp;amp;e=41cf2c002341476e8abb088bc7c0a15b
+    </text>
+    <text x="1130" y="9100" font-size="8" style="fill:black">alt: ¡CSS Válido!</text>
+    <rect x="680" y="9220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="690" y="9230" font-size="10" style="fill:blue">p</text>
+    <path d="M660 8790 C680 8790 660 9240 680 9240" style="fill:transparent;stroke:black"/>
+    <rect x="900" y="9220" width="200" height="40" style="fill:white;stroke:black;stroke-width:1"/>
+    <text x="910" y="9230" font-size="10" style="fill:blue">a</text>
+    <path d="M880 9240 C900 9240 880 9240 900 9240" style="fill:transparent;stroke:black"/>
+    <text x="910" y="9240" font-size="8" style="fill:black">href: p5_3_resumen.svg</text>
+    <rect x="966" y="9220" width="137" height="40" style="fill:green;stroke:black;stroke-width:1"/>
+    <text x="976" y="9230" font-size="8" style="fill:white">Mostrar árbol DOM</text>
+</svg>

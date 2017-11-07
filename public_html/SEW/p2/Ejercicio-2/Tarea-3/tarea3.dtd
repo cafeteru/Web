@@ -1,0 +1,17 @@
+<!ELEMENT recetas (receta+)>
+        <!ELEMENT receta (nombre, ingredientes+, calorias?, elaboración, tiempo, utensilios, origen)>
+<!ATTLIST receta tipoPlato (aperitivo | entrante | primerPlato | segundoPlato | postre) #REQUIRED>
+<!ATTLIST receta dificultad (fácil | media | difícil) #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT ingredientes (ingrediente+)>
+<!ELEMENT ingrediente (nombreIngrediente, cantidad)>
+<!ELEMENT nombreIngrediente (#PCDATA)>
+<!ELEMENT cantidad (#PCDATA)>
+<!ELEMENT calorias (#PCDATA)>
+<!ELEMENT elaboración (paso+)>
+<!ELEMENT paso (#PCDATA)>
+<!ATTLIST paso número CDATA #REQUIRED>
+<!ELEMENT tiempo (#PCDATA)>
+<!ELEMENT utensilios (utensilio+)>
+<!ELEMENT utensilio (#PCDATA)>
+<!ELEMENT origen (#PCDATA)>

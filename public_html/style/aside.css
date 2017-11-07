@@ -1,0 +1,20 @@
+/* a=0 b=0 c=2 -> Especificidad = 2 */
+main, aside {
+    margin-left: 1em;
+    padding: 0;
+    width: 45%;
+    display: inline-table;
+}
+
+/* a=0 b=0 c=1 -> Especificidad = 1 */
+aside{
+    position: relative;
+    right: 0;
+}
+
+/* a=0 b=0 c=3 -> Especificidad = 3 */
+main li:last-child {
+    margin-top: 1em;
+    list-style-type: none;
+}
+

@@ -1,0 +1,6 @@
+-	En el xsd generado desde el elemento recetas hace una referencia al elemento receta, no lo incluye directamente.
+    Hace lo mismo lo mismo con todos los elementos de receta.
+-	En los atributos de receta, tipoPlato y dificultad, en la restricción en vez de usar como base el tipo String usa
+    NMTOKEN.
+-	Todos los elementos integer los convierte a String, con lo cual elimina las restricciones que tenían estos
+    elementos.
