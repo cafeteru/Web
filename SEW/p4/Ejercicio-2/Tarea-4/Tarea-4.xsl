@@ -6,7 +6,7 @@
             <head>
                 <meta name="author" content="Iván González Mahagamage"/>
                 <meta name="description"
-                      content="Tarea 1 del ejercicio 2 de la práctica 04 asignatura Software y Estándares para la Web"/>
+                      content="Tarea 4 del ejercicio 2 de la práctica 04 asignatura Software y Estándares para la Web"/>
                 <meta name="keywords" content="Tarea1,SEW,Práctica04,ejercicio2,Software,Estándares,Web"/>
                 <title>Práctica 04 | Software y Estándares para la Web</title>
                 <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet"/>
@@ -19,7 +19,7 @@
             </head>
             <body>
                 <header>
-                    <h1>Práctica 04 - Ejercicio 2 - Tarea 01</h1>
+                    <h1>Práctica 04 - Ejercicio 2 - Tarea 04</h1>
                     <nav>
                         <ul>
                             <li>
