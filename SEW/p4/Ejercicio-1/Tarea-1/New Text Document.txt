@@ -1,2 +1,0 @@
-para generar el archivo html5 -> usar edge, ver codigo fuente
-En esta practica estilo libre de css
