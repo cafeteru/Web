@@ -19,7 +19,7 @@
             </head>
             <body>
                 <header>
-                    <h1>Práctica 04 - Ejercicio 1 - Tarea 01</h1>
+                    <h1>Práctica 04 - Ejercicio 1 - Tarea 04</h1>
                     <nav>
                         <ul>
                             <li>
@@ -141,66 +141,69 @@
                 </header>
                 <main>
                     <xsl:for-each select="articulos/articulo">
-                        <section>
-                            <h2>
-                                <xsl:value-of select="titulo"/>
-                            </h2>
-                            <h3>Autores:</h3>
-                            <ul>
-                                <xsl:for-each select="autores/autor">
-                                    <li>
-                                        <xsl:value-of select="nombreAutor"/> -
-                                        <a href="mailto:{//correo}">
-                                            <xsl:value-of select="correo"/>
-                                        </a>
-                                    </li>
+                        <xsl:sort select="año" order="ascending"/>
+                        <xsl:if test="año &gt; 2012 and año &lt; 2015">
+                            <section>
+                                <h2>
+                                    <xsl:value-of select="titulo"/>
+                                </h2>
+                                <h3>Autores:</h3>
+                                <ul>
+                                    <xsl:for-each select="autores/autor">
+                                        <li>
+                                            <xsl:value-of select="nombreAutor"/> -
+                                            <a href="mailto:{//correo}">
+                                                <xsl:value-of select="correo"/>
+                                            </a>
+                                        </li>
+                                    </xsl:for-each>
+                                </ul>
+                                <h3>Resumen:</h3>
+                                <p>
+                                    <xsl:value-of select="resumen"/>
+                                </p>
+                                <h3>Palabras clave</h3>
+                                <ul>
+                                    <xsl:for-each select="claves/clave">
+                                        <li>
+                                            <xsl:value-of select="."/>
+                                        </li>
+                                    </xsl:for-each>
+                                </ul>
+                                <h3>Revista</h3>
+                                <p>
+                                    <xsl:value-of select="revista"/>
+                                </p>
+                                <h3>Enumeración de la revista</h3>
+                                <xsl:for-each select="enumeracionRevista">
+                                    <xsl:if test="volumenRevista > 0">
+                                        <h4>Volumen:</h4>
+                                        <p>
+                                            <xsl:value-of select="volumenRevista"/>
+                                        </p>
+                                    </xsl:if>
+                                    <xsl:if test="numeroRevista > 0">
+                                        <h4>Número:</h4>
+                                        <p>
+                                            <xsl:value-of select="numeroRevista"/>
+                                        </p>
+                                    </xsl:if>
                                 </xsl:for-each>
-                            </ul>
-                            <h3>Resumen:</h3>
-                            <p>
-                                <xsl:value-of select="resumen"/>
-                            </p>
-                            <h3>Palabras clave</h3>
-                            <ul>
-                                <xsl:for-each select="claves/clave">
-                                    <li>
-                                        <xsl:value-of select="."/>
-                                    </li>
-                                </xsl:for-each>
-                            </ul>
-                            <h3>Revista</h3>
-                            <p>
-                                <xsl:value-of select="revista"/>
-                            </p>
-                            <h3>Enumeración de la revista</h3>
-                            <xsl:for-each select="enumeracionRevista">
-                                <xsl:if test="volumenRevista > 0">
-                                    <h4>Volumen:</h4>
-                                    <p>
-                                        <xsl:value-of select="volumenRevista"/>
-                                    </p>
-                                </xsl:if>
-                                <xsl:if test="numeroRevista > 0">
-                                    <h4>Número:</h4>
-                                    <p>
-                                        <xsl:value-of select="numeroRevista"/>
-                                    </p>
-                                </xsl:if>
-                            </xsl:for-each>
 
-                            <h3>Página de inicio</h3>
-                            <p>
-                                <xsl:value-of select="paginaInicio"/>
-                            </p>
-                            <h3>Página Final</h3>
-                            <p>
-                                <xsl:value-of select="paginaFinal"/>
-                            </p>
-                            <h3>Año</h3>
-                            <p>
-                                <xsl:value-of select="año"/>
-                            </p>
-                        </section>
+                                <h3>Página de inicio</h3>
+                                <p>
+                                    <xsl:value-of select="paginaInicio"/>
+                                </p>
+                                <h3>Página Final</h3>
+                                <p>
+                                    <xsl:value-of select="paginaFinal"/>
+                                </p>
+                                <h3>Año</h3>
+                                <p>
+                                    <xsl:value-of select="año"/>
+                                </p>
+                            </section>
+                        </xsl:if>
                     </xsl:for-each>
                 </main>
                 <footer>
