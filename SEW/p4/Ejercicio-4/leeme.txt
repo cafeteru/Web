@@ -1,4 +1,7 @@
-Lenguaje de programación:
-Versión del compilador:
-Archivos de prueba:
+Lenguaje de programación: java
+Versión del compilador: 1.8
+Archivos de prueba: libros.csv y agenda.csv
 Instrucciones de uso:
+    - En la primera fila de cada csv debe estar los nombres de las etiquetas del xml   
+    - Utilizar el comando:
+        java -jar sew-1.0.jar [lista de ficheros csv]
