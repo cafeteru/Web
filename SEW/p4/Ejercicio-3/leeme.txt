@@ -1,4 +1,7 @@
-Lenguaje de programación:
-Versión del compilador:
-Archivos de prueba:
-Instrucciones de uso:
+Lenguaje de programación: java
+Versión del compilador: 1.8
+Archivos de prueba: articulos.xml y recetas.xml
+Instrucciones de uso: 
+ - Abrir consola de comandos
+ - Introducir el siguiente comando:
+    java -jar sew-1.0.jar [1 o más documentos xml]
