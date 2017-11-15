@@ -13,9 +13,9 @@
                 <link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet"/>
                 <link rel="icon" type="image/x-icon"
                       href="https://unioviedo-my.sharepoint.com/personal/uo239795_uniovi_es/_layouts/15/guestaccess.aspx?docid=1b184fdc380484a7bbdad079aa2a52135&amp;authkey=ATTjsDQ1WDwFg-XqhaEbSF4&amp;e=168190abc0264416a06fc92675ca41aa"/>
-                <link rel="stylesheet" type="text/css" href="../../../../navDesplegable.css"/>
-                <link rel="stylesheet" type="text/css" href="../../../../style.css"/>
-                <link rel="stylesheet" type="text/css" href="../../../../practica04.css"/>
+                <link rel="stylesheet" type="text/css" href="../../../../style/navDesplegable.css"/>
+                <link rel="stylesheet" type="text/css" href="../../../../style/style.css"/>
+                <link rel="stylesheet" type="text/css" href="../../../../style/practica04.css"/>
                 <script type="text/javascript" src="../../../../scripts/jquery.js"></script>
                 <script type="text/javascript" src="../../../../scripts/script.js"></script>
             </head>

@@ -1,4 +1,8 @@
 $(document).ready(function () {
+    agregarNavFooter();
+});
+
+function agregarNavFooter() {
     var url = window.location.href.toString();
     var header = $("header");
     var aux = "";
@@ -12,7 +16,6 @@ $(document).ready(function () {
     } else {
         header.find("nav").load(aux + "template/menu.html");
     }
-
     $("main").append("<footer></footer>");
     $("footer").load(aux + "template/footer.html");
-});
+}
