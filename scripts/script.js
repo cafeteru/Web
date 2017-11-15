@@ -3,7 +3,10 @@ $(document).ready(function () {
     var header = $("header");
     var aux = "";
     header.append("<nav></nav>");
-    if (url.indexOf("SEW") > 0) {
+    if (url.indexOf("Tarea") >= 0) {
+        aux = "../../../../";
+        header.find("nav").load(aux + "template/menuSEWTarea.html");
+    } else if (url.indexOf("SEW") > 0) {
         aux = "../../";
         header.find("nav").load(aux + "template/menuSEW.html");
     } else {
