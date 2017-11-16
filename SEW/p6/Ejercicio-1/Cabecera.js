@@ -4,5 +4,5 @@ asignatura.titulacion = "Grado en Ingeniería Informática del Software";
 asignatura.centro = "Escuela de Ingeniería Informática";
 asignatura.universidad = "Universidad de Oviedo";
 asignatura.curso = "2017-18";
-asignatura.estudiante = "Iván González Mahagamage";
+asignatura.alumno = "Iván González Mahagamage";
 asignatura.email = "uo239795@uniovi.es";
