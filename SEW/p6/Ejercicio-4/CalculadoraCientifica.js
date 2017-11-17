@@ -3,8 +3,8 @@
 class Calculadora {
     constructor() {
         this.pantalla = "0";
-        this.memoria = "0";
-        this.memoriaActual = "0";
+        this.memoria = "";
+        this.memoriaActual = "";
         this.esResultado = false;
     }
 
@@ -47,7 +47,7 @@ class Calculadora {
 
     limpiarTodo() {
         this.limpiarResultado();
-        this.memoria = "0";
+        this.memoria = "";
     }
 
     operacion(operador) {
@@ -81,8 +81,4 @@ class Calculadora {
     }
 }
 
-class CalculadoraCientifica extends Calculadora {
-    constructor() {
-        super();
-    }
-}
+var calculadora = new Calculadora();

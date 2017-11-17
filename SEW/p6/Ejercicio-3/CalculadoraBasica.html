@@ -15,47 +15,49 @@
     <script src="CalculadoraBasica.js"></script>
 </head>
 <body>
+
+<header>
+    <h1>Calculadora Básica</h1>
+</header>
 <main>
-    <header>
-        <h1>Calculadora Básica</h1>
-    </header>
-    <main>
-        <form>
-            <p>
-                <input type="text" id="pantalla" value="0"/>
-            </p>
-            <p>
-                <input type="button" class="memory" value="mrc" onclick="calculadora.memoriaMostrar()"/>
-                <input type="button" class="memory" value="m-" onclick="calculadora.memoriaMenos()"/>
-                <input type="button" class="memory" value="m+" onclick="calculadora.memoriaMas()"/>
-                <input type="button" class="operation" value="/" onclick="calculadora.operacion('/')"/>
-            </p>
-            <p>
-                <input type="button" class="number" value="7" onclick="calculadora.agregarDisplay('7')"/>
-                <input type="button" class="number" value="8" onclick="calculadora.agregarDisplay('8')"/>
-                <input type="button" class="number" value="9" onclick="calculadora.agregarDisplay('9')"/>
-                <input type="button" class="operation" value="*" onclick="calculadora.operacion('*')"/>
-            </p>
-            <p>
-                <input type="button" class="number" value="4" onclick="calculadora.agregarDisplay('4')"/>
-                <input type="button" class="number" value="5" onclick="calculadora.agregarDisplay('5')"/>
-                <input type="button" class="number" value="6" onclick="calculadora.agregarDisplay('6')"/>
-                <input type="button" class="operation" value="-" onclick="calculadora.operacion('-')"/>
-            </p>
-            <p>
-                <input type="button" class="number" value="1" onclick="calculadora.agregarDisplay('1')"/>
-                <input type="button" class="number" value="2" onclick="calculadora.agregarDisplay('2')"/>
-                <input type="button" class="number" value="3" onclick="calculadora.agregarDisplay('3')"/>
-                <input type="button" class="operation" value="+" onclick="calculadora.operacion('+')"/>
-            </p>
-            <p>
-                <input type="button" class="number" value="0" onclick="calculadora.agregarDisplay('0')"/>
-                <input type="button" class="number" value="." onclick="calculadora.agregarPunto()"/>
-                <input type="button" class="number" value="C" onclick="calculadora.limpiarTodo()"/>
-                <input type="button" class="operation" value="=" onclick="calculadora.mostrarResultado()"/>
-            </p>
-        </form>
-    </main>
+    <form>
+        <p>
+            <input type="text" id="pantalla" value="0"/>
+        </p>
+        <p>
+            <input type="button" class="memory" value="mrc" onclick="calculadora.memoriaMostrar()"/>
+            <input type="button" class="memory" value="m-" onclick="calculadora.memoriaMenos()"/>
+            <input type="button" class="memory" value="m+" onclick="calculadora.memoriaMas()"/>
+            <input type="button" class="operation" value="/" onclick="calculadora.operacion('/')"/>
+        </p>
+        <p>
+            <input type="button" class="number" value="7" onclick="calculadora.agregarDisplay('7')"/>
+            <input type="button" class="number" value="8" onclick="calculadora.agregarDisplay('8')"/>
+            <input type="button" class="number" value="9" onclick="calculadora.agregarDisplay('9')"/>
+            <input type="button" class="operation" value="*" onclick="calculadora.operacion('*')"/>
+        </p>
+        <p>
+            <input type="button" class="number" value="4" onclick="calculadora.agregarDisplay('4')"/>
+            <input type="button" class="number" value="5" onclick="calculadora.agregarDisplay('5')"/>
+            <input type="button" class="number" value="6" onclick="calculadora.agregarDisplay('6')"/>
+            <input type="button" class="operation" value="-" onclick="calculadora.operacion('-')"/>
+        </p>
+        <p>
+            <input type="button" class="number" value="1" onclick="calculadora.agregarDisplay('1')"/>
+            <input type="button" class="number" value="2" onclick="calculadora.agregarDisplay('2')"/>
+            <input type="button" class="number" value="3" onclick="calculadora.agregarDisplay('3')"/>
+            <input type="button" class="operation" value="+" onclick="calculadora.operacion('+')"/>
+        </p>
+        <p>
+            <input type="button" class="number" value="0" onclick="calculadora.agregarDisplay('0')"/>
+            <input type="button" class="number" value="." onclick="calculadora.agregarPunto()"/>
+            <input type="button" class="number" value="C" onclick="calculadora.limpiarTodo()"/>
+            <input type="button" class="operation" value="=" onclick="calculadora.mostrarResultado()"/>
+        </p>
+    </form>
+    <p></p>
+    <p></p>
+    <p></p>
 </main>
 <footer>
     <address>

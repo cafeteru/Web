@@ -28,6 +28,14 @@ header a {
     display: block;
 }
 
+header p {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 12px;
+    display: block;
+    margin: 0;
+}
+
 /* a=0 b=0 c=3 -> Especificidad =  */
 header a:hover {
     background-color: #434343;
@@ -54,4 +62,22 @@ header li ul li {
 header li ul li ul {
     left: 140px;
     top: 0;
+}
+
+@media screen and (max-width: 600px) {
+    header ul {
+        display: inline;
+    }
+
+    header li ul {
+        width: 100%;
+    }
+
+    header li ul {
+        position: static;
+    }
+
+    html.can-touch header li:hover > ul {
+        display: block;
+    }
 }

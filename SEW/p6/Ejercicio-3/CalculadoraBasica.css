@@ -87,8 +87,8 @@ footer a:hover {
 /* a=0 b=0 c=1 -> Especificidad = 1 */
 form {
     margin: 5% auto 0;
-    width: 16.1em;
-    padding: 1em;
+    width: 50%;
+    padding: 2.5%;
     background: white;
     background: -webkit-linear-gradient(white, yellow);
     background: -o-linear-gradient(white, yellow);
@@ -108,16 +108,19 @@ form input:active {
     color: black;
 }
 
+form p {
+    height: 15%;
+}
+
 /* a=0 b=1 c=2 -> Especificidad = 12 */
 form input[type=button] {
-    width: 4em;
-
+    width: 23%;
 }
 
 /* a=0 b=1 c=2 -> Especificidad = 3 */
 form input[type=text] {
-    width: 17em;
-    padding-left: 1em;
+    width: 100%;
+    padding-left: 5%;
     background-color: white;
 }
 
@@ -137,4 +140,15 @@ form input[type=text] {
 .memory {
     background-color: #364D62;
     color: white;
+}
+
+@media screen and (max-height: 480px) {
+    body {
+        position: static;
+        padding-bottom: 0;
+    }
+
+    footer {
+        position: static;
+    }
 }

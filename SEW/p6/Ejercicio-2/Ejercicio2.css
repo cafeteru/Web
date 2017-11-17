@@ -71,3 +71,14 @@ footer a:hover {
     color: red;
     text-decoration: underline;
 }
+
+@media screen and (max-height: 480px) {
+    body {
+        position: static;
+        padding-bottom: 0;
+    }
+
+    footer {
+        position: static;
+    }
+}
