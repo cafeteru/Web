@@ -19,11 +19,11 @@ body {
     min-height: 100%;
     font-family: Ubuntu, Tahoma, sans-serif;
     color: #000000;
-    background: deepskyblue; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(deepskyblue, white); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(deepskyblue, white); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(deepskyblue, white); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(deepskyblue, white); /* Standard syntax */
+    background: deepskyblue;
+    background: -webkit-linear-gradient(deepskyblue, white);
+    background: -o-linear-gradient(deepskyblue, white);
+    background: -moz-linear-gradient(deepskyblue, white);
+    background: linear-gradient(deepskyblue, white);
 }
 
 /* a=0 b=0 c=1 -> Especificidad = 1 */
@@ -87,21 +87,54 @@ footer a:hover {
 /* a=0 b=0 c=1 -> Especificidad = 1 */
 form {
     margin: 5% auto 0;
-    width: 17em;
+    width: 16.1em;
     padding: 1em;
-    background: white; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(white, yellow); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(white, yellow); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(white, yellow); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(white, yellow); /* Standard syntax */
+    background: white;
+    background: -webkit-linear-gradient(white, yellow);
+    background: -o-linear-gradient(white, yellow);
+    background: -moz-linear-gradient(white, yellow);
+    background: linear-gradient(white, yellow);
+    border-radius: 15px;
+}
+
+/* a=0 b=0 c=2 -> Especificidad = 2 */
+form input {
+    border-radius: 15px;
+}
+
+/* a=0 b=1 c=2 -> Especificidad = 12 */
+form input:active {
+    background-color: lawngreen;
+    color: black;
 }
 
 /* a=0 b=1 c=2 -> Especificidad = 12 */
 form input[type=button] {
     width: 4em;
+
 }
 
 /* a=0 b=1 c=2 -> Especificidad = 3 */
 form input[type=text] {
     width: 17em;
+    padding-left: 1em;
+    background-color: white;
+}
+
+/* a=1 b=0 c=1 -> Especificidad = 100 */
+.operation {
+    background-color: white;
+    color: #3E7C90;
+}
+
+/* a=1 b=0 c=1 -> Especificidad = 100 */
+.number {
+    color: white;
+    background-color: #3E7C90;
+}
+
+/* a=1 b=0 c=1 -> Especificidad = 100 */
+.memory {
+    background-color: #364D62;
+    color: white;
 }
