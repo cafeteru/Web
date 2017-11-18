@@ -14,7 +14,7 @@
     <link rel="stylesheet" type="text/css" href="Ejercicio-6.css">
     <script src="Ejercicio-6.js"></script>
 </head>
-<body>
+<body onload="colocarFigura()">
 <header>
     <h1>Comprueba tus reflejos</h1>
     <h2>Haz click en las formas tan rapido como puedas</h2>
@@ -30,9 +30,8 @@
             <td id="mejor">0 s</td>
         </tr>
     </table>
-    <section id="form"></section>
+    <section id="form" onclick="pulsar()"></section>
 </main>
-<script src="jugar.js"></script>
 <footer>
     <address>
         <p>Autor: Iván González Mahagamage</p>

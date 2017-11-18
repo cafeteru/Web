@@ -2,13 +2,7 @@
 
 class Forma {
     constructor() {
-        this.top = "";
-        this.left = "";
-        this.width = "";
-        this.height = "";
-        this.color = "";
-        this.display = "";
-        this.crear();
+        this.crear(50, 50);
     }
 
     colorAleatorio() {
@@ -18,12 +12,10 @@ class Forma {
             var position = Math.round(Math.random() * letter.length);
             color += letter[position];
         }
-        return color;
+        this.color = color;
     }
 
-    crear() {
-        //var top = Math.random() * document.body.clientHeight;
-        //var left = Math.random() * document.body.clientWidth;
+    crear(top, left) {
         var width = Math.random() * 300 + 20;
 
         if (Math.random() > 0.5) {
@@ -32,12 +24,17 @@ class Forma {
             this.borderRadius = "0%";
         }
 
-        this.top = 50 + "px";
-        this.left = 50 + "px";
+        this.top = top + "px";
+        this.left = left + "px";
         this.width = width + "px";
         this.height = width + "px";
-        this.color = this.colorAleatorio();
+        this.colorAleatorio();
         this.display = "block";
+    }
+
+    mover(top, left) {
+        this.top = top + "px";
+        this.left = left + "px";
     }
 }
 
@@ -45,27 +42,51 @@ class Tablero {
     constructor() {
         this.form = new Forma();
         this.tiempoInicial = new Date().getTime();
+        this.tiempoFinal = 0;
         this.mejorTiempo = 0;
     }
 
     calcularTiempo() {
         var endTime = new Date().getTime();
         var resultado = (endTime - this.tiempoInicial) / 1000;
-        if (resultado < this.mejorTiempo || this.mejorTiempo == 0) {
+        if (resultado < this.mejorTiempo || 0 === this.mejorTiempo) {
             this.mejorTiempo = resultado;
         }
-        return resultado;
+        this.tiempoFinal = resultado;
     }
 
     tiempoEspera() {
         setTimeout(this.form = new Forma(), Math.random() * 2000);
+        this.tiempoInicial = new Date().getTime();
     }
 
     pulsar() {
-        this.form.style.display = "none";
-        document.getElementById("tiempoReaccion").innerHTML = this.calcularTiempo() + " s";
+        this.form.display = "none";
+        this.calcularTiempo();
         this.tiempoEspera();
     }
 }
 
 var tablero = new Tablero();
+
+function colocarFigura() {
+    var section = document.getElementById("form");
+    var top = Math.random() * document.body.clientHeight;
+    var left = Math.random() * document.body.clientWidth;
+
+
+    tablero.form.mover(top, left);
+    section.style.backgroundColor = "yellow";
+    section.style.top = tablero.form.top;
+    section.style.left = tablero.form.left;
+    section.style.width = tablero.form.width;
+    section.style.height = tablero.form.width;
+    section.style.backgroundColor = tablero.form.color;
+    section.style.display = tablero.form.display;
+    section.style.borderRadius = tablero.form.borderRadius;
+}
+
+function pulsar() {
+    tablero.pulsar();
+    colocarFigura();
+}
