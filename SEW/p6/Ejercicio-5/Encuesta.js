@@ -4,12 +4,12 @@ class Formulario {
     constructor() {
         this.nombre = "";
         this.apellidos = "";
-        this.edad = 0;
+        this.edad = "";
         this.genero = "";
         this.email = "";
-        this.utilidad = 0;
-        this.eficencia = 0;
-        this.usabilidad = 0;
+        this.utilidad = "";
+        this.eficencia = "";
+        this.usabilidad = "";
         this.recomendar = "";
         this.message = "";
     }
@@ -61,8 +61,35 @@ class Formulario {
         this.usabilidad = $_GET["usabilidad"];
         this.recomendar = $_GET["recomendar"];
         this.message = $_GET["message"];
-        this.cargarMensajes();
-        this.mandarEmail();
+        if (this.comprobarCampos($_GET)) {
+            this.cargarMensajes();
+            this.mandarEmail();
+        } else
+            alert("Campos no válidos");
+    }
+
+    comprobarCampos(b) {
+        if (this.nombre == "")
+            return false;
+        else if (this.apellidos == "")
+            return false;
+        else if (this.edad == "" || parseFloat(this.edad) <= 0)
+            return false;
+        else if (this.genero == "")
+            return false;
+        else if (this.email == "")
+            return false;
+        else if (this.utilidad == "" || parseFloat(this.edad) < 0)
+            return false;
+        else if (this.eficencia == "" || parseFloat(this.edad) < 0)
+            return false;
+        else if (this.usabilidad == "" || parseFloat(this.edad) < 0)
+            return false;
+        else if (this.recomendar == "")
+            return false;
+        else if (this.message == "")
+            return false;
+        return true;
     }
 }
 
