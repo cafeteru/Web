@@ -60,33 +60,29 @@ class Tablero {
         this.tiempoInicial = new Date().getTime();
     }
 
+    colocarFigura() {
+        var section = document.getElementById("form");
+        var top = Math.random() * 300;
+        var left = Math.random() * 1200;
+        this.form.mover(top, left);
+        section.style.backgroundColor = "yellow";
+        section.style.top = this.form.top;
+        section.style.left = this.form.left;
+        section.style.width = this.form.width;
+        section.style.height = this.form.width;
+        section.style.backgroundColor = this.form.color;
+        section.style.display = this.form.display;
+        section.style.borderRadius = this.form.borderRadius;
+    }
+
     pulsar() {
         this.form.display = "none";
         this.calcularTiempo();
         this.tiempoEspera();
+        this.colocarFigura();
+        document.getElementById("tiempoReaccion").innerHTML = this.tiempoFinal + " s";
+        document.getElementById("mejor").innerHTML = this.mejorTiempo + " s";
     }
 }
 
 var tablero = new Tablero();
-
-function colocarFigura() {
-    var section = document.getElementById("form");
-    var top = Math.random() * 300;
-    var left = Math.random() * 1200;
-    tablero.form.mover(top, left);
-    section.style.backgroundColor = "yellow";
-    section.style.top = tablero.form.top;
-    section.style.left = tablero.form.left;
-    section.style.width = tablero.form.width;
-    section.style.height = tablero.form.width;
-    section.style.backgroundColor = tablero.form.color;
-    section.style.display = tablero.form.display;
-    section.style.borderRadius = tablero.form.borderRadius;
-}
-
-function pulsar() {
-    tablero.pulsar();
-    colocarFigura();
-    document.getElementById("tiempoReaccion").innerHTML = tablero.tiempoFinal + " s";
-    document.getElementById("mejor").innerHTML = tablero.mejorTiempo + " s";
-}
