@@ -56,7 +56,7 @@ class Tablero {
     }
 
     tiempoEspera() {
-        setTimeout(this.form = new Forma(), Math.random() * 2000);
+        setTimeout(this.form.crear(), Math.random() * 2000);
         this.tiempoInicial = new Date().getTime();
     }
 
@@ -71,10 +71,8 @@ var tablero = new Tablero();
 
 function colocarFigura() {
     var section = document.getElementById("form");
-    var top = Math.random() * document.body.clientHeight;
-    var left = Math.random() * document.body.clientWidth;
-
-
+    var top = Math.random() * 300;
+    var left = Math.random() * 1200;
     tablero.form.mover(top, left);
     section.style.backgroundColor = "yellow";
     section.style.top = tablero.form.top;
@@ -89,4 +87,6 @@ function colocarFigura() {
 function pulsar() {
     tablero.pulsar();
     colocarFigura();
+    document.getElementById("tiempoReaccion").innerHTML = tablero.tiempoFinal + " s";
+    document.getElementById("mejor").innerHTML = tablero.mejorTiempo + " s";
 }

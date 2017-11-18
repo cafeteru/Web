@@ -4,7 +4,7 @@ html {
     box-sizing: border-box;
 }
 
-/* a=0 b=0 c=1 -> Especificidad = 1 */
+/* a=0 b=0 c=5 -> Especificidad = 5 */
 *,
 *:before,
 *:after {
@@ -103,12 +103,19 @@ main tr:nth-child(2n) {
     background-color: #f2f2f2;
 }
 
+/* a=0 b=0 c=2 -> Especificidad = 2 */
+main div {
+    position: relative;
+}
+
 @media screen and (max-height: 480px) {
+    /* a=0 b=0 c=1 -> Especificidad = 1 */
     body {
         position: static;
         padding-bottom: 0;
     }
 
+    /* a=0 b=0 c=1 -> Especificidad = 1 */
     footer {
         position: static;
     }
