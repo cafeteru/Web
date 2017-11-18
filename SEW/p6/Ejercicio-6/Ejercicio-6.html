@@ -1,25 +1,38 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="author" content="Iván González Mahagamage"/>
     <meta name="description"
           content="Ejercicio 1 de la práctica 06 asignatura Software y Estándares para la Web"/>
-    <meta name="keywords" content="Tarea1,SEW,Práctica04,ejercicio1,Software,Estándares,Web"/>
+    <meta name="keywords" content="Tarea1,SEW,Práctica06,ejercicio6,Software,Estándares,Web"/>
     <title>Práctica 06 | Software y Estándares para la Web</title>
     <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet"/>
     <link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet"/>
     <link rel="icon" type="image/x-icon"
           href="https://unioviedo-my.sharepoint.com/personal/uo239795_uniovi_es/_layouts/15/guestaccess.aspx?docid=1b184fdc380484a7bbdad079aa2a52135&amp;authkey=ATTjsDQ1WDwFg-XqhaEbSF4&amp;e=168190abc0264416a06fc92675ca41aa"/>
-    <link rel="stylesheet" type="text/css" href="Ejercicio1.css">
-    <script src="Cabecera.js"></script>
+    <link rel="stylesheet" type="text/css" href="Ejercicio-6.css">
+    <script src="Ejercicio-6.js"></script>
 </head>
 <body>
-<script src="Titulo1.js"></script>
-<script src="Titulo2.js"></script>
-<script src="Titulo3.js"></script>
-<script src="Titulo4.js"></script>
-<script src="Parrafos.js"></script>
+<header>
+    <h1>Comprueba tus reflejos</h1>
+    <h2>Haz click en las formas tan rapido como puedas</h2>
+</header>
+<main>
+    <table>
+        <tr>
+            <th>Ultimo tiempo de reacción:</th>
+            <th>Mejor tiempo de reacción:</th>
+        </tr>
+        <tr>
+            <td id="tiempoReaccion">0 s</td>
+            <td id="mejor">0 s</td>
+        </tr>
+    </table>
+    <section id="form"></section>
+</main>
+<script src="jugar.js"></script>
 <footer>
     <address>
         <p>Autor: Iván González Mahagamage</p>
