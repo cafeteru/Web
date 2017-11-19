@@ -62,8 +62,8 @@ class Tablero {
 
     colocarFigura() {
         var section = document.getElementById("form");
-        var top = Math.random() * 300;
-        var left = Math.random() * 1200;
+        var top = Math.random() * document.body.clientHeight / 2;
+        var left = Math.random() * document.body.clientWidth;
         this.form.mover(top, left);
         section.style.backgroundColor = "yellow";
         section.style.top = this.form.top;

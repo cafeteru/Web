@@ -81,11 +81,13 @@ footer a:hover {
 }
 
 @media screen and (max-height: 480px) {
+    /* a=0 b=0 c=1 -> Especificidad = 1 */
     body {
         position: static;
         padding-bottom: 0;
     }
 
+    /* a=0 b=0 c=1 -> Especificidad = 1 */
     footer {
         position: static;
     }
