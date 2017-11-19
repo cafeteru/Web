@@ -28,6 +28,7 @@ header a {
     display: block;
 }
 
+/* a=0 b=0 c=2 -> Especificidad =  2*/
 header p {
     color: #fff;
     text-decoration: none;
@@ -36,9 +37,14 @@ header p {
     margin: 0;
 }
 
-/* a=0 b=0 c=3 -> Especificidad =  */
+/* a=0 b=0 c=3 -> Especificidad =  3*/
 header a:hover {
     background-color: #434343;
+}
+
+/* a=0 b=0 c=4 -> Especificidad =  4*/
+header ul li ul a {
+    background-color: black;
 }
 
 /* a=0 b=0 c=3 -> Especificidad = 3 */
@@ -65,18 +71,22 @@ header li ul li ul {
 }
 
 @media screen and (max-width: 600px) {
+    /* a=0 b=0 c=2 -> Especificidad = 2 */
     header ul {
         display: inline;
     }
 
+    /* a=0 b=0 c=3 -> Especificidad =  3*/
     header li ul {
         width: 100%;
     }
 
+    /* a=0 b=0 c=3 -> Especificidad =  3*/
     header li ul {
         position: static;
     }
 
+    /* a=0 b=0 c=5 -> Especificidad =  5*/
     html.can-touch header li:hover > ul {
         display: block;
     }
