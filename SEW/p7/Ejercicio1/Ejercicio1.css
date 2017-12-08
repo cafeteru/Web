@@ -1,0 +1,131 @@
+:root {
+    --colorBodyInit: deepskyblue;
+    --colorBodyEnd: white;
+    --colorMainInit: white;
+    --colorMainEnd: yellow;
+}
+
+/* a=0 b=0 c=1 -> Especificidad = 1 */
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+/* a=0 b=0 c=1 -> Especificidad = 1 */
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+/* a=0 b=0 c=1 -> Especificidad = 1 */
+body {
+    position: relative;
+    margin: 0;
+    padding-bottom: 10em;
+    min-height: 100%;
+    font-family: Ubuntu, Tahoma, sans-serif;
+    color: #000000;
+}
+
+/* a=0 b=0 c=1 -> Especificidad = 1 */
+main {
+    margin: 0 auto;
+    width: 100%;
+    background: -webkit-linear-gradient(var(--colorBodyInit), var(--colorBodyEnd));
+    background: -o-linear-gradient(var(--colorBodyInit), var(--colorBodyEnd));
+    background: -moz-linear-gradient(var(--colorBodyInit), var(--colorBodyEnd));
+    background: linear-gradient(var(--colorBodyInit), var(--colorBodyEnd));
+    padding-bottom: 5%;
+    padding-top: 2%;
+}
+
+/* a=0 b=0 c=1 -> Especificidad = 1 */
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: darkblue;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 50px 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+/* a=0 b=0 c=1 -> Especificidad = 1 */
+footer {
+    padding: 1em 2em;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    font-family: "Titillium Web", serif;
+    color: white;
+    background-color: black;
+}
+
+/* a=0 b=0 c=2 -> Especificidad = 2 */
+footer p {
+    padding: 0;
+    margin: 0;
+}
+
+/* a=0 b=0 c=2 -> Especificidad = 2 */
+footer a {
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+/* a=0 b=0 c=2 -> Especificidad = 2 */
+footer address {
+    padding-left: 0.2em;
+    float: left;
+    width: 80%;
+}
+
+/* a=0 b=0 c=3 -> Especificidad = 3 */
+footer a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+/* a=0 b=0 c=1 -> Especificidad = 1 */
+form {
+    margin: 5% auto 0;
+    width: 50%;
+    padding: 2.5%;
+    background: white;
+    background: -webkit-linear-gradient(var(--colorMainInit), var(--colorMainEnd));
+    background: -o-linear-gradient(var(--colorMainInit), var(--colorMainEnd));
+    background: -moz-linear-gradient(var(--colorMainInit), var(--colorMainEnd));
+    background: linear-gradient(var(--colorMainInit), var(--colorMainEnd));
+    border-radius: 15px;
+}
+
+/* a=0 b=0 c=2 -> Especificidad = 2 */
+form input {
+    border-radius: 15px;
+    color: white;
+    background-color: #3E7C90;
+}
+
+/* a=0 b=1 c=2 -> Especificidad = 12 */
+form input:active {
+    background-color: lawngreen;
+    color: black;
+}
+
+@media screen and (max-height: 480px) {
+    /* a=0 b=0 c=1 -> Especificidad = 1 */
+    body {
+        position: static;
+        padding-bottom: 0;
+    }
+
+    /* a=0 b=0 c=1 -> Especificidad = 1 */
+    footer {
+        position: static;
+    }
+}
