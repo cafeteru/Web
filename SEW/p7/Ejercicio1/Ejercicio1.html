@@ -13,7 +13,6 @@
           href="https://unioviedo-my.sharepoint.com/personal/uo239795_uniovi_es/_layouts/15/guestaccess.aspx?docid=1b184fdc380484a7bbdad079aa2a52135&amp;authkey=ATTjsDQ1WDwFg-XqhaEbSF4&amp;e=168190abc0264416a06fc92675ca41aa"/>
     <link rel="stylesheet" type="text/css" href="Ejercicio1.css"/>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script type="text/javascript" src="Ejercicio1.js"></script>
 </head>
 <body>
 <header>
@@ -21,12 +20,27 @@
 </header>
 <main>
     <form>
-        <label>Mostrar/ocultar elemento</label>
-        <p>
-            <input type="button" value="h1Prueba" id="h1Prueba" onclick="pagina.pulsarBoton('#h1Prueba')"/>
-            <input type="button" value="h2Prueba" id="h2Prueba" onclick="pagina.pulsarBoton('h2Prueba')"/>
-            <input type="button" value="pPrueba" id="pPrueba" onclick="pagina.pulsarBoton('#pPrueba')"/>
+        <label>Tarea 1: Mostrar/ocultar elemento</label>
+        <p id="buttonGroup"></p>
+        <label>Tarea 2 : Modificar contenido html</label>
+        <p>Elemento: <select></select></p>
+        <p>Contenido:
+            <input type="text" id="contenido">
+            <input type="button" value="Modificar" onclick="pagina.modificarContenido()">
         </p>
+        <label>Tarea 3: Añadir elementos html</label>
+        <p>Etiqueta: <input type="text" id="tarea3Etiqueta">
+            Id: <input type="text" id="tarea3Id">
+            Contenido: <input type="text" id="tarea3Contenido">
+            <input type="button" value="Añadir" onclick="pagina.agregarElemento()">
+        </p>
+        <label>Tarea 4: Eliminar elemento html</label>
+        <p>Elemento:
+            <select id="tarea4"></select>
+            <input type="button" value="Eliminar" onclick="pagina.eliminarElemento()">
+        </p>
+        <label>Tarea 5: Mostrar árbol DOM</label>
+        <input type="button" value="Mostrar" onclick="pagina.mostrarDom()">
     </form>
 </main>
 <footer>
@@ -45,5 +59,6 @@
         </a>
     </p>
 </footer>
+<script type="text/javascript" src="Ejercicio1.js"></script>
 </body>
 </html>
