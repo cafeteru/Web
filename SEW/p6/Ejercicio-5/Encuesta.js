@@ -12,6 +12,9 @@ class Formulario {
         this.usabilidad = "";
         this.recomendar = "";
         this.message = "";
+        this.actualizar("utilidad");
+        this.actualizar("eficencia");
+        this.actualizar("usabilidad");
     }
 
     cargarMensajes() {
@@ -68,7 +71,7 @@ class Formulario {
             alert("Campos no válidos");
     }
 
-    comprobarCampos(b) {
+    comprobarCampos() {
         if (this.nombre == "")
             return false;
         else if (this.apellidos == "")
@@ -90,6 +93,12 @@ class Formulario {
         else if (this.message == "")
             return false;
         return true;
+    }
+
+    actualizar(clase) {
+        var range = document.getElementsByClassName(clase);
+        var valor = range[0].value;
+        range[1].value = valor;
     }
 }
 

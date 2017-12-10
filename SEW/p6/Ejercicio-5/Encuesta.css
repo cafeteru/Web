@@ -132,6 +132,11 @@ input[type=submit] {
     font-size: 1.5em;
 }
 
+/* a=0 b=1 c=2 -> Especificidad = 12 */
+input[type=number]:disabled {
+    width: auto;
+}
+
 /* a=0 b=1 c=1 -> Especificidad = 011 */
 input[type=number], input[type=range] {
     width: 50%;

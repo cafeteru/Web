@@ -12,7 +12,6 @@
     <link rel="icon" type="image/x-icon"
           href="https://unioviedo-my.sharepoint.com/personal/uo239795_uniovi_es/_layouts/15/guestaccess.aspx?docid=1b184fdc380484a7bbdad079aa2a52135&amp;authkey=ATTjsDQ1WDwFg-XqhaEbSF4&amp;e=168190abc0264416a06fc92675ca41aa"/>
     <link rel="stylesheet" type="text/css" href="Encuesta.css"/>
-    <script type="text/ecmascript" src="Encuesta.js"></script>
 </head>
 <body>
 <header>
@@ -48,15 +47,21 @@
         <h4>Valore del 1 al 10: </h4>
         <p>
             <label>Utilidad: </label>
-            <input type="range" min="1" max="10" name="utilidad" type="range" required="required"/>
+            <input type="range" min="1" max="10" name="utilidad" class="utilidad" type="range" required="required"
+                   onchange="encuesta.actualizar('utilidad')"/>
+            <input type="number" min="1" max="10" class="utilidad" disabled="true">
         </p>
         <p>
             <label>Eficiencia: </label>
-            <input type="range" min="1" max="10" name="eficencia" type="range" required="required"/>
+            <input type="range" min="1" max="10" name="eficencia" class="eficencia" type="range" required="required"
+                   onchange="encuesta.actualizar('eficencia')"/>
+            <input type="number" min="1" max="10" class="eficencia" disabled="true">l
         </p>
         <p>
             <label>Usabilidad: </label>
-            <input type="range" min="1" max="10" name="usabilidad" type="range" required="required"/>
+            <input type="range" min="1" max="10" name="usabilidad" class="usabilidad" type="range" required="required"
+                   onchange="encuesta.actualizar('usabilidad')"/>
+            <input type="number" min="1" max="10" class="usabilidad" disabled="true">
         </p>
         <p>
             <label>¿La recomendaría?</label>
@@ -91,5 +96,6 @@
         </a>
     </p>
 </footer>
+<script type="text/ecmascript" src="Encuesta.js"></script>
 </body>
 </html>
