@@ -11,6 +11,7 @@ class Tiempo {
             + this.unidades + this.idioma + "&APPID=" + this.apikey;
         this.map = new Map();
         this.cargarDatos();
+
     }
 
     cargarDatos() {
@@ -19,6 +20,8 @@ class Tiempo {
             url: this.url,
             method: 'GET',
             success: function (datos) {
+                $("section").append("<h3>JSON recibido</h3>");
+                $("section").append("<p>" + JSON.stringify(datos, null, 2) + "</p>");
                 tiempo.map.set("Ciudad", datos.name);
                 tiempo.map.set("Pais", datos.sys.country);
                 tiempo.map.set("Latitud", datos.coord.lat);
@@ -29,8 +32,8 @@ class Tiempo {
                 tiempo.map.set("Humedad", datos.main.humidity + " %");
                 tiempo.map.set("Amanece", new Date(datos.sys.sunrise * 1000).toLocaleTimeString());
                 tiempo.map.set("Oscurece", new Date(datos.sys.sunset * 1000).toLocaleTimeString());
-                tiempo.map.set("DireccionViento", datos.wind.deg + "º");
-                tiempo.map.set("VelocidadViento", datos.wind.speed + " m/s");
+                tiempo.map.set("Direccion del viento", datos.wind.deg + "º");
+                tiempo.map.set("Velocidad del viento", datos.wind.speed + " m/s");
                 tiempo.map.set("Hora", new Date(datos.dt * 1000).toLocaleTimeString());
                 tiempo.map.set("Fecha", new Date(datos.dt * 1000).toLocaleDateString());
                 tiempo.map.set("Descripción", datos.weather[0].description);
@@ -44,8 +47,8 @@ class Tiempo {
     }
 
     mostrarDatos() {
-        this.cargarDatos();
         $("section").empty();
+        this.cargarDatos();
         $("section").append("<table>");
         $("table").append("<th scope=\"col\" id=\"parametro\">Parámetro</th>");
         $("table").append("<th scope=\"col\" id=\"valor\">Valor</th>");
@@ -54,6 +57,7 @@ class Tiempo {
             this.añadirTabla(keys[parametro]);
         }
         $("section").append("</table>");
+
     }
 
     añadirTabla(parametro) {
