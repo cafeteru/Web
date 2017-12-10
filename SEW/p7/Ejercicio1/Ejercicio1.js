@@ -67,8 +67,20 @@ class Pagina {
     }
 
     agregarElemento() {
-        this.añadirElemento(new Elemento($("#tarea3Etiqueta").val(), $("#tarea3Id").val(),
-            $("#tarea3Contenido").val()));
+        if(this.comprobarElemento()) {
+            this.añadirElemento(new Elemento($("#tarea3Etiqueta").val(), $("#tarea3Id").val(),
+                $("#tarea3Contenido").val()));
+        } else
+            alert("Id repetido");
+    }
+
+    comprobarElemento() {
+        var id = $("#tarea3Id").val();
+        for (var i = 0; i < this.coleccion.length; i++) {
+            if (this.coleccion[i].id === id)
+                return false;
+        }
+        return true;
     }
 
     eliminarElemento(elemento) {
