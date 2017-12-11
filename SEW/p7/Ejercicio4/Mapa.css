@@ -1,10 +1,3 @@
-:root {
-    --colorBodyInit: deepskyblue;
-    --colorBodyEnd: white;
-    --colorMainInit: white;
-    --colorMainEnd: yellow;
-}
-
 /* a=0 b=0 c=1 -> Especificidad = 1 */
 html {
     height: 100%;
@@ -83,11 +76,6 @@ main input {
 main input:active {
     background-color: lawngreen;
     color: black;
-}
-
-/* a=0 b=0 c=2 -> Especificidad = 2 */
-main section {
-
 }
 
 /* a=0 b=0 c=2 -> Especificidad = 2 */

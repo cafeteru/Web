@@ -47,6 +47,11 @@ h1 {
 }
 
 /* a=0 b=0 c=1 -> Especificidad = 1 */
+h2 {
+    text-align: center;
+}
+
+/* a=0 b=0 c=1 -> Especificidad = 1 */
 footer {
     padding: 1em 2em;
     position: absolute;
@@ -68,18 +73,24 @@ main input {
     border-radius: 15px;
     color: white;
     background-color: #3E7C90;
-    font-size: 200%;
+    font-size: 150%;
+    text-align: center;
+}
+
+/* a=0 b=0 c=2 -> Especificidad = 2 */
+main input:disabled {
+    background-color: gray;
+}
+
+/* a=0 b=0 c=2 -> Especificidad = 2 */
+main label {
+    font-size: 150%;
 }
 
 /* a=0 b=1 c=2 -> Especificidad = 12 */
 main input:active {
     background-color: lawngreen;
     color: black;
-}
-
-/* a=0 b=0 c=2 -> Especificidad = 2 */
-main section {
-
 }
 
 /* a=0 b=0 c=2 -> Especificidad = 2 */

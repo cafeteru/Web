@@ -22,51 +22,52 @@
         <h2>Datos personales:</h2>
         <h4>Nombre:</h4>
         <p>
-            <input type="text" name="nombre" required="required"/>
+            <input type="text" name="nombre" required/>
         </p>
         <h4>Apellidos:</h4>
         <p>
-            <input type="text" name="apellidos" required="required"/>
+            <input type="text" name="apellidos" required/>
         </p>
         <h4>Edad:</h4>
         <p>
-            <input type="number" name="edad" value="18" min="1" max="99" required="required"/>
+            <input type="number" name="edad" value="18" min="1" max="99" required/>
         </p>
         <h4>Sexo:</h4>
         <p>
             <label>Hombre: </label>
-            <input type="radio" name="genero" value="Hombre" checked="checked"/>
+            <input type="radio" name="genero" value="Hombre" checked/>
             <label>Mujer: </label>
             <input type="radio" name="genero" value="Mujer"/>
         </p>
         <h4>Email:</h4>
         <p>
-            <input type="email" name="email" required="required"/>
+            <input type="email" name="email" required/>
         </p>
         <h2>Valoración de la calculadora científica</h2>
         <h4>Valore del 1 al 10: </h4>
         <p>
             <label>Utilidad: </label>
-            <input type="range" min="1" max="10" name="utilidad" class="utilidad" type="range" required="required"
+            <input type="range" min="1" max="10" name="utilidad" class="utilidad"
                    onchange="encuesta.actualizar('utilidad')"/>
-            <input type="number" min="1" max="10" class="utilidad" disabled="true">
+            <input type="number" min="1" max="10" class="utilidad" disabled>
         </p>
         <p>
             <label>Eficiencia: </label>
-            <input type="range" min="1" max="10" name="eficencia" class="eficencia" type="range" required="required"
+            <input type="range" min="1" max="10" name="eficencia" class="eficencia"
                    onchange="encuesta.actualizar('eficencia')"/>
-            <input type="number" min="1" max="10" class="eficencia" disabled="true">l
+            <input type="number" min="1" max="10" class="eficencia" disabled>
         </p>
         <p>
             <label>Usabilidad: </label>
-            <input type="range" min="1" max="10" name="usabilidad" class="usabilidad" type="range" required="required"
+            <input type="range" min="1" max="10" name="usabilidad" class="usabilidad"
                    onchange="encuesta.actualizar('usabilidad')"/>
-            <input type="number" min="1" max="10" class="usabilidad" disabled="true">
+            <input type="number" min="1" max="10" class="usabilidad" disabled>
         </p>
         <p>
             <label>¿La recomendaría?</label>
-            <select name="recomendar" required="required">
-                <option value="si" selected="selected">Si</option>
+            <select name="recomendar" required>
+                <option value="" selected>----</option>
+                <option value="si">Si</option>
                 <option value="no">No</option>
             </select>
         </p>
@@ -74,7 +75,7 @@
             <label>¿Por qué?</label>
         </p>
         <textarea name="message" placeholder="Describa sus razones" rows="8"
-                  required="required"></textarea>
+                  required></textarea>
         <p>
             <input type="submit" value="Enviar cuestionario"/>
         </p>
@@ -96,6 +97,6 @@
         </a>
     </p>
 </footer>
-<script type="text/ecmascript" src="Encuesta.js"></script>
+<script src="Encuesta.js"></script>
 </body>
 </html>

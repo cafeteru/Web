@@ -3,16 +3,16 @@
 class Tiempo {
     constructor() {
         this.apikey = "47b790fd0fc41878c80c57c9846132cb";
-        this.ciudad = "Oviedo";
         this.codigoPais = "ES";
         this.unidades = "&units=metric";
         this.idioma = "&lang=es";
-        this.url = "http://api.openweathermap.org/data/2.5/weather?q=" + this.ciudad + "," + this.codigoPais
-            + this.unidades + this.idioma + "&APPID=" + this.apikey;
         this.map = new Map();
+        $("#mostrar").prop("disabled", true);
     }
 
     cargarDatos() {
+        this.modificarCiudad($("#ciudad").val());
+        $("#mostrar").prop("disabled", false);
         $.ajax({
             dataType: "json",
             url: this.url,
@@ -36,7 +36,7 @@ class Tiempo {
                 tiempo.map.set("Hora", new Date(datos.dt * 1000).toLocaleTimeString());
                 tiempo.map.set("Fecha", new Date(datos.dt * 1000).toLocaleDateString());
                 tiempo.map.set("Descripción", datos.weather[0].description);
-                tiempo.map.set("Visibilidad", datos.visibility+ " m");
+                tiempo.map.set("Visibilidad", datos.visibility + " m");
                 tiempo.map.set("Nubosidad", datos.clouds.all);
             },
             error: function () {
@@ -45,17 +45,22 @@ class Tiempo {
         });
     }
 
+    modificarCiudad(ciudad) {
+        this.ciudad = ciudad;
+        this.url = "http://api.openweathermap.org/data/2.5/weather?q=" + this.ciudad + "," + this.codigoPais
+            + this.unidades + this.idioma + "&APPID=" + this.apikey;
+    }
+
     mostrarDatos() {
-        $("div").empty();
-        this.cargarDatos();
-        $("div").append("<table>");
+        $("section").append("<table>");
         $("table").append("<th scope=\"col\" id=\"parametro\">Parámetro</th>");
         $("table").append("<th scope=\"col\" id=\"valor\">Valor</th>");
         var keys = Array.from(this.map.keys());
         for (var parametro in keys) {
             this.añadirTabla(keys[parametro]);
         }
-        $("div").append("</table>");
+        $("section").append("</table>");
+        $("#mostrar").prop("disabled", true);
     }
 
     añadirTabla(parametro) {

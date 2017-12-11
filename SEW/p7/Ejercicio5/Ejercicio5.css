@@ -25,12 +25,8 @@ body {
 /*noinspection ALL*/
 main {
     margin: 0 auto;
-    padding: 2.5%;
+    padding: 1% 0;
     width: 100%;
-    background: -webkit-linear-gradient(deepskyblue, white);
-    background: -o-linear-gradient(deepskyblue, white);
-    background: -moz-linear-gradient(deepskyblue, white);
-    background: linear-gradient(deepskyblue, white);
 }
 
 /* a=0 b=0 c=1 -> Especificidad = 1 */
@@ -64,22 +60,17 @@ main p {
 }
 
 /* a=0 b=0 c=2 -> Especificidad = 2 */
-main input {
-    border-radius: 15px;
+main button {
     color: white;
-    background-color: #3E7C90;
+    background-color: gray;
     font-size: 200%;
+    width: 33%;
 }
 
 /* a=0 b=1 c=2 -> Especificidad = 12 */
-main input:active {
-    background-color: lawngreen;
-    color: black;
-}
-
-/* a=0 b=0 c=2 -> Especificidad = 2 */
-main section {
-
+main button:active {
+    background-color: black;
+    color: white;
 }
 
 /* a=0 b=0 c=2 -> Especificidad = 2 */
@@ -109,27 +100,16 @@ footer a:hover {
 }
 
 /* a=0 b=0 c=2 -> Especificidad = 2 */
-main table {
-    border-collapse: collapse;
+#barra {
     width: 100%;
+}
+
+textarea, iframe {
+    resize: none;
+    padding: 0;
+    margin: 0;
     background: white;
-}
-
-/* a=0 b=0 c=3 -> Especificidad = 3 */
-main th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: center;
-}
-
-/* a=0 b=0 c=2 -> Especificidad = 2 */
-main th {
-    background-color: #4CAF50;
-}
-
-/* a=0 b=0 c=3 -> Especificidad = 3 */
-main tr:nth-child(2n) {
-    background-color: #f2f2f2;
+    border: 2px solid gray;
 }
 
 @media screen and (max-height: 480px) {

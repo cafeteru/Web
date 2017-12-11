@@ -19,8 +19,8 @@ class Tiempo {
             url: this.url,
             method: 'GET',
             success: function (datos) {
-                $("section").append("<h3>XML recibido</h3>");
-                $("section").append("<p id='xml'></p>");
+                div.append("<h3>XML recibido</h3>");
+                div.append("<p id='xml'></p>");
                 $("#xml").text((new XMLSerializer()).serializeToString(datos));
                 tiempo.map.set("Total de Nodos", $('*', datos).length);
                 tiempo.map.set("Ciudad", $('city', datos).attr("name"));
@@ -68,15 +68,15 @@ class Tiempo {
 
     mostrarDatos() {
         this.cargarDatos();
-        $("section").empty();
-        $("section").append("<table>");
+        div.empty();
+        div.append("<table>");
         $("table").append("<th scope=\"col\" id=\"parametro\">Parámetro</th>");
         $("table").append("<th scope=\"col\" id=\"valor\">Valor</th>");
         var keys = Array.from(this.map.keys());
         for (var parametro in keys) {
             this.añadirTabla(keys[parametro]);
         }
-        $("section").append("</table>");
+        div.append("</table>");
     }
 
     añadirTabla(parametro) {

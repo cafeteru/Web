@@ -4,17 +4,16 @@ class Mapa {
     constructor() {
         this.datos = new Map();
         this.inicializar();
-        var a = $("h1").height();
-        var tamaño = $(window).height() - $("h1").outerHeight( true ) - $("h2").outerHeight( true )
-            - $("footer").outerHeight( true );
+        var tamaño = $(window).height() - $("h1").outerHeight(true) - $("h2").outerHeight(true)
+            - $("footer").outerHeight(true);
         $("main").css("height", "" + tamaño + "px");
     }
 
     inicializar() {
         if (navigator.geolocation) {
-            navigator.geolocation.getCurrentPosition(this.obtener, this.error);
+            navigator.geolocation.getCurrentPosition(this.obtener, this.errores);
         } else {
-            x.innerHTML = "Geolocación no es soportada por navegador.";
+            alert("Geolocación no es soportada por navegador.");
         }
     }
 

@@ -1,10 +1,3 @@
-:root {
-    --colorBodyInit: deepskyblue;
-    --colorBodyEnd: white;
-    --colorMainInit: white;
-    --colorMainEnd: yellow;
-}
-
 /* a=0 b=0 c=1 -> Especificidad = 1 */
 html {
     height: 100%;
@@ -32,10 +25,10 @@ body {
 main {
     margin: 0 auto;
     width: 100%;
-    background: -webkit-linear-gradient(var(--colorBodyInit), var(--colorBodyEnd));
-    background: -o-linear-gradient(var(--colorBodyInit), var(--colorBodyEnd));
-    background: -moz-linear-gradient(var(--colorBodyInit), var(--colorBodyEnd));
-    background: linear-gradient(var(--colorBodyInit), var(--colorBodyEnd));
+    background: -webkit-linear-gradient(deepskyblue, white);
+    background: -o-linear-gradient(deepskyblue, white);
+    background: -moz-linear-gradient(deepskyblue, white);
+    background: linear-gradient(deepskyblue, white);
     padding-bottom: 5%;
     padding-top: 2%;
 }
@@ -97,10 +90,10 @@ form {
     width: 75%;
     padding: 2.5%;
     background: white;
-    background: -webkit-linear-gradient(var(--colorMainInit), var(--colorMainEnd));
-    background: -o-linear-gradient(var(--colorMainInit), var(--colorMainEnd));
-    background: -moz-linear-gradient(var(--colorMainInit), var(--colorMainEnd));
-    background: linear-gradient(var(--colorMainInit), var(--colorMainEnd));
+    background: -webkit-linear-gradient(white, yellow);
+    background: -o-linear-gradient(white, yellow);
+    background: -moz-linear-gradient(white, yellow);
+    background: linear-gradient(white, yellow);
     border-radius: 15px;
 }
 
