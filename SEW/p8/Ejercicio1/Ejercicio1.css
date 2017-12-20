@@ -97,6 +97,22 @@ form {
     border-radius: 15px;
 }
 
+textarea {
+    resize: none;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+input[type=submit] {
+    width: 10%;
+    background-color: lawngreen;
+    color: black;
+}
+
+input[type=submit]:active {
+    background-color: white;
+    color: lawngreen;
+}
 
 @media screen and (max-height: 480px) {
     /* a=0 b=0 c=1 -> Especificidad = 1 */

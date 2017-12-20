@@ -13,10 +13,12 @@ class ArchivoTexto
     {
         try {
             $archivo = fopen($this->nombreArchivo, "a");
+            echo "<script> alert('Archivo " . $this->nombreArchivo . " creado correctamente');</script>";
             if (!$archivo) {
                 fclose($archivo);
-                throw new Exception("No se ha podido crear el archivo.");
+                throw new Exception("No se ha podido crear el archivo" . $this->nombreArchivo);
             }
+            fclose($archivo);
         } catch (Exception $exception) {
             $this->mostrarTraza($exception);
         }
@@ -28,13 +30,12 @@ class ArchivoTexto
         try {
             if (file_exists($this->nombreArchivo)) {
                 $archivo = fopen($this->nombreArchivo, "r");
-                echo "<p>Contenido del archivo " . $this->nombreArchivo . "</p>";
                 $contenido = "";
                 while (!feof($archivo)) {
                     $contenido .= fgets($archivo);
                 }
-                echo "<p>" . $contenido . "</p>";
-            } else throw new Exception('No se puede leer el archivo.');
+                return $contenido;
+            } else throw new Exception('No se puede leer el archivo' . $this->nombreArchivo);
         } catch (Exception $exception) {
             $this->mostrarTraza($exception);
         }
@@ -51,7 +52,7 @@ class ArchivoTexto
                 $contenido = file_get_contents($archivo);
                 $contenido .= $_POST["nuevo"];
                 file_put_contents($archivo, $contenido);
-            } else throw new Exception('No se escribir en el archivo.');
+            } else throw new Exception('No se puede escribir en el archivo' . $this->nombreArchivo);
         } catch (Exception $exception) {
             $this->mostrarTraza($exception);
         }
@@ -65,14 +66,15 @@ class ArchivoTexto
         try {
             if (file_exists($this->nombreArchivo)) {
                 $archivo = fopen($this->nombreArchivo, "w");
-                $contenido = file_get_contents($archivo);
-                $contenido .= $_POST["nuevo"];
+                $original = file_get_contents($archivo);
+                echo "" . $original;
+                $contenido = $_POST["nuevo"];
                 if ($contenido !== false) {
                     file_put_contents($archivo, $contenido);
                 } else {
                     file_put_contents($this->nombreArchivo, $contenido);
                 }
-            } else throw new Exception('No se escribir en el archivo.');
+            } else throw new Exception('No se puede modificar el archivo' . $this->nombreArchivo);
         } catch (Exception $exception) {
             $this->mostrarTraza($exception);
         }
@@ -80,9 +82,26 @@ class ArchivoTexto
             fclose($archivo);
     }
 
+    function eliminarContenido()
+    {
+
+    }
+
+    function eliminarArchivo()
+    {
+        try {
+            $exito = unlink($this->nombreArchivo);
+            if (!$exito) {
+                throw new Exception("No se pudo borrar el archivo" . $this->nombreArchivo);
+            }
+        } catch (Exception $exception) {
+            $this->mostrarTraza($exception);
+        }
+    }
+
     function mostrarTraza($e)
     {
-        echo "<h2>Fallo al crear el archivo</h2>";
+        echo "<h2>Fallo con el archivo" . $this->nombreArchivo . "</h2>";
         echo "<p>" . $e->getMessage() . "</p>";
     }
 }

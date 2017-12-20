@@ -17,14 +17,89 @@
 <header>
     <h1>Ejercicio 1 - Práctica 08 </h1>
 </header>
-<form>
-    <input type="text">
-    <button>Pulsa</button>
-    <?php
-    require_once 'moduloArchivo.php';
-    $objeto = new ArchivoTexto("A");
-    ?>
-</form>
+<main>
+    <form method="POST">
+        <h2>Crear archivo</h2>
+        <section>
+            <label>Nombre del archivo</label>
+            <input type="text" name="crear"/>
+            <input type="submit" value="Pulsa"/>
+        </section>
+        <?php
+        require 'moduloArchivo.php';
+        $objeto;
+        if ($_POST) {
+            if (isset($_POST["crear"]) && "" != $_POST["crear"]) {
+                $objeto = new ArchivoTexto($_POST["crear"]);
+                $objeto->crearArchivo();
+            }
+        }
+        ?>
+    </form>
+    <form method="POST">
+        <h2>Visualizar archivo</h2>
+        <section>
+            <p>
+                <label>Nombre del archivo</label>
+                <input type="text" name="visualizar"/>
+                <input type="submit" value="mostrar"/>
+            </p>
+            <?php
+            if ($_POST) {
+                if (isset($_POST["visualizar"]) && "" != $_POST["visualizar"]) {
+                    $objeto = new ArchivoTexto($_POST["visualizar"]);
+                    $contenido = $objeto->leerArchivo();
+                    echo "<script>alert('" . $contenido . "')</script>";
+                    echo '<textarea disabled="true" rows="10">' . $contenido . '</textarea>';
+                }
+            } ?>
+        </section>
+    </form>
+    <form method="POST">
+        <h2>Añadir a archivo</h2>
+        <section>
+            <p>
+                <label>Nombre del archivo</label>
+                <input type="text" name="añadir"/>
+                <input type="submit" value="Añadir"/>
+            </p>
+            <textarea rows="10"></textarea>
+        </section>
+    </form>
+    <form method="POST">
+        <h2>Modificar información del archivo</h2>
+        <section>
+            <p>
+                <label>Nombre del archivo</label>
+                <input type="text" name="modificar"/>
+                <input type="submit" value="Cargar"/>
+                <input type="submit" value="Modificar"/>
+            </p>
+            <textarea rows="10"></textarea>
+        </section>
+    </form>
+    <form method="POST">
+        <h2>Eliminar información del archivo</h2>
+        <section>
+            <p>
+                <label>Nombre del archivo</label>
+                <input type="text" name="eliminarContenido"/>
+                <input type="submit" value="Cargar"/>
+                <input type="submit" value="Modificar"/>
+            </p>
+            <textarea rows="10"></textarea>
+        </section>
+    </form>
+    <form method="POST">
+        <h2>Eliminar archivo</h2>
+        <section>
+            <label>Nombre del archivo</label>
+            <input type="text" name="eliminar"/>
+            <input type="submit" value="Eliminar"/>
+        </section>
+    </form>
+</main>
+
 <footer>
     <address>
         <p>Autor: Iván González Mahagamage</p>
