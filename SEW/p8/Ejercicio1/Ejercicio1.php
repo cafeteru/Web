@@ -49,10 +49,10 @@
                 if (isset($_POST["visualizar"]) && "" != $_POST["visualizar"]) {
                     $objeto = new ArchivoTexto($_POST["visualizar"]);
                     $contenido = $objeto->leerArchivo();
-                    echo "<script>alert('" . $contenido . "')</script>";
                     echo '<textarea disabled="true" rows="10">' . $contenido . '</textarea>';
                 }
-            } ?>
+            }
+            ?>
         </section>
     </form>
     <form method="POST">
@@ -63,7 +63,15 @@
                 <input type="text" name="añadir"/>
                 <input type="submit" value="Añadir"/>
             </p>
-            <textarea rows="10"></textarea>
+            <textarea rows="10" name="contenido"></textarea>
+            <?php
+            if ($_POST) {
+                if (isset($_POST["añadir"]) && "" != $_POST["añadir"]) {
+                    $objeto = new ArchivoTexto($_POST["añadir"]);
+                    $contenido = $objeto->añadirContenidoArchivo();
+                }
+            }
+            ?>
         </section>
     </form>
     <form method="POST">
@@ -75,7 +83,25 @@
                 <input type="submit" value="Cargar"/>
                 <input type="submit" value="Modificar"/>
             </p>
-            <textarea rows="10"></textarea>
+            <?php
+            if ($_POST) {
+                if (isset($_POST["fila"]) && "" != $_POST["fila"]) {
+                    $objeto = new ArchivoTexto($_POST["nombre"]);
+                    $contenido = $objeto->modificarContenido();
+                } else if (isset($_POST["modificar"]) && "" != $_POST["modificar"]) {
+                    $objeto = new ArchivoTexto($_POST["modificar"]);
+                    $contenido = $objeto->cargarContenidoEnArray();
+                    echo '<p><input type="text" name="nombre" value="' . $_POST["modificar"] . '" readonly="true"/></p>';
+                    echo '<select name="fila">';
+                    $numFila = 0;
+                    foreach ($contenido as $fila) {
+                        echo '<option value=' . $numFila++ . '>' . $fila . '</option>';
+                    }
+                    echo '</select>';
+                    echo ' <input type="text" name="nuevo"/>';
+                }
+            }
+            ?>
         </section>
     </form>
     <form method="POST">
@@ -83,11 +109,29 @@
         <section>
             <p>
                 <label>Nombre del archivo</label>
-                <input type="text" name="eliminarContenido"/>
+                <input type="text" name="modificar"/>
                 <input type="submit" value="Cargar"/>
-                <input type="submit" value="Modificar"/>
+                <input type="submit" value="Eliminar"/>
             </p>
-            <textarea rows="10"></textarea>
+            <?php
+            if ($_POST) {
+                if (isset($_POST["fila"]) && "" != $_POST["fila"]) {
+                    $objeto = new ArchivoTexto($_POST["nombre"]);
+                    $contenido = $objeto->eliminarContenido();
+                } else if (isset($_POST["modificar"]) && "" != $_POST["modificar"]) {
+                    $objeto = new ArchivoTexto($_POST["modificar"]);
+                    $contenido = $objeto->cargarContenidoEnArray();
+                    echo '<p><input type="text" name="nombre" value="' . $_POST["modificar"] . '" readonly="true"/></p>';
+                    echo '<select name="fila">';
+                    $numFila = 0;
+                    foreach ($contenido as $fila) {
+                        echo '<option value=' . $numFila++ . '>' . $fila . '</option>';
+                    }
+                    echo '</select>';
+                    echo ' <input type="text" name="nuevo"/>';
+                }
+            }
+            ?>
         </section>
     </form>
     <form method="POST">
@@ -96,6 +140,12 @@
             <label>Nombre del archivo</label>
             <input type="text" name="eliminar"/>
             <input type="submit" value="Eliminar"/>
+            <?php if ($_POST) {
+                if (isset($_POST["eliminar"]) && "" != $_POST["eliminar"]) {
+                    $objeto = new ArchivoTexto($_POST["eliminar"]);
+                    $objeto->eliminarArchivo();
+                }
+            } ?>
         </section>
     </form>
 </main>

@@ -1,32 +1,33 @@
 body {
-      font: 400 Tahoma, sans-serif;
-      color: #262522;
-      background-color: #f6f6f6;
+    font: 400 Tahoma, sans-serif;
+    color: #262522;
+    background-color: #f6f6f6;
 }
+
 h1 {
     color: #fff;
-    background-color:#FF5733;   
+    background-color: #FF5733;
     text-transform: uppercase;
     padding: 1.5em;
-    text-align: center;     
+    text-align: center;
 }
 
-ul li{
-    list-style: square;   
+ul li {
+    list-style: square;
 }
 
-a:link{
-    color:#403E39;
-}
-a:visited{ 
-    color:#818181;
+a:link {
+    color: #403E39;
 }
 
+a:visited {
+    color: #818181;
+}
 
-footer{
+footer {
     color: #fff;
-    background-color:#818181; 
-    margin-top:2em;
+    background-color: #818181;
+    margin-top: 2em;
     padding: 1em 0em;
 }
 
