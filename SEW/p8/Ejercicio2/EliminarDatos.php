@@ -18,13 +18,38 @@
     <h1>Ejercicio 2 - Práctica 08 </h1>
 </header>
 <main>
-    <section>
-        <p><a href="CrearBaseDatos.php">Crear Base de Datos</a></p>
-        <p><a href="CrearTabla.php">Crear una tabla</a></p>
-        <p><a href="InsertarDatos.php">Insertar datos en una tabla</a></p>
-        <p><a href="BuscarDatos.php">Buscar datos en una tabla</a></p>
-        <p><a href="EliminarDatos.php">Eliminar datos de una tabla</a></p>
-    </section>
+    <form method="POST">
+        <p>
+            <label>Parametro:</label>
+            <select name="parametro">
+                <option value="heroe_id">Nombre</option>
+                <option value="introduccion">Descripción</option>
+                <option value="universo">Universo</option>
+                <option value="tipo">Tipo</option>
+                <option value="montura_caballo">Montura</option>
+                <option value="precio_monedas">Monedas</option>
+                <option value="precio_real">Euros</option>
+            </select>
+        </p>
+        <p>
+            <label>Valor:</label>
+            <input type="text" name="valor"/>
+        </p>
+        <input type="submit" value="Borrar"/>
+        <?php
+        require 'Conexion.php';
+        $db->select_db("heroes");
+        if ($_POST) {
+            $cadena = "DELETE FROM heroe WHERE " . $_POST["parametro"] . " LIKE ?";
+            $consultaPre = $db->prepare($cadena);
+            $consultaPre->bind_param('s',
+                $_POST["valor"]);
+            $consultaPre->execute();
+            $consultaPre->close();
+        }
+        $db->close();
+        ?>
+    </form>
 </main>
 <footer>
     <address>

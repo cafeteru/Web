@@ -18,13 +18,37 @@
     <h1>Ejercicio 2 - Práctica 08 </h1>
 </header>
 <main>
-    <section>
-        <p><a href="CrearBaseDatos.php">Crear Base de Datos</a></p>
-        <p><a href="CrearTabla.php">Crear una tabla</a></p>
-        <p><a href="InsertarDatos.php">Insertar datos en una tabla</a></p>
-        <p><a href="BuscarDatos.php">Buscar datos en una tabla</a></p>
-        <p><a href="EliminarDatos.php">Eliminar datos de una tabla</a></p>
-    </section>
+    <form>
+        <?php
+        require 'Conexion.php';
+        $db->select_db("heroes");
+
+        $crearTabla = "create table IF NOT EXISTS heroe(
+                        heroe_id varchar(50) not null,
+                        introduccion varchar(800) not null,
+                        universo varchar(25) not null,
+                        tipo varchar(15) not null,
+                        montura_caballo numeric,
+                        precio_monedas numeric,
+                        precio_real float,
+                        constraint heroe_pk primary key(heroe_id),
+                        constraint universo_ck check(universo in('Starcraft','Warcraft','Diablo','Blizzard','Overwatch')),
+                        constraint tipo_ck check(tipo in('Asesino','Apoyo','Guerrero','Especialista')),
+                        constraint heroe_precio_monedas_ck Check(precio_monedas >= 0 AND precio_monedas <= 15000),
+                        constraint heroe_precio_real_ck Check(precio_real >= 0.0 AND precio_real <= 20.0),
+                        Constraint heroe_montura_ck Check(montura_caballo >= 0 and montura_caballo <= 2)
+                        );";
+
+
+        if ($db->query($crearTabla) === TRUE) {
+            echo "<p>Tabla heroe creada con éxito (o ya existe)</p>";
+        } else {
+            echo "<p>ERROR en la creación de la tabla heroe</p>";
+            exit();
+        }
+        $db->close();
+        ?>
+    </form>
 </main>
 <footer>
     <address>

@@ -18,13 +18,20 @@
     <h1>Ejercicio 2 - Práctica 08 </h1>
 </header>
 <main>
-    <section>
-        <p><a href="CrearBaseDatos.php">Crear Base de Datos</a></p>
-        <p><a href="CrearTabla.php">Crear una tabla</a></p>
-        <p><a href="InsertarDatos.php">Insertar datos en una tabla</a></p>
-        <p><a href="BuscarDatos.php">Buscar datos en una tabla</a></p>
-        <p><a href="EliminarDatos.php">Eliminar datos de una tabla</a></p>
-    </section>
+    <form method="POST">
+        <?php
+        require 'Conexion.php';
+
+        $cadenaSQL = "CREATE DATABASE IF NOT EXISTS heroes COLLATE utf8_spanish_ci";
+        if ($db->query($cadenaSQL) === TRUE) {
+            echo "<h2>Base de datos heroes creada con éxito (o ya existe)</h2>";
+        } else {
+            echo "<h2>ERROR en la creación de la Base de Datos heroes</h2>";
+            exit();
+        }
+        $db->close();
+        ?>
+    </form>
 </main>
 <footer>
     <address>
