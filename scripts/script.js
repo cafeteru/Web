@@ -1,11 +1,12 @@
 $(document).ready(function () {
-    agregarNavFooter();
+    addNavFooter();
 });
 
-function agregarNavFooter() {
-    var url = window.location.href.toString();
-    var header = $("header");
-    var aux = "";
+function addNavFooter() {
+    let url = window.location.href.toString();
+    let header = $("header");
+    let aux = "";
+    console.log(url.split("SEW").length)
     header.append("<nav></nav>");
     if (url.indexOf("Tarea") >= 0) {
         aux = "../../../../";
@@ -13,7 +14,7 @@ function agregarNavFooter() {
     } else if (url.indexOf("Ejercicio") >= 0) {
         aux = "../../../";
         header.find("nav").load(aux + "template/menuSEWEjercicio.html");
-    } else if (url.indexOf("SEW") > 0) {
+    } else if (url.indexOf("SEW") >= 0) {
         aux = "../../";
         header.find("nav").load(aux + "template/menuSEW.html");
     } else {
