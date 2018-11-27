@@ -2,7 +2,7 @@
 
 class Tiempo {
     constructor() {
-        this.apikey = "47b790fd0fc41878c80c57c9846132cb";
+        this.apikey = "76f930f74c5541522f0143430bceb0ca";
         this.ciudad = "Oviedo";
         this.tipo = "&mode=xml";
         this.unidades = "&units=metric";

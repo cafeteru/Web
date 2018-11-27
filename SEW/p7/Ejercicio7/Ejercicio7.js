@@ -18,10 +18,10 @@ class Tiempo {
             url: this.url,
             method: 'GET',
             success: function (datos) {
-                $("#tiempo").empty();
+                $("#weather").empty();
                 $("#mapa").empty();
-                $("#tiempo").prepend("<p>" + JSON.stringify(datos, null, 2) + "</p>");
-                $("#tiempo").prepend("<h3>JSON recibido</h3>");
+                $("#weather").prepend("<p>" + JSON.stringify(datos, null, 2) + "</p>");
+                $("#weather").prepend("<h3>JSON recibido</h3>");
                 tiempo.map.set("Ciudad", datos.name);
                 tiempo.map.set("Pais", datos.sys.country);
                 tiempo.map.set("Latitud", datos.coord.lat);
@@ -54,8 +54,8 @@ class Tiempo {
     }
 
     mostrarDatos() {
-        $("#tiempo").empty();
-        $("#tiempo").append("<table>");
+        $("#weather").empty();
+        $("#weather").append("<table>");
         $("table").append("<th scope=\"col\" id=\"parametro\">Parámetro</th>");
         $("table").append("<th scope=\"col\" id=\"valor\">Valor</th>");
         var keys = Array.from(this.map.keys());
