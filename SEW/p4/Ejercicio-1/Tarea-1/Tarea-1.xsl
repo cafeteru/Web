@@ -16,8 +16,8 @@
                 <link rel="stylesheet" type="text/css" href="../../../../style/navDesplegable.css"/>
                 <link rel="stylesheet" type="text/css" href="../../../../style/style.css"/>
                 <link rel="stylesheet" type="text/css" href="../../../../style/practica04.css"/>
-                <script type="text/javascript" src="../../../../scripts/jquery.js"></script>
-                <script type="text/javascript" src="../../../../scripts/script.js"></script>
+                <script type="text/javascript" src="../../../../scripts/jquery.js"/>
+                <script type="text/javascript" src="../../../../scripts/script.js"/>
             </head>
             <body>
                 <header>
