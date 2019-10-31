@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="uo239795" xmlns="uo239795"
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="uo239795" xmlns="uo239795"
            elementFormDefault="qualified">
     <xs:element name="articulos">
         <xs:complexType>
