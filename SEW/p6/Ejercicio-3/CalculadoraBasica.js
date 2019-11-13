@@ -9,7 +9,7 @@ class Calculadora {
     }
 
     actualizarPantalla() {
-        var p = document.getElementById("pantalla");
+        let p = document.getElementById("pantalla");
         p.value = this.pantalla;
     }
 
@@ -18,7 +18,7 @@ class Calculadora {
             this.limpiarResultado();
             this.pantalla = digito;
         }
-        else if (this.pantalla == "0") {
+        else if (this.pantalla === "0") {
             this.pantalla = digito;
         }
         else {
@@ -60,6 +60,7 @@ class Calculadora {
         this.pantalla = eval(this.memoriaActual);
         this.actualizarPantalla();
         this.esResultado = true;
+        this.memoriaActual = 0;
     }
 
     memoriaMas() {
@@ -81,4 +82,4 @@ class Calculadora {
     }
 }
 
-var calculadora = new Calculadora();
+let calculadora = new Calculadora();
