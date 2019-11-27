@@ -56,7 +56,7 @@ class Pagina {
     }
 
     modificarContenido() {
-        var id = $("select option:selected").text();
+        var id = $("#modificar option:selected").text();
         for (var i = 0; i < this.coleccion.length; i++) {
             if (this.coleccion[i].id === id) {
                 this.coleccion.valor = $("#contenido").val();
