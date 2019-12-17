@@ -21,13 +21,19 @@
     <form method="POST">
         <h2>Crear archivo</h2>
         <section>
-            <label>Nombre del archivo</label>
-            <input type="text" name="crear"/>
-            <input type="submit" value="Pulsa"/>
+            <p>
+                <label for="crear">Nombre del archivo</label>
+            </p>
+            <p>
+                <input type="text" id="crear" name="crear"/>
+            </p>
+            <p>
+                <input type="submit" value="Pulsa"/>
+            </p>
         </section>
         <?php
         require 'moduloArchivo.php';
-        $objeto;
+        $objeto = null;
         if ($_POST) {
             if (isset($_POST["crear"]) && "" != $_POST["crear"]) {
                 $objeto = new ArchivoTexto($_POST["crear"]);
@@ -40,9 +46,11 @@
         <h2>Visualizar archivo</h2>
         <section>
             <p>
-                <label>Nombre del archivo</label>
-                <input type="text" name="visualizar"/>
-                <input type="submit" value="mostrar"/>
+                <label>Nombre del archivo (Solo admite extension .txt)</label>
+            </p>
+            <input type="file" name="visualizar" accept=".txt"/>
+            <p>
+                <input type="submit" value="Mostrar"/>
             </p>
             <?php
             if ($_POST) {
@@ -60,10 +68,11 @@
         <section>
             <p>
                 <label>Nombre del archivo</label>
-                <input type="text" name="añadir"/>
-                <input type="submit" value="Añadir"/>
+                <input type="file" name="añadir" accept=".txt"/>
             </p>
+            <label>Contenido a añadir</label>
             <textarea rows="10" name="contenido"></textarea>
+            <input type="submit" value="Añadir"/>
             <?php
             if ($_POST) {
                 if (isset($_POST["añadir"]) && "" != $_POST["añadir"]) {
@@ -79,7 +88,7 @@
         <section>
             <p>
                 <label>Nombre del archivo</label>
-                <input type="text" name="modificar"/>
+                <input type="file" name="modificar"/>
                 <input type="submit" value="Cargar"/>
                 <input type="submit" value="Modificar"/>
             </p>
@@ -109,7 +118,7 @@
         <section>
             <p>
                 <label>Nombre del archivo</label>
-                <input type="text" name="modificar"/>
+                <input type="file" name="modificar"/>
                 <input type="submit" value="Cargar"/>
                 <input type="submit" value="Eliminar"/>
             </p>

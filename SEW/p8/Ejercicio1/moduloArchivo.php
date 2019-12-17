@@ -32,7 +32,7 @@ class ArchivoTexto
                 $archivo = fopen($this->nombreArchivo, "r");
                 $contenido = "";
                 while (!feof($archivo)) {
-                    $contenido .= fPOSTs($archivo);
+                    $contenido .= fgets($archivo);
                 }
                 if (!$archivo)
                     fclose($archivo);
@@ -41,7 +41,7 @@ class ArchivoTexto
         } catch (Exception $exception) {
             $this->mostrarTraza($exception);
         }
-
+        return null;
     }
 
     function añadirContenidoArchivo()
@@ -133,7 +133,7 @@ class ArchivoTexto
             $exito = unlink($this->nombreArchivo);
             if (!$exito) {
                 throw new Exception("No se pudo borrar el archivo" . $this->nombreArchivo);
-            } else{
+            } else {
                 echo "<script> alert('Archivo " . $this->nombreArchivo . " borrado correctamente');</script>";
             }
         } catch (Exception $exception) {
