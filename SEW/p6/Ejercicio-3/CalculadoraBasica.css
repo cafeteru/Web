@@ -130,13 +130,13 @@ form input[type=text] {
     color: #3E7C90;
 }
 
-/* a=1 b=0 c=1 -> Especificidad = 100 */
+/* a=1 b=0 c=0 -> Especificidad = 100 */
 .number {
     color: white;
     background-color: #3E7C90;
 }
 
-/* a=1 b=0 c=1 -> Especificidad = 100 */
+/* a=1 b=0 c=0 -> Especificidad = 100 */
 .memory {
     background-color: #364D62;
     color: white;
